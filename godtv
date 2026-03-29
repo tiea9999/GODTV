@@ -1,0 +1,1266 @@
+<div id="main-content"><!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=1280" />
+  <title>GODTV</title>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: black;
+      font-family: 'Noto Sans Thai', sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Header -->
+  
+
+  <!-- Main Content -->
+  <main class="pt-8 pb-8">
+    <div class="container mx-auto px-6">
+      <div class="flex gap-8">
+
+        <!-- Left Sidebar - Category Menu -->
+        <aside class="w-64 flex-shrink-0">
+          <div class="bg-gray-900 rounded-lg p-6">
+            <h2 class="text-white text-xl font-bold mb-6">หมวดหมู่</h2>
+            <nav class="space-y-4">
+
+              <!-- Main Category: Thai -->
+              <div class="category-group">
+                <button class="w-full text-left text-pink-400 hover:text-pink-300 transition-colors py-2 px-3 rounded bg-pink-600/20 flex items-center justify-between" onclick="toggleCategory('thai')">
+                  <span><i class="fa-solid fa-flag mr-3"></i>ไทย</span>
+                  <i class="fa-solid fa-chevron-down text-xs" id="thai-arrow"></i>
+                </button>
+                <div class="ml-6 mt-2 space-y-2" id="thai-subcategories">
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=4&type=7" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-regular fa-futbol mr-2"></i>กีฬา
+                  </a>
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=4&type=1" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-solid fa-satellite-dish mr-2"></i>ดิจิตอลทีวี
+                  </a>
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=4&type=2" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-solid fa-play mr-2"></i>การ์ตูน
+                  </a>
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=4&type=3" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-solid fa-fish mr-2"></i>สารคดี
+                  </a>
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=4&type=4" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-solid fa-film mr-2"></i>บันเทิง
+                  </a>
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=4&type=6" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-solid fa-newspaper mr-2"></i>ข่าว
+                  </a>
+                </div>
+              </div>
+
+              <!-- Main Category: Foreign -->
+              <div class="category-group">
+                <button class="w-full text-left text-pink-400 hover:text-pink-300 transition-colors py-2 px-3 rounded bg-pink-600/20 flex items-center justify-between" onclick="toggleCategory('foreign')">
+                  <span><i class="fa-solid fa-globe mr-3"></i>ต่างประเทศ</span>
+                  <i class="fa-solid fa-chevron-right text-xs" id="foreign-arrow"></i>
+                </button>
+                <div class="ml-6 mt-2 space-y-2" id="foreign-subcategories">
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=90&type=1" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-regular fa-futbol mr-2"></i>กีฬา
+                  </a>
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=90&type=2" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-solid fa-film mr-2"></i>บันเทิง
+                  </a>
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=90&type=3" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-solid fa-play mr-2"></i>การ์ตูน
+                  </a>
+                  <a href="#" data-godtv-url="https://godtv.vip/live?fid=90&type=4" class="godtv-link block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm" class="block text-gray-400 hover:text-white hover:bg-gray-800 transition-colors py-1 px-3 rounded text-sm">
+                    <i class="fa-solid fa-newspaper mr-2"></i>ข่าว
+                  </a>
+                </div>
+              </div>
+
+            </nav>
+          </div>
+        </aside>
+
+        <!-- Right Content - Movie Grid -->
+        <section class="flex-1">
+          <section class="flex-1 flex items-center justify-center">
+            <div id="player"></div>
+          </section>
+          <div id="eps"></div>
+          <!-- 5x3 Grid -->
+          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                            <a href="#" onclick="openModal(82290); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830165328Mono1.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Monomax 1</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(82079); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830165343Mono2.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Monomax 2</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(82044); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830165408Mono3.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Monomax 3</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(81912); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830165433Mono4.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Monomax 4</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(81779); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830165451Mono5.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Monomax 5</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(81741); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830165513Mono6.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Monomax 6</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(81639); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830165536Mono7.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Monomax 7</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(81611); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830165621Mono8.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Monomax 8</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7424); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418192615Bein1.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 1</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7423); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418192624Bein2.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 2</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7422); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418192653Bein3.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 3</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7421); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418192706Bein4.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 4</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7420); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418192717Bein5.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 5</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7419); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418192728Bein6.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 6</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7418); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418195754Bein7.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 7</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7417); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240831143535Bein8.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 8</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7416); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240831143312Bein9.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 9</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7415); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240831143640Bein10.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">beIN SPORTS 10</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(7203); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240627213543Glof1.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Golf Channel</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2892); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418192933TrueSport1.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Sport 1</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2891); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418192951TrueSport2.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Sport 2</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2890); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418193002TrueSport3.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Sport 3</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2889); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418193017TrueSport4.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Sport 4</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2888); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418193030TrueSport5.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Sport 5</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2829); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418193050TrueSport7.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Sport 7</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2101); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418193113Tennis.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Tennis</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2027); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418193126SPOTV.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">SPOTV1</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2023); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418193135SPOTV2.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">SPOTV2</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2018); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/1763868082_0011fc8de4e840e06ced.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Premier HD 3</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(2017); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830205132Premier_Football4.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">True Premier HD 4</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1498); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250830191812Wsport.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">W-sport</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1495); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904190235Monomax1.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 1</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1494); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904190145Monomax2.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 2</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1493); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904190017Monomax3.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 3</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1492); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904185727Monomax4.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 4</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1491); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904185628Monomax5.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 5</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1490); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904185435Monomax6.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 6</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1489); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904185314Monomax7.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 7</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1488); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904184956Monomax8.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 8</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1487); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904185026Monomax9.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 9</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1486); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250904184605Monomax10.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Mono MAX 10</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1389); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240831141352TrueBallThai1.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Ball Thai 1</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1373); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240418193701RedBull.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">RED BULL</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1368); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240519111216Eurosport1.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Eurosport</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1260); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/1773406615_8a171eb7717620c0610d.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">BG Sports 1</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1259); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/1773406636_4cbce03dfdfc4be64d34.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">BG Sports 2</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1258); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/1773406652_9c20feaa48661cb1979c.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">BG Sports 3</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1257); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/1773406711_c80e7195ee41974a7013.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">BG Sports 4</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1239); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250419153707MUTV.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">MUTV</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(1231); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20250903090211Realmardridtv.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">Realmadrid TV</h3>
+                  </div>
+                </a>
+                            <a href="#" onclick="openModal(24); return false;">
+                  <div class="group cursor-pointer">
+                    <div class="relative overflow-hidden rounded-lg mb-3">
+                      <img src="https://www.fileinwtv.site/postor/20240420164808ถิ่นใต้.jpg"
+                        class="w-full h-36 object-cover group-hover:scale-105 transition-transform duration-300">
+                      <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+                    <!-- Play button overlay -->
+                      <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <div class="bg-pink-600 rounded-full p-3">
+                          <i class="fa-solid fa-play text-white text-xl"></i>
+                        </div>
+                      </div>
+                    </div>
+                    <h3 class="text-white text-sm font-medium">ถิ่นใต้ IPTV</h3>
+                  </div>
+                </a>
+                      </div>
+        </section>
+
+      </div>
+    </div>
+  </main>
+  <script type="text/javascript" src="https://godtv.vip/js/jwplayer.js"></script>
+    <script type="text/javascript">
+        jwplayer.key = "eNFaXCjyURVoCCGiHp7HTQ3hDhE/AfL0g8VE1fRbL84=";
+    </script>
+  <!-- <link href="//vjs.zencdn.net/8.23.4/video-js.min.css" rel="stylesheet" />
+  <script src="//vjs.zencdn.net/8.23.4/video.min.js"></script> -->
+  <script>
+    function toggleCategory(categoryName) {
+      const subcategories = document.getElementById(categoryName + '-subcategories');
+      const arrow = document.getElementById(categoryName + '-arrow');
+      const button = arrow.parentElement;
+
+      if (subcategories.classList.contains('hidden')) {
+        // Show subcategories
+        subcategories.classList.remove('hidden');
+        arrow.classList.remove('fa-chevron-right');
+        arrow.classList.add('fa-chevron-down');
+
+        // Update button styles for active state
+        button.classList.remove('text-gray-300', 'hover:bg-gray-800');
+        button.classList.add('text-red-400', 'bg-red-600/20');
+      } else {
+        // Hide subcategories
+        subcategories.classList.add('hidden');
+        arrow.classList.remove('fa-chevron-down');
+        arrow.classList.add('fa-chevron-right');
+
+        // Update button styles for inactive state
+        button.classList.remove('text-red-400', 'bg-red-600/20');
+        button.classList.add('text-gray-300', 'hover:bg-gray-800');
+      }
+    }
+
+    function Play(id) {
+            fetch('https://godtv.vip/play?id=' + encodeURIComponent(id))
+                .then(response => response.json())
+                .then(data => {
+                  document.getElementById('eps').innerHTML = data.ep;
+                    document.getElementById('player').innerHTML = '';
+                    jwplayer("player").setup({
+                        file: data.file,
+                        width: "640",
+                        aspectratio: "16:9",
+                        autostart: true,
+                        stretching: "uniform",
+                        primary: "html5"
+                    });
+
+                    document.getElementById('player').scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+
+                })
+                .catch(err => console.error(err));
+        }
+        
+    function PlayEP(id) {
+            fetch('https://godtv.vip/play/ep?id=' + encodeURIComponent(id))
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('player').innerHTML = '';
+                    jwplayer("player").setup({
+                        file: data.file,
+                        width: "640",
+                        aspectratio: "16:9",
+                        autostart: true,
+                        stretching: "uniform",
+                        primary: "html5"
+                    });
+
+                    document.getElementById('player').scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+
+                })
+                .catch(err => console.error(err));
+        }
+    // function Play(id) {
+    //   fetch('https://godtv.vip/play?id=' + encodeURIComponent(id))
+    //     .then(response => response.text())
+    //     .then(html => {
+    //       const player = document.getElementById('player');
+    //       player.innerHTML = html;
+    //       player.scrollIntoView({
+    //         behavior: 'smooth',
+    //         block: 'start'
+    //       });
+    //       if (window.videojs) {
+    //         videojs(player.querySelector('video')).ready(function() {
+    //           console.log('Video.js ready');
+    //         });
+    //       }
+    //     })
+    //     .catch(err => console.error(err));
+    // }
+
+    // function PlayEP(id) {
+    //   fetch('https://godtv.vip/play/ep?id=' + encodeURIComponent(id))
+    //     .then(response => response.json())
+    //     .then(data => {
+    //       const playerElement = document.querySelector('#player video');
+
+    //       if (window.videojs && playerElement) {
+    //         const player = videojs(playerElement);
+    //         player.src({
+    //           src: data.video_url,
+    //           type: 'application/x-mpegURL'
+    //         });
+
+    //         player.play();
+    //         player.scrollIntoView({
+    //           behavior: 'smooth',
+    //           block: 'start'
+    //         });
+    //       } else {
+    //         console.warn('Video.js player not create');
+    //       }
+    //     })
+    //     .catch(err => console.error(err));
+    // }
+  </script>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"064edca22f3d46409a3ba97d25b23dc5","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html></div>
+<style>
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.8);
+    justify-content: center;
+    align-items: center;
+}
+.modal-content {
+    position: relative;
+    background-color: #000;
+    padding: 0;
+    width: 80%;
+    height: 80%;
+    overflow: auto;
+}
+.close {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    cursor: pointer;
+    z-index: 10000;
+}
+.close:hover {
+    color: #f00;
+}
+#modal-body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+#my-video, video {
+    width: 100% !important;
+    height: 70vh !important;
+    max-height: 100%;
+    object-fit: contain;
+}
+#modal-body .grid {
+    margin-top: 20px;
+    padding: 0 20px 20px 20px;
+}
+</style>
+
+<div id="myModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">×</span>
+        <div id="modal-body">Loading...</div>
+    </div>
+</div>
+
+<script>
+function openModal(id) {
+    document.getElementById("myModal").style.display = "flex";
+    document.getElementById("modal-body").innerHTML = "Loading...";
+
+    // ใช้ AJAX ดึงข้อมูล
+    fetch("?id=" + id + "&ajax=1")
+        .then(response => response.text())
+        .then(data => {
+            try {
+                var json = JSON.parse(data);
+                var html = "";
+                var videoUrl = json.file || json.video_url || json.url;
+                
+                if (videoUrl) {
+                    html += '<video id="my-video" controls autoplay playsinline style="width:100%; height:100%; object-fit:contain;">\n';
+                    html += '  <source src="' + videoUrl + '" type="application/x-mpegURL">\n';
+                    html += '</video>\n';
+                }
+                
+                // หา HTML สำหรับตอน (EPs) จากทุก property ที่มี
+                for (var key in json) {
+                    if (typeof json[key] === "string" && (json[key].indexOf("<div") !== -1 || json[key].indexOf("<button") !== -1)) {
+                        html += json[key];
+                    }
+                }
+                
+                document.getElementById("modal-body").innerHTML = html;
+            } catch (e) {
+                document.getElementById("modal-body").innerHTML = data;
+            }
+
+            // เล่นวิดีโออัตโนมัติ
+            var video = document.querySelector("#modal-body video");
+            if (video) {
+                video.play().catch(e => console.log("Play error:", e));
+            }
+        })
+        .catch(error => {
+            document.getElementById("modal-body").innerHTML = "Error: " + error;
+        });
+}
+
+function loadEpisode(id) {
+    // PlayEP return JSON เท่านั้น ให้เปลี่ยนแค่ URL ของวิดีโอ
+    fetch("?ep=" + id + "&ajax=1")
+        .then(response => response.json())
+        .then(data => {
+            var url = data.file || data.video_url || data.url;
+            if (data.status === "ok" && url) {
+                // หา video element
+                var videoElement = document.querySelector("#modal-body video, #modal-body #my-video");
+
+                if (videoElement) {
+                    // เปลี่ยน src ของ video
+                    videoElement.src = url;
+                    videoElement.load();
+                    videoElement.play().catch(e => console.log("Play error:", e));
+                } else {
+                    // ถ้าไม่มีสร้างใหม่ไว้แทรก
+                    var html = '<video id="my-video" controls autoplay playsinline style="width:100%; height:100%; object-fit:contain;">';
+                    html += '<source src="' + url + '" type="application/x-mpegURL">';
+                    html += '</video>';
+                    document.getElementById("modal-body").insertAdjacentHTML('afterbegin', html);
+                }
+            }
+        })
+        .catch(error => {
+            console.error("Error loading episode:", error);
+        });
+}
+
+function closeModal() {
+    // หยุดวิดีโอทั้งหมด
+    var modalBody = document.getElementById("modal-body");
+
+    // หยุด HTML5 video elements
+    var videos = modalBody.querySelectorAll("video");
+    videos.forEach(function(video) {
+        video.pause();
+        video.currentTime = 0;
+        video.src = "";
+    });
+
+    // หยุด iframes (YouTube, Vimeo, etc.)
+    var iframes = modalBody.querySelectorAll("iframe");
+    iframes.forEach(function(iframe) {
+        iframe.src = iframe.src; // reload iframe to stop playback
+    });
+
+    // ลบเนื้อหาทั้งหมดใน modal
+    modalBody.innerHTML = "Loading...";
+
+    // ปิด modal
+    document.getElementById("myModal").style.display = "none";
+}
+
+// ปิด modal เมื่อกดข้างนอก
+window.onclick = function(event) {
+    var modal = document.getElementById("myModal");
+    if (event.target == modal) {
+        closeModal();
+    }
+}
+
+// ปิด modal เมื่อกด ESC
+document.addEventListener("keydown", function(event) {
+    if (event.key === "Escape") {
+        closeModal();
+    }
+});
+
+// จัดการ link ที่เป็น godtv.vip
+document.addEventListener("click", function(event) {
+    if (event.target.closest(".godtv-link")) {
+        event.preventDefault();
+        var link = event.target.closest(".godtv-link");
+        var url = link.getAttribute("data-godtv-url");
+
+        // เปลี่ยน URL ในแถบ address bar
+        // history.pushState({url: url}, "", "?url=" + encodeURIComponent(url));
+
+        // แสดง loading (แทนที่เฉพาะ main-content)
+        var mainContent = document.getElementById("main-content");
+        mainContent.innerHTML = "<div style=\"text-align:center; padding:50px; color:#fff;\">Loading...</div>";
+
+        // ดึงข้อมูลใหม่
+        fetch("?url=" + encodeURIComponent(url) + "&ajax=1")
+            .then(response => response.text())
+            .then(data => {
+                // แทนที่เฉพาะเนื้อหาใน main-content (modal และ script ยังอยู่)
+                mainContent.innerHTML = data;
+            })
+            .catch(error => {
+                mainContent.innerHTML = "<div style=\"text-align:center; padding:50px; color:#fff;\">Error: " + error + "</div>";
+            });
+    }
+});
+
+// จัดการปุ่ม Back/Forward ของเบราว์เซอร์
+window.addEventListener("popstate", function(event) {
+    var mainContent = document.getElementById("main-content");
+
+    if (event.state && event.state.url) {
+        // แสดง loading
+        mainContent.innerHTML = "<div style=\"text-align:center; padding:50px; color:#fff;\">Loading...</div>";
+
+        // ดึงข้อมูลตาม URL ที่บันทึกไว้
+        fetch("?url=" + encodeURIComponent(event.state.url) + "&ajax=1")
+            .then(response => response.text())
+            .then(data => {
+                mainContent.innerHTML = data;
+            });
+    } else {
+        // กลับไปหน้าแรก
+        location.reload();
+    }
+});
+</script>
