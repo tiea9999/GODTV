@@ -1,0 +1,10 @@
+{
+  "app_id": "dookeela",
+  "main_domain": "dookeela4.live",
+  "embed_domain": "live2.stream.liveplayback.net",
+  "api_key": "",
+  "stream_domain": "live2.stream.liveplayback.net",
+  "license_domain": "license.lkdapi.site",
+  "stream_domain2": "dkl-o53d.cdn.akamaiz.com",
+  "api_domain": "liveplayback.net"
+}
