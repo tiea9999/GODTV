@@ -1,0 +1,784 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="3744483" tvg-name="3 HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-ch3.png"group-title="ดิจิตอล ทีวี",3 HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-ch3
+
+#EXTINF:-1 tvg-id="9386998" tvg-name="Channel 3 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-ch3bkp.png"group-title="ดิจิตอล ทีวี",Channel 3 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-ch3bkp
+
+#EXTINF:-1 tvg-id="6500587" tvg-name="Channel 3 (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-ch3.png"group-title="ดิจิตอล ทีวี",Channel 3 (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-ch3
+
+#EXTINF:-1 tvg-id="3744481" tvg-name="5 HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-ch5.png"group-title="ดิจิตอล ทีวี",5 HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-ch5
+
+#EXTINF:-1 tvg-id="9327416" tvg-name="Channel 5 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-ch5bkp.png"group-title="ดิจิตอล ทีวี",Channel 5 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-ch5bkp
+
+#EXTINF:-1 tvg-id="3744479" tvg-name="7 HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-ch7.png"group-title="ดิจิตอล ทีวี",7 HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-ch7
+
+#EXTINF:-1 tvg-id="9267834" tvg-name="Channel 7 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-ch7bkp.png"group-title="ดิจิตอล ทีวี",Channel 7 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-ch7bkp
+
+#EXTINF:-1 tvg-id="6500583" tvg-name="Channel 7 (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-ch7.png"group-title="ดิจิตอล ทีวี",Channel 7 (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-ch7
+
+#EXTINF:-1 tvg-id="8921772" tvg-name="MCOT HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-mcot.png"group-title="ดิจิตอล ทีวี",MCOT HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-mcot
+
+#EXTINF:-1 tvg-id="3297893" tvg-name="MCOT (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-mcotbkp.png"group-title="ดิจิตอล ทีวี",MCOT (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-mcotbkp
+
+#EXTINF:-1 tvg-id="8813372" tvg-name="NBT HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-nbt.png"group-title="ดิจิตอล ทีวี",NBT HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-nbt
+
+#EXTINF:-1 tvg-id="4766339" tvg-name="NBT" tvg-logo="https://images.streamx-web.org/images/tv/png/sd-nbtbkp.png"group-title="ดิจิตอล ทีวี",NBT
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-nbtbkp
+
+#EXTINF:-1 tvg-id="4194864" tvg-name="Thairath TV" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-thairath.png"group-title="ดิจิตอล ทีวี",Thairath TV
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-thairath
+
+#EXTINF:-1 tvg-id="4864663" tvg-name="Thairath TV (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-thairathbkp.png"group-title="ดิจิตอล ทีวี",Thairath TV (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-thairathbkp
+
+#EXTINF:-1 tvg-id="9561016" tvg-name="Thairath (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-thairath.png"group-title="ดิจิตอล ทีวี",Thairath (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-thairath
+
+#EXTINF:-1 tvg-id="9023795" tvg-name="PPTV HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-pptv.png"group-title="ดิจิตอล ทีวี",PPTV HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-pptv
+
+#EXTINF:-1 tvg-id="6069300" tvg-name="PPTV (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-pptvbkp.png"group-title="ดิจิตอล ทีวี",PPTV (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-pptvbkp
+
+#EXTINF:-1 tvg-id="1317317" tvg-name="PPTV (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-pptv.png"group-title="ดิจิตอล ทีวี",PPTV (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-pptv
+
+#EXTINF:-1 tvg-id="9142398" tvg-name="ThaiPBS" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tpbs.png"group-title="ดิจิตอล ทีวี",ThaiPBS
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tpbs
+
+#EXTINF:-1 tvg-id="4403977" tvg-name="ThaiPBS (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/png/hd-tpbsbkp.png"group-title="ดิจิตอล ทีวี",ThaiPBS (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tpbsbkp
+
+#EXTINF:-1 tvg-id="1198714" tvg-name="ThaiPBS (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-tpbs.png"group-title="ดิจิตอล ทีวี",ThaiPBS (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-tpbs
+
+#EXTINF:-1 tvg-id="641997" tvg-name="Amarin TV HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-amarin.png"group-title="ดิจิตอล ทีวี",Amarin TV HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-amarin
+
+#EXTINF:-1 tvg-id="5971380" tvg-name="Amarin TV (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-amarinbkp.png"group-title="ดิจิตอล ทีวี",Amarin TV (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-amarinbkp
+
+#EXTINF:-1 tvg-id="8512336" tvg-name="GMM One" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-gmmone.png"group-title="ดิจิตอล ทีวี",GMM One
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-gmmone
+
+#EXTINF:-1 tvg-id="9750807" tvg-name="One HD (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-gmmonebkp.png"group-title="ดิจิตอล ทีวี",One HD (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-gmmonebkp
+
+#EXTINF:-1 tvg-id="3849667" tvg-name="Nation Channel" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-nation.png"group-title="ดิจิตอล ทีวี",Nation Channel
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-nation
+
+#EXTINF:-1 tvg-id="5501732" tvg-name="Nation TV (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-nationbkp.png"group-title="ดิจิตอล ทีวี",Nation TV (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-nationbkp
+
+#EXTINF:-1 tvg-id="2669248" tvg-name="Nation TV (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-nation.png"group-title="ดิจิตอล ทีวี",Nation TV (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-nation
+
+#EXTINF:-1 tvg-id="5394950" tvg-name="TNN 24" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-tnn24.png"group-title="ดิจิตอล ทีวี",TNN 24
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tnn24
+
+#EXTINF:-1 tvg-id="2807155" tvg-name="TNN24 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-tnn24bkp.png"group-title="ดิจิตอล ทีวี",TNN24 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tnn24bkp
+
+#EXTINF:-1 tvg-id="6090126" tvg-name="Workpoint TV" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-workpoint.png"group-title="ดิจิตอล ทีวี",Workpoint TV
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-workpoint
+
+#EXTINF:-1 tvg-id="5731847" tvg-name="Workpoint (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-workpointbkp.png"group-title="ดิจิตอล ทีวี",Workpoint (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-workpointbkp
+
+#EXTINF:-1 tvg-id="4983256" tvg-name="GMM 25" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-gmmchannel.png"group-title="ดิจิตอล ทีวี",GMM 25
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-gmmchannel
+
+#EXTINF:-1 tvg-id="3503087" tvg-name="GMM Channel (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-gmmchannelbkp.png"group-title="ดิจิตอล ทีวี",GMM Channel (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-gmmchannelbkp
+
+#EXTINF:-1 tvg-id="7911125" tvg-name="GMM Channel  (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-gmmchannel.png"group-title="ดิจิตอล ทีวี",GMM Channel  (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-gmmchannel
+
+#EXTINF:-1 tvg-id="8933268" tvg-name="Mono 29" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-mono.png"group-title="ดิจิตอล ทีวี",Mono 29
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-mono
+
+#EXTINF:-1 tvg-id="3744478" tvg-name="Channel 8" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-ch8.png"group-title="ดิจิตอล ทีวี",Channel 8
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-ch8
+
+#EXTINF:-1 tvg-id="9238043" tvg-name="Channel 8 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-ch8bkp.png"group-title="ดิจิตอล ทีวี",Channel 8 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-ch8bkp
+
+#EXTINF:-1 tvg-id="6500582" tvg-name="Channel 8 (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-ch8.png"group-title="ดิจิตอล ทีวี",Channel 8 (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-ch8
+
+#EXTINF:-1 tvg-id="8872457" tvg-name="True 4U" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-24u.png"group-title="ดิจิตอล ทีวี",True 4U
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-24u
+
+#EXTINF:-1 tvg-id="5434896" tvg-name="True4U (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-24ubkp.png"group-title="ดิจิตอล ทีวี",True4U (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-24ubkp
+
+#EXTINF:-1 tvg-id="4379572" tvg-name="Max 01 (A)" tvg-logo="https://images.streamx-web.org/images/tv/png/th-max01.png"group-title="กีฬา",Max 01 (A)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-max01
+
+#EXTINF:-1 tvg-id="4379571" tvg-name="Max 02 (A)" tvg-logo="https://images.streamx-web.org/images/tv/png/th-max02.png"group-title="กีฬา",Max 02 (A)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-max02
+
+#EXTINF:-1 tvg-id="3369612" tvg-name="Thai BeIN 1 (StreamX)" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-bein1.png"group-title="กีฬา",Thai BeIN 1 (StreamX)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=streamx-bein1
+
+#EXTINF:-1 tvg-id="4965283" tvg-name="BeIN Sports 1 Thai" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-bein1.png"group-title="กีฬา",BeIN Sports 1 Thai
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=epl-bein1
+
+#EXTINF:-1 tvg-id="7813046" tvg-name="BeIN Sports 1 Thai" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-bein1bkp.png"group-title="กีฬา",BeIN Sports 1 Thai
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=epl-bein1bkp
+
+#EXTINF:-1 tvg-id="3369611" tvg-name="Thai BeIN 2 (StreamX)" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-bein2.png"group-title="กีฬา",Thai BeIN 2 (StreamX)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=streamx-bein2
+
+#EXTINF:-1 tvg-id="4965282" tvg-name="BeIN Sports 2 Thailand" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-bein2.png"group-title="กีฬา",BeIN Sports 2 Thailand
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=epl-bein2
+
+#EXTINF:-1 tvg-id="3369610" tvg-name="Thai Bein 3 (StreamX)" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-bein3.png"group-title="กีฬา",Thai Bein 3 (StreamX)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=streamx-bein3
+
+#EXTINF:-1 tvg-id="4965281" tvg-name="BeIN Thailand 3" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-bein3.png"group-title="กีฬา",BeIN Thailand 3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=epl-bein3
+
+#EXTINF:-1 tvg-id="7753464" tvg-name="BeIN Thailand 3" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-bein3bkp.png"group-title="กีฬา",BeIN Thailand 3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=epl-bein3bkp
+
+#EXTINF:-1 tvg-id="3448363" tvg-name="NBA 01" tvg-logo="https://images.streamx-web.org/images/tv/png/th-nba01.png"group-title="กีฬา",NBA 01
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-nba01
+
+#EXTINF:-1 tvg-id="3448361" tvg-name="NBA 03" tvg-logo="https://images.streamx-web.org/images/tv/png/th-nba03.png"group-title="กีฬา",NBA 03
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-nba03
+
+#EXTINF:-1 tvg-id="6717447" tvg-name="Premier Football HD 3" tvg-logo="https://images.streamx-web.org/images/tv/png/epl-3.png"group-title="กีฬา",Premier Football HD 3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=epl-3
+
+#EXTINF:-1 tvg-id="7666979" tvg-name="SPO TV (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/png/hd-spotv.png"group-title="กีฬา",SPOTV (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-spotv
+
+#EXTINF:-1 tvg-id="2127377" tvg-name="SPO TV2 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/png/hd-spotv2.png"group-title="กีฬา",SPOTV2 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-spotv2
+
+#EXTINF:-1 tvg-id="3692852" tvg-name="Tennis HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tennis.png"group-title="กีฬา",Tennis HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tennis
+
+#EXTINF:-1 tvg-id="3117152" tvg-name="Sport HD 1 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tsport1.png"group-title="กีฬา",Sport HD 1 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tsport1
+
+#EXTINF:-1 tvg-id="7548644" tvg-name="Sports HD 1 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-tsporthd1.png"group-title="กีฬา",Sports HD 1 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-tsporthd1
+
+#EXTINF:-1 tvg-id="3117153" tvg-name="Sport HD 2 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tsport2.png"group-title="กีฬา",Sport HD 2 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tsport2
+
+#EXTINF:-1 tvg-id="7548643" tvg-name="Sports HD 2 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-tsporthd2.png"group-title="กีฬา",Sports HD 2 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-tsporthd2
+
+#EXTINF:-1 tvg-id="3117154" tvg-name="Sport HD 3 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tsport3.png"group-title="กีฬา",Sport HD 3 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tsport3
+
+#EXTINF:-1 tvg-id="7548642" tvg-name="Sports HD 3 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-tsporthd3.png"group-title="กีฬา",Sports HD 3 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-tsporthd3
+
+#EXTINF:-1 tvg-id="3117155" tvg-name="Sport HD 4" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tsport4.png"group-title="กีฬา",Sport HD 4
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tsport4
+
+#EXTINF:-1 tvg-id="8531399" tvg-name="Sport 5" tvg-logo="https://images.streamx-web.org/images/tv/png/sd-tsport5.png"group-title="กีฬา",Sport 5
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tsport5
+
+#EXTINF:-1 tvg-id="8782226" tvg-name="Sport 5" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-tsport5bkp.png"group-title="กีฬา",Sport 5
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tsport5bkp
+
+#EXTINF:-1 tvg-id="8531397" tvg-name="Sport 7" tvg-logo="https://images.streamx-web.org/images/tv/png/sd-tsport7.png"group-title="กีฬา",Sport 7
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tsport7
+
+#EXTINF:-1 tvg-id="8722644" tvg-name="Sport 7" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-tsport7bkp.png"group-title="กีฬา",Sport 7
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tsport7bkp
+
+#EXTINF:-1 tvg-id="4928162" tvg-name="T Sport 7 (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-tsport7.png"group-title="กีฬา",T Sport 7 (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-tsport7
+
+#EXTINF:-1 tvg-id="8531337" tvg-name="T Sports" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-tsports.png"group-title="กีฬา",T Sports
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tsports
+
+#EXTINF:-1 tvg-id="4951260" tvg-name="Golf 01" tvg-logo="https://images.streamx-web.org/images/tv/png/th-golf01.png"group-title="กีฬา",Golf 01
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-golf01
+
+#EXTINF:-1 tvg-id="4951261" tvg-name="Golf 02" tvg-logo="https://images.streamx-web.org/images/tv/png/th-golf02.png"group-title="กีฬา",Golf 02
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-golf02
+
+#EXTINF:-1 tvg-id="4951264" tvg-name="Golf 05" tvg-logo="https://images.streamx-web.org/images/tv/png/th-golf05.png"group-title="กีฬา",Golf 05
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-golf05
+
+#EXTINF:-1 tvg-id="2125342" tvg-name="BT Sport 1" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-btsport1hd.png"group-title="กีฬา",BT Sport 1
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-btsport1hd
+
+#EXTINF:-1 tvg-id="8558171" tvg-name="BT Sport 1 Backup" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-btsport1hdbkp.png"group-title="กีฬา",BT Sport 1 Backup
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-btsport1hdbkp
+
+#EXTINF:-1 tvg-id="2124381" tvg-name="BT Sport 2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-btsport2hd.png"group-title="กีฬา",BT Sport 2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-btsport2hd
+
+#EXTINF:-1 tvg-id="9929020" tvg-name="BT Sport 2 HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-btsport2hdbkp.png"group-title="กีฬา",BT Sport 2 HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-btsport2hdbkp
+
+#EXTINF:-1 tvg-id="2123420" tvg-name="BT Sport 3" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-btsport3hd.png"group-title="กีฬา",BT Sport 3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-btsport3hd
+
+#EXTINF:-1 tvg-id="1299869" tvg-name="BT Sport 3 Backup" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-btsport3hdbkp.png"group-title="กีฬา",BT Sport 3 Backup
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-btsport3hdbkp
+
+#EXTINF:-1 tvg-id="8251133" tvg-name="ESPN UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-espn.png"group-title="กีฬา",ESPN UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-espn
+
+#EXTINF:-1 tvg-id="5948957" tvg-name="Sky Sports Main Event" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-mainevent.png"group-title="กีฬา",Sky Sports Main Event
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-mainevent
+
+#EXTINF:-1 tvg-id="2856995" tvg-name="Sky Sports Arena" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-arena.png"group-title="กีฬา",Sky Sports Arena
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-arena
+
+#EXTINF:-1 tvg-id="9418214" tvg-name="Sky Sports Action" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-action.png"group-title="กีฬา",Sky Sports Action
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-action
+
+#EXTINF:-1 tvg-id="6081583" tvg-name="Sky Sports Football" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-football.png"group-title="กีฬา",Sky Sports Football
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-football
+
+#EXTINF:-1 tvg-id="8188531" tvg-name="Sky Sports Cricket" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-cricket.png"group-title="กีฬา",Sky Sports Cricket
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-cricket
+
+#EXTINF:-1 tvg-id="6184893" tvg-name="Sky Sports EPL" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-epl.png"group-title="กีฬา",Sky Sports EPL
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-epl
+
+#EXTINF:-1 tvg-id="3111482" tvg-name="Sky Sports Golf" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-golf.png"group-title="กีฬา",Sky Sports Golf
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-golf
+
+#EXTINF:-1 tvg-id="7930863" tvg-name="Sky Sports F1" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-f1.png"group-title="กีฬา",Sky Sports F1
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-f1
+
+#EXTINF:-1 tvg-id="6192376" tvg-name="Sky Sports Mix" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-mix.png"group-title="กีฬา",Sky Sports Mix
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-mix
+
+#EXTINF:-1 tvg-id="2912201" tvg-name="Sky Sports News" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports-news.png"group-title="กีฬา",Sky Sports News
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports-news
+
+#EXTINF:-1 tvg-id="6301023" tvg-name="Sky Sports Main Event (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports1bkp.png"group-title="กีฬา",Sky Sports Main Event (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports1bkp
+
+#EXTINF:-1 tvg-id="6360605" tvg-name="Sky Sports Action (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports3bkp.png"group-title="กีฬา",Sky Sports Action (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports3bkp
+
+#EXTINF:-1 tvg-id="2092013" tvg-name="Sky Sports F1 (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysportsf1bkp.png"group-title="กีฬา",Sky Sports F1 (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysportsf1bkp
+
+#EXTINF:-1 tvg-id="6330814" tvg-name="Sky Sports Cricket (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports2bkp.png"group-title="กีฬา",Sky Sports Cricket (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports2bkp
+
+#EXTINF:-1 tvg-id="6390396" tvg-name="Sky Sports Golf (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports4bkp.png"group-title="กีฬา",Sky Sports Golf (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports4bkp
+
+#EXTINF:-1 tvg-id="6420187" tvg-name="Sky Sports EPL (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skysports5bkp.png"group-title="กีฬา",Sky Sports EPL (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skysports5bkp
+
+#EXTINF:-1 tvg-id="2688613" tvg-name="Racing UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-racing.png"group-title="กีฬา",Racing UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-racing
+
+#EXTINF:-1 tvg-id="294075" tvg-name="At The Races" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-attheraces.png"group-title="กีฬา",At The Races
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-attheraces
+
+#EXTINF:-1 tvg-id="8010751" tvg-name="MUTV" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-mutv.png"group-title="กีฬา",MUTV
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-mutv
+
+#EXTINF:-1 tvg-id="9716390" tvg-name="MUTV Backup (UK)" tvg-logo="https://images.streamx-web.org/images/tv/png/uk-mutv.png"group-title="กีฬา",MUTV Backup (UK)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-mutvbkp
+
+#EXTINF:-1 tvg-id="4818060" tvg-name="LFC TV" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-lfctv.png"group-title="กีฬา",LFC TV
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-lfctv
+
+#EXTINF:-1 tvg-id="2999796" tvg-name="Premier Sports UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-premiersports.png"group-title="กีฬา",Premier Sports UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-premiersports
+
+#EXTINF:-1 tvg-id="1973570" tvg-name="Premier Sports 2 UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-premiersports2.png"group-title="กีฬา",Premier Sports 2 UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-premiersports2
+
+#EXTINF:-1 tvg-id="7702274" tvg-name="NBA TV" tvg-logo="https://images.streamx-web.org/images/tv/png/us-nba.png"group-title="กีฬา",NBA TV
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=us-nba
+
+#EXTINF:-1 tvg-id="7601822" tvg-name="NBC Golf USA" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/us-nbcgolf.png"group-title="กีฬา",NBC Golf USA
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=us-nbcgolf
+
+#EXTINF:-1 tvg-id="788330" tvg-name="ESPN USA" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/us-espn1.png"group-title="กีฬา",ESPN USA
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=us-espn1
+
+#EXTINF:-1 tvg-id="184938" tvg-name="Eurosport Asia" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-eurosport.png"group-title="กีฬา",Eurosport Asia
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-eurosport
+
+#EXTINF:-1 tvg-id="1633400" tvg-name="BeIN Sport 1 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein1.png"group-title="กีฬา",BeIN Sport 1 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein1
+
+#EXTINF:-1 tvg-id="1633401" tvg-name="BeIN Sport 2 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein2.png"group-title="กีฬา",BeIN Sport 2 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein2
+
+#EXTINF:-1 tvg-id="1633402" tvg-name="BeIN Sport 3 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein3.png"group-title="กีฬา",BeIN Sport 3 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein3
+
+#EXTINF:-1 tvg-id="1633403" tvg-name="BeIN Sport 4 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein4.png"group-title="กีฬา",BeIN Sport 4 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein4
+
+#EXTINF:-1 tvg-id="1633404" tvg-name="BeIN Sport 5 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein5.png"group-title="กีฬา",BeIN Sport 5 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein5
+
+#EXTINF:-1 tvg-id="1633406" tvg-name="BeIN Sport 7 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein7.png"group-title="กีฬา",BeIN Sport 7 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein7
+
+#EXTINF:-1 tvg-id="1633407" tvg-name="BeIN Sport 8 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein8.png"group-title="กีฬา",BeIN Sport 8 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein8
+
+#EXTINF:-1 tvg-id="1633408" tvg-name="BeIN Sport 9 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein9.png"group-title="กีฬา",BeIN Sport 9 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein9
+
+#EXTINF:-1 tvg-id="9168328" tvg-name="BeIN Sport 11 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein10.png"group-title="กีฬา",BeIN Sport 11 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein10
+
+#EXTINF:-1 tvg-id="9168327" tvg-name="BeIN Sport 11 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein11.png"group-title="กีฬา",BeIN Sport 11 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein11
+
+#EXTINF:-1 tvg-id="9168326" tvg-name="BeIN Sport 12 (ARAB)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-bein12.png"group-title="กีฬา",BeIN Sport 12 (ARAB)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bein12
+
+#EXTINF:-1 tvg-id="5425677" tvg-name="BT Sport Extra 2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-btsportextra2.png"group-title="กีฬา",BT Sport Extra 2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-btsportextra2
+
+#EXTINF:-1 tvg-id="5425679" tvg-name="BT Sport Extra 4" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-btsportextra4.png"group-title="กีฬา",BT Sport Extra 4
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-btsportextra4
+
+#EXTINF:-1 tvg-id="707025" tvg-name="TSN1" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/ca-tsn1.png"group-title="กีฬา",TSN1
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=ca-tsn1
+
+#EXTINF:-1 tvg-id="707026" tvg-name="TSN2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/ca-tsn2.png"group-title="กีฬา",TSN2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=ca-tsn2
+
+#EXTINF:-1 tvg-id="707027" tvg-name="TSN3" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/ca-tsn3.png"group-title="กีฬา",TSN3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=ca-tsn3
+
+#EXTINF:-1 tvg-id="707028" tvg-name="TSN4" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/ca-tsn4.png"group-title="กีฬา",TSN4
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=ca-tsn4
+
+#EXTINF:-1 tvg-id="707029" tvg-name="TSN5" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/ca-tsn5.png"group-title="กีฬา",TSN5
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=ca-tsn5
+
+#EXTINF:-1 tvg-id="2830051" tvg-name="Sky Bundesliga DE" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/de-skybundesliga.png"group-title="กีฬา",Sky Bundesliga DE
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=de-skybundesliga
+
+#EXTINF:-1 tvg-id="5944252" tvg-name="BeIN Sport 1 FR" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/fr-bein1hd.png"group-title="กีฬา",BeIN Sport 1 FR
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=fr-bein1hd
+
+#EXTINF:-1 tvg-id="5943291" tvg-name="BeIN Sport 2 FR" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/fr-bein2hd.png"group-title="กีฬา",BeIN Sport 2 FR
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=fr-bein2hd
+
+#EXTINF:-1 tvg-id="5942330" tvg-name="BeIN Sport 3 FR" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/fr-bein3hd.png"group-title="กีฬา",BeIN Sport 3 FR
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=fr-bein3hd
+
+#EXTINF:-1 tvg-id="1034349" tvg-name="Discovery Channel" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-discoverybkp.png"group-title="สารคดี",Discovery Channel
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-discoverybkp
+
+#EXTINF:-1 tvg-id="6246476" tvg-name="Discovery Channel (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-discovery.png"group-title="สารคดี",Discovery Channel (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-discovery
+
+#EXTINF:-1 tvg-id="5034601" tvg-name="Discovery Channel (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-discovery.png"group-title="สารคดี",Discovery Channel (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-discovery
+
+#EXTINF:-1 tvg-id="367293" tvg-name="History Channel" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-history.png"group-title="สารคดี",History Channel
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-history
+
+#EXTINF:-1 tvg-id="8724751" tvg-name="Food Network (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-foodbkp.png"group-title="สารคดี",Food Network (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-food
+
+#EXTINF:-1 tvg-id="7657399" tvg-name="Food Network (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-food.png"group-title="สารคดี",Food Network (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-foodnetwork
+
+#EXTINF:-1 tvg-id="8807313" tvg-name="TLC (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-tlcbkp.png"group-title="สารคดี",TLC (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tlc
+
+#EXTINF:-1 tvg-id="7318360" tvg-name="Explore Sci (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-expscibkp.png"group-title="สารคดี",Explore Sci (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-expsci
+
+#EXTINF:-1 tvg-id="6844457" tvg-name="Asian Food Network (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-asianfood.png"group-title="สารคดี",Asian Food Network (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-asianfood
+
+#EXTINF:-1 tvg-id="4367418" tvg-name="Asian Food Network (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-asianfoodbkp.png"group-title="สารคดี",Asian Food Network (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-asianfood
+
+#EXTINF:-1 tvg-id="3231346" tvg-name="Animal Show (StreamX HD)" tvg-logo="https://images.streamx-web.org/images/tv/png/th-animalshow.png"group-title="สารคดี",Animal Show (StreamX HD)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-animalshow
+
+#EXTINF:-1 tvg-id="4911463" tvg-name="Samrujlok (StreamX HD)" tvg-logo="https://images.streamx-web.org/images/tv/png/streamx-samrujlok.png"group-title="สารคดี",Samrujlok (StreamX HD)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-samrujlok
+
+#EXTINF:-1 tvg-id="898600" tvg-name="Asian More" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-asianmore.png"group-title="บันเทิง",Asian More
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-asianmore
+
+#EXTINF:-1 tvg-id="1042342" tvg-name="Warner TV HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-warnertv.png"group-title="บันเทิง",Warner TV HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-warnertv
+
+#EXTINF:-1 tvg-id="6495908" tvg-name="HBO (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbo.png"group-title="บันเทิง",HBO (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbo
+
+#EXTINF:-1 tvg-id="7009344" tvg-name="HBO Family (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbofamily.png"group-title="บันเทิง",HBO Family (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbofamily
+
+#EXTINF:-1 tvg-id="2093340" tvg-name="HBO Hits (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbohits.png"group-title="บันเทิง",HBO Hits (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbohits
+
+#EXTINF:-1 tvg-id="6823588" tvg-name="HBO Signature (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbosignature.png"group-title="บันเทิง",HBO Signature (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbosignature
+
+#EXTINF:-1 tvg-id="7985322" tvg-name="Cinemax" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-cinemax.png"group-title="บันเทิง",Cinemax
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-cinemax
+
+#EXTINF:-1 tvg-id="8936654" tvg-name="Cinemax (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-cinemax.png"group-title="บันเทิง",Cinemax (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-cinemax
+
+#EXTINF:-1 tvg-id="3745850" tvg-name="AXN" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-axn.png"group-title="บันเทิง",AXN
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-axn
+
+#EXTINF:-1 tvg-id="111295" tvg-name="AXN (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-axnbkp.png"group-title="บันเทิง",AXN (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-axnbkp
+
+#EXTINF:-1 tvg-id="6501954" tvg-name="AXN (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-axn.png"group-title="บันเทิง",AXN (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-axn
+
+#EXTINF:-1 tvg-id="3773940" tvg-name="Blue Ant (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-blueant.png"group-title="บันเทิง",Blue Ant (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-blueant
+
+#EXTINF:-1 tvg-id="7482791" tvg-name="Blue Ant Extreme (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-blueantex.png"group-title="บันเทิง",Blue Ant Extreme (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-blueantex
+
+#EXTINF:-1 tvg-id="8286567" tvg-name="Film HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tfilm.png"group-title="บันเทิง",Film HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tfilm
+
+#EXTINF:-1 tvg-id="629619" tvg-name="Series" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-series.png"group-title="บันเทิง",Series
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-series
+
+#EXTINF:-1 tvg-id="6869772" tvg-name="Movie Hits" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-moviehits.png"group-title="บันเทิง",Movie Hits
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-moviehits
+
+#EXTINF:-1 tvg-id="2592087" tvg-name="X-Zyte HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-xzyte.png"group-title="บันเทิง",X-Zyte HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-xzyte
+
+#EXTINF:-1 tvg-id="2750948" tvg-name="Thai Film (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-thaifilmbkp.png"group-title="บันเทิง",Thai Film (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-thaifilm
+
+#EXTINF:-1 tvg-id="6761124" tvg-name="Clelestial Classic Movies" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-celestial.png"group-title="บันเทิง",Clelestial Classic Movies
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-celestial
+
+#EXTINF:-1 tvg-id="4947146" tvg-name="Mono+" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-monoplus.png"group-title="บันเทิง",Mono+
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-monoplus
+
+#EXTINF:-1 tvg-id="3687114" tvg-name="Film Asia" tvg-logo="https://images.streamx-web.org/images/tv/png/sd-filmasia.png"group-title="บันเทิง",Film Asia
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-filmasia
+
+#EXTINF:-1 tvg-id="1748858" tvg-name="TPTV" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-tptv.png"group-title="ข่าว",TPTV
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tptv
+
+#EXTINF:-1 tvg-id="8558423" tvg-name="Top News" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-topnews.png"group-title="ข่าว",Top News
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-topnews
+
+#EXTINF:-1 tvg-id="3744238" tvg-name="CNN" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-cnn.png"group-title="ข่าว",CNN
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-cnn
+
+#EXTINF:-1 tvg-id="6500342" tvg-name="CNN (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-cnn.png"group-title="ข่าว",CNN (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-cnn
+
+#EXTINF:-1 tvg-id="5100628" tvg-name="CNN UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cnn.png"group-title="ข่าว",CNN UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cnn
+
+#EXTINF:-1 tvg-id="7712460" tvg-name="CNN USA" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/us-cnn.png"group-title="ข่าว",CNN USA
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=us-cnn
+
+#EXTINF:-1 tvg-id="6781633" tvg-name="Bloomberg" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-bloomberg.png"group-title="ข่าว",Bloomberg
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-bloomberg
+
+#EXTINF:-1 tvg-id="3082804" tvg-name="Bloomberg USA" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/us-bloomberg.png"group-title="ข่าว",Bloomberg USA
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=us-bloomberg
+
+#EXTINF:-1 tvg-id="4075507" tvg-name="Fox News US" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/us-foxnews.png"group-title="ข่าว",Fox News US
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=us-foxnews
+
+#EXTINF:-1 tvg-id="6157973" tvg-name="Fox News UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-foxnews.png"group-title="ข่าว",Fox News UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-foxnews
+
+#EXTINF:-1 tvg-id="1286489" tvg-name="RT UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-rt.png"group-title="ข่าว",RT UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-rt
+
+#EXTINF:-1 tvg-id="4982588" tvg-name="Euronews" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-euronews.png"group-title="ข่าว",Euronews
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-euronews
+
+#EXTINF:-1 tvg-id="9282757" tvg-name="CNBC USA" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/us-cnbc.png"group-title="ข่าว",CNBC USA
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=us-cnbc
+
+#EXTINF:-1 tvg-id="8871163" tvg-name="BBC News" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbcnewshd.png"group-title="ข่าว",BBC News
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbcnewshd
+
+#EXTINF:-1 tvg-id="7719161" tvg-name="BBC World News UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbcworldnews.png"group-title="ข่าว",BBC World News UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbcworldnews
+
+#EXTINF:-1 tvg-id="8325203" tvg-name="BBC World News" tvg-logo="https://images.streamx-web.org/images/tv/png/hd-bbcworldnews.png"group-title="ข่าว",BBC World News
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-bbcworldnews
+
+#EXTINF:-1 tvg-id="6843227" tvg-name="BBC World News (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-bbcworldnews.png"group-title="ข่าว",BBC World News (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-bbcworldnews
+
+#EXTINF:-1 tvg-id="7862205" tvg-name="Sky News UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skynews.png"group-title="ข่าว",Sky News UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skynews
+
+#EXTINF:-1 tvg-id="7718492" tvg-name="Channel NewsAsia" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-channelnewsasia.png"group-title="ข่าว",Channel NewsAsia
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-channelnewsasia
+
+#EXTINF:-1 tvg-id="8218886" tvg-name="NHK World (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-nhkworld.png"group-title="ข่าว",NHK World (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-nhkworld
+
+#EXTINF:-1 tvg-id="1414634" tvg-name="CCTV4" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-cctv4.png"group-title="ข่าว",CCTV4
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-cctv4
+
+#EXTINF:-1 tvg-id="1193534" tvg-name="News 1" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-news1.png"group-title="ข่าว",News 1
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-news1
+
+#EXTINF:-1 tvg-id="6777166" tvg-name="Deutsche Welle" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-deutschewelle.png"group-title="ข่าว",Deutsche Welle
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-deutschewelle
+
+#EXTINF:-1 tvg-id="9408747" tvg-name="Al Jazeera" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-aljazeera.png"group-title="ข่าว",Al Jazeera
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-aljazeera
+
+#EXTINF:-1 tvg-id="8909174" tvg-name="France 2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/fr-france2.png"group-title="ข่าว",France 2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=fr-france2
+
+#EXTINF:-1 tvg-id="5528016" tvg-name="Dreamworks" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-dreamworks.png"group-title="การ์ตูน",Dreamworks
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-dreamworks
+
+#EXTINF:-1 tvg-id="6902140" tvg-name="Cartoon Network (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-cartoonnetworkbkp.png"group-title="การ์ตูน",Cartoon Network (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-cartoonnetwork
+
+#EXTINF:-1 tvg-id="2767479" tvg-name="Nickelodeon" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-nickelodeon.png"group-title="การ์ตูน",Nickelodeon
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-nickelodeon
+
+#EXTINF:-1 tvg-id="2508294" tvg-name="Boomerang" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-boomerang.png"group-title="การ์ตูน",Boomerang
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-boomerang
+
+#EXTINF:-1 tvg-id="7566861" tvg-name="Cartoonito UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cartoonito.png"group-title="การ์ตูน",Cartoonito UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cartoonito
+
+#EXTINF:-1 tvg-id="4139123" tvg-name="cBBC UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cbbchd.png"group-title="การ์ตูน",cBBC UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cbbchd
+
+#EXTINF:-1 tvg-id="4355191" tvg-name="Disney 2" tvg-logo="https://images.streamx-web.org/images/tv/png/streamx-disney2.png"group-title="การ์ตูน",Disney 2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=streamx-disney2
+
+#EXTINF:-1 tvg-id="8320193" tvg-name="cITV UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-citv.png"group-title="ต่างประเทศ",cITV UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-citv
+
+#EXTINF:-1 tvg-id="6157973" tvg-name="Fox News UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-foxnews.png"group-title="ต่างประเทศ",Fox News UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-foxnews
+
+#EXTINF:-1 tvg-id="9716390" tvg-name="MUTV Backup (UK)" tvg-logo="https://images.streamx-web.org/images/tv/png/uk-mutv.png"group-title="ต่างประเทศ",MUTV Backup (UK)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-mutvbkp
+
+#EXTINF:-1 tvg-id="8871163" tvg-name="BBC News" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbcnewshd.png"group-title="ต่างประเทศ",BBC News
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbcnewshd
+
+#EXTINF:-1 tvg-id="5491713" tvg-name="BBC 1" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbc1hd.png"group-title="ต่างประเทศ",BBC 1
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbc1hd
+
+#EXTINF:-1 tvg-id="5492674" tvg-name="BBC 2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbc2hd.png"group-title="ต่างประเทศ",BBC 2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbc2hd
+
+#EXTINF:-1 tvg-id="5493635" tvg-name="BBC 3" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbc3hd.png"group-title="ต่างประเทศ",BBC 3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbc3hd
+
+#EXTINF:-1 tvg-id="5494596" tvg-name="BBC 4" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbc4hd.png"group-title="ต่างประเทศ",BBC 4
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbc4hd
+
+#EXTINF:-1 tvg-id="9733477" tvg-name="BBC One Scotland" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbc1scotland.png"group-title="ต่างประเทศ",BBC One Scotland
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbc1scotland
+
+#EXTINF:-1 tvg-id="7720986" tvg-name="BBC Two Scotland" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbc2scotland.png"group-title="ต่างประเทศ",BBC Two Scotland
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbc2scotland
+
+#EXTINF:-1 tvg-id="3159530" tvg-name="BBC Alba" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-bbcalba.png"group-title="ต่างประเทศ",BBC Alba
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-bbcalba
+
+#EXTINF:-1 tvg-id="3085177" tvg-name="ITV1" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-itv1hd.png"group-title="ต่างประเทศ",ITV1
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-itv1hd
+
+#EXTINF:-1 tvg-id="8130882" tvg-name="ITV2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-itv2.png"group-title="ต่างประเทศ",ITV2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-itv2
+
+#EXTINF:-1 tvg-id="8130881" tvg-name="ITV3" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-itv3.png"group-title="ต่างประเทศ",ITV3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-itv3
+
+#EXTINF:-1 tvg-id="8130880" tvg-name="ITV4" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-itv4.png"group-title="ต่างประเทศ",ITV4
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-itv4
+
+#EXTINF:-1 tvg-id="747164" tvg-name="Channel 4" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-channel4hd.png"group-title="ต่างประเทศ",Channel 4
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-channel4hd
+
+#EXTINF:-1 tvg-id="5433495" tvg-name="Channel 5" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-channel5.png"group-title="ต่างประเทศ",Channel 5
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-channel5
+
+#EXTINF:-1 tvg-id="8889492" tvg-name="4 Seven UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-4sevenhd.png"group-title="ต่างประเทศ",4 Seven UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-4sevenhd
+
+#EXTINF:-1 tvg-id="5219519" tvg-name="RTE One" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/ie-rte1.png"group-title="ต่างประเทศ",RTE One
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=ie-rte1
+
+#EXTINF:-1 tvg-id="5219520" tvg-name="RTE Two" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/ie-rte2.png"group-title="ต่างประเทศ",RTE Two
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=ie-rte2
+
+#EXTINF:-1 tvg-id="1838663" tvg-name="Discovery Channel UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-discovery.png"group-title="ต่างประเทศ",Discovery Channel UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-discovery
+
+#EXTINF:-1 tvg-id="2949189" tvg-name="Discovery History UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-discoveryhistory.png"group-title="ต่างประเทศ",Discovery History UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-discoveryhistory
+
+#EXTINF:-1 tvg-id="1801717" tvg-name="Discovery Science UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-discoveryscience.png"group-title="ต่างประเทศ",Discovery Science UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-discoveryscience
+
+#EXTINF:-1 tvg-id="5645563" tvg-name="Discovery Turbo UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-discoveryturbo.png"group-title="ต่างประเทศ",Discovery Turbo UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-discoveryturbo
+
+#EXTINF:-1 tvg-id="2645085" tvg-name="History UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-history.png"group-title="ต่างประเทศ",History UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-history
+
+#EXTINF:-1 tvg-id="2904203" tvg-name="H2 UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-history2.png"group-title="ต่างประเทศ",H2 UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-history2
+
+#EXTINF:-1 tvg-id="8676263" tvg-name="National Geographic UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-natgeo.png"group-title="ต่างประเทศ",National Geographic UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-natgeo
+
+#EXTINF:-1 tvg-id="2097935" tvg-name="Nat Geo Wild UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-natgeowild.png"group-title="ต่างประเทศ",Nat Geo Wild UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-natgeowild
+
+#EXTINF:-1 tvg-id="5208688" tvg-name="5 Star UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-5star.png"group-title="ต่างประเทศ",5 Star UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-5star
+
+#EXTINF:-1 tvg-id="4792850" tvg-name="Alibi UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-alibi.png"group-title="ต่างประเทศ",Alibi UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-alibi
+
+#EXTINF:-1 tvg-id="2448947" tvg-name="CBS Action UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cbsaction.png"group-title="ต่างประเทศ",CBS Action UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cbsaction
+
+#EXTINF:-1 tvg-id="5683914" tvg-name="CBS Drama UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cbsdrama.png"group-title="ต่างประเทศ",CBS Drama UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cbsdrama
+
+#EXTINF:-1 tvg-id="2002028" tvg-name="Challenge UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-challenge.png"group-title="ต่างประเทศ",Challenge UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-challenge
+
+#EXTINF:-1 tvg-id="1286013" tvg-name="CI UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-ci.png"group-title="ต่างประเทศ",CI UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-ci
+
+#EXTINF:-1 tvg-id="9931579" tvg-name="Comedy Central UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-comedycentral.png"group-title="ต่างประเทศ",Comedy Central UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-comedycentral
+
+#EXTINF:-1 tvg-id="8298045" tvg-name="Dave UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-dave.png"group-title="ต่างประเทศ",Dave UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-dave
+
+#EXTINF:-1 tvg-id="1850896" tvg-name="Drama UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-drama.png"group-title="ต่างประเทศ",Drama UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-drama
+
+#EXTINF:-1 tvg-id="1286022" tvg-name="E4 UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-e4.png"group-title="ต่างประเทศ",E4 UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-e4
+
+#EXTINF:-1 tvg-id="261447" tvg-name="Film 4 UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-film4.png"group-title="ต่างประเทศ",Film 4 UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-film4
+
+#EXTINF:-1 tvg-id="8110247" tvg-name="Food Network UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-foodnetwork.png"group-title="ต่างประเทศ",Food Network UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-foodnetwork
+
+#EXTINF:-1 tvg-id="8195529" tvg-name="Gold UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-gold.png"group-title="ต่างประเทศ",Gold UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-gold
+
+#EXTINF:-1 tvg-id="1286194" tvg-name="Investigation Discovery UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-id.png"group-title="ต่างประเทศ",Investigation Discovery UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-id
+
+#EXTINF:-1 tvg-id="3612536" tvg-name="More 4 UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-more4.png"group-title="ต่างประเทศ",More 4 UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-more4
+
+#EXTINF:-1 tvg-id="7153865" tvg-name="ITVBe UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-itvbe.png"group-title="ต่างประเทศ",ITVBe UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-itvbe
+
+#EXTINF:-1 tvg-id="7933448" tvg-name="Pick UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-pick.png"group-title="ต่างประเทศ",Pick UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-pick
+
+#EXTINF:-1 tvg-id="9751701" tvg-name="Quest UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-quest.png"group-title="ต่างประเทศ",Quest UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-quest
+
+#EXTINF:-1 tvg-id="7841529" tvg-name="Sky 1 UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-sky1.png"group-title="ต่างประเทศ",Sky 1 UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-sky1
+
+#EXTINF:-1 tvg-id="9574888" tvg-name="Sky Action \u0026 Adventure" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skycinema-action.png"group-title="ต่างประเทศ",Sky Action Adventure
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skycinema-action
+
+#EXTINF:-1 tvg-id="7702731" tvg-name="Sky Comedy UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skycinema-comedy.png"group-title="ต่างประเทศ",Sky Comedy UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skycinema-comedy
+
+#EXTINF:-1 tvg-id="7173906" tvg-name="Sky Disney UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skycinema-animation.png"group-title="ต่างประเทศ",Sky Disney UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skycinema-animation
+
+#EXTINF:-1 tvg-id="664982" tvg-name="Sky Family UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skycinema-family.png"group-title="ต่างประเทศ",Sky Family UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skycinema-family
+
+#EXTINF:-1 tvg-id="4748216" tvg-name="Sky Modern Greats UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skycinema-greats.png"group-title="ต่างประเทศ",Sky Modern Greats UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skycinema-greats
+
+#EXTINF:-1 tvg-id="3600981" tvg-name="Sky Premiere UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skycinema-premiere.png"group-title="ต่างประเทศ",Sky Premiere UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skycinema-premiere
+
+#EXTINF:-1 tvg-id="8878550" tvg-name="Sky Sci-Fi \u0026 Horror UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skycinema-scifi.png"group-title="ต่างประเทศ",Sky Sci-Fi Horror UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skycinema-scifi
+
+#EXTINF:-1 tvg-id="1889074" tvg-name="Sky Atlantic UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skyatlantic.png"group-title="ต่างประเทศ",Sky Atlantic UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skyatlantic
+
+#EXTINF:-1 tvg-id="8815862" tvg-name="Sky Crime \u0026 Thriller UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-skycinema-thriller.png"group-title="ต่างประเทศ",Sky Crime Thriller UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-skycinema-thriller
+
+#EXTINF:-1 tvg-id="5083188" tvg-name="5 USA UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-usa.png"group-title="ต่างประเทศ",5 USA UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-usa
+
+#EXTINF:-1 tvg-id="3589888" tvg-name="W UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-w.png"group-title="ต่างประเทศ",W UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-w
+
+#EXTINF:-1 tvg-id="2356235" tvg-name="Yesterday UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-yesterday.png"group-title="ต่างประเทศ",Yesterday UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-yesterday
+
+#EXTINF:-1 tvg-id="5026954" tvg-name="XXX 1" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/xxx-01.png"group-title="VIP",XXX 1
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-01
+
+#EXTINF:-1 tvg-id="5026953" tvg-name="XXX 2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/xxx-02.png"group-title="VIP",XXX 2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-02
+
+#EXTINF:-1 tvg-id="5026952" tvg-name="XXX 3" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/xxx-03.png"group-title="VIP",XXX 3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-03
+
+#EXTINF:-1 tvg-id="9781090" tvg-name="StreamX VIP 1" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip1.png"group-title="VIP",StreamX VIP 1
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip1
+
+#EXTINF:-1 tvg-id="9781089" tvg-name="StreamX VIP 2" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip2.png"group-title="VIP",StreamX VIP 2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip2
+
+#EXTINF:-1 tvg-id="9781088" tvg-name="StreamX VIP 3" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip3.png"group-title="VIP",StreamX VIP 3
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip3
+
+#EXTINF:-1 tvg-id="9781087" tvg-name="StreamX VIP 4" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip4.png"group-title="VIP",StreamX VIP 4
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip4
+
+#EXTINF:-1 tvg-id="9781086" tvg-name="StreamX VIP 5" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip5.png"group-title="VIP",StreamX VIP 5
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip5
