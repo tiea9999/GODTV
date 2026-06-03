@@ -1,0 +1,3272 @@
+{
+  "name": "Dootvz",
+  "author": "update 30/5/2569",
+  "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+  "url": "https://raw.githubusercontent.com/Hssmnoy/TV/main/Dootvz.json",
+  "stations": [
+    {
+      "name": "CH3 HD_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-ch3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-ch3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CH3 HD_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-ch3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-ch3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CH5_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-ch5.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-ch5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CH5_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-ch5.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-ch5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "7HD_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-ch7.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-ch7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "7HD_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-ch7.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-ch7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CH8_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-ch8.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-ch8",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CH8_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-ch8.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-ch8",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ONE31_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-gmmone.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-gmmone",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ONE31_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-gmmone.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-gmmone",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MCOT HD_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-mcot.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-mcot",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MCOT HD_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-mcot.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-mcot",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MONO29_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-mono.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-mono",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MONO29_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-mono.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-mono",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "PPTV_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-pptv.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-pptv",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "PPTV_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-pptv.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-pptv",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Thairath TV_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-thairath.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-thairath",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Thairath TV_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-thairath.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-thairath",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Amarin TV_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-amarin.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-amarin",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Amarin TV_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-amarin.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-amarin",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Workpoint TV_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-workpoint.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-workpoint",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Workpoint TV_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-workpoint.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-workpoint",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Thai PBS_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tpbs.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-tpbs",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Thai PBS_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tpbs.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-tpbs",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True4U_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-24u.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-24u",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True4U_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-24u.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-24u",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "GMM25_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-gmmchannel.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-gmmchannel",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "GMM25_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-gmmchannel.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-gmmchannel",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MONO Plus_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-monobkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-monobkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MONO Plus_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-monobkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-monobkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "NBT HD_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-nbt.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-nbt",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "NBT HD_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-nbt.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-nbt",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Nation_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-nation.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-nation",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Nation_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-nation.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-nation",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "New_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-new.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-new",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "New_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-new.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-new",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TNN24_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-tnn24.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-tnn24",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TNN24_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-tnn24.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-tnn24",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TPTV_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-tptv.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-tptv",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TPTV_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-tptv.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-tptv",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "HBO_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-hbo",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "HBO_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-hbo",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "HBO Hits_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-hbohits",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "HBO Hits_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-hbohits",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "HBO Signature_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-hbosignature",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "HBO Signature_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-hbosignature",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "HBO Family_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0150.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-hbofamily",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "HBO Family_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0150.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-hbofamily",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Cinemax_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-cinemax",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Cinemax_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-cinemax",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Asian More_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-asianmore.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-asianmore",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Asian More_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-asianmore.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-asianmore",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Dreamworks_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-dreamworks.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-dreamworks",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Dreamworks_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-dreamworks.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-dreamworks",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True FilmHD_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tfilm.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-tfilm",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True FilmHD_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tfilm.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-tfilm",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True FilmHD2_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tfilm2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-tfilm2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True FilmHD2_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tfilm2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-tfilm2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "WarnerTV_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-warnertv.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-warnertv",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "WarnerTV_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-warnertv.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-warnertv",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True X-Zyte_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-xzyte.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-xzyte",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True X-Zyte_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-xzyte.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-xzyte",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True FilmAsia_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-filmasia.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-filmasia",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True FilmAsia_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-filmasia.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-filmasia",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True MovieHits_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-moviehits.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-moviehits",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True MovieHits_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-moviehits.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-moviehits",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Series_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-series.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-series",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Series_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-series.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-series",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Thaifilm_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-thaifilm.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-thaifilm",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Thaifilm_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-thaifilm.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-thaifilm",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Asian Food_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-asianfood.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-asianfood",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Asian Food_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-asianfood.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-asianfood",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Explife_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-explife.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-explife",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Explife_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-explife.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-explife",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True ExpSci_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-expsci.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-expsci",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True ExpSci_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-expsci.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-expsci",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Discovery_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-discovery.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-discovery",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Discovery_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-discovery.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-discovery",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "History_720p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-history.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-history",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "History_480p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-history.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-history",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "สำรวจโลก_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SamRujLok.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-samrujlok",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "สำรวจโลก_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SamRujLok.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-samrujlok",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Animal Show_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AnimalShow.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-animalshow",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Animal Show_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AnimalShow.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-animalshow",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "KhongDee_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/KhongDeeThailand.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-khongdee",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "KhongDee_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/KhongDeeThailand.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-khongdee",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MySci_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MySCI.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-mysci",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MySci_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MySCI.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-mysci",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TLC_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TLC.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-tlc",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TLC_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TLC.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-tlc",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CartoonNetwork_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0171.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-cartoonnetwork",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CartoonNetwork_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0171.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-cartoonnetwork",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Boomerang_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-boomerang",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Boomerang_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-boomerang",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Nickjr_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0156.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-nickjr",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Nickjr_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0156.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-nickjr",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Nickelodeon_720p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO_Nickelodeon2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-nickelodeon",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Nickelodeon_480p",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO_Nickelodeon2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-nickelodeon",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax01_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax01.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax01",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax01_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax01.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax01",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax01bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax01bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax01bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax01bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax01bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax01bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax02_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax02.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax02",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax02_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax02.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax02",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax02bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax02bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax02bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax02bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax02bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax02bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax02eng_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax02eng.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax02eng",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax02eng_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax02eng.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax02eng",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax03_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax03.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax03",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax03_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax03.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax03",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax03bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax03bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax03bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax03bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax03bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax03bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax04_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax04bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax04bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax04_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax04bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax04bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax04bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax04bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax04bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax04bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax04bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax04bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax05_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax05.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax05",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax05_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax05.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax05",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax05bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax05bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax05bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax05bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax05bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax05bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax06_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax06.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax06",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax06_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax06.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax06",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax06bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax06bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax06bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax06bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax06bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax06bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax07_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax07.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax07",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax07_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax07.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax07",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax07bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax07bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax07bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax07bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax07bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax07bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax08_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax08.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax08",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax08_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax08.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax08",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax08bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax08bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax08bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax08bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax08bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax08bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax09_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax09.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax09",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax09_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax09.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax09",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax09bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax09bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax09bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax09bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax09bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax09bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax10_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax10.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax10",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax10_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax10.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax10",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax10bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax10bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax10bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax10bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax10bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax10bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax11_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax11.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax11",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax11_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax11.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax11",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax11bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax11bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-monomax11bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MonoMax11bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-monomax11bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-monomax11bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Premier Football HD3_720p",
+      "image": "https://api.bananamuffin.org/images/png/epl-3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Premier Football HD3_480p",
+      "image": "https://api.bananamuffin.org/images/png/epl-3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "SPOTV_720p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-spotv.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-spotv",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "SPOTV_480p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-spotv.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-spotv",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "SPOTV2_720p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-spotv2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-spotv2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "SPOTV2_480p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-spotv2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-spotv2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport1_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport1_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport2_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport2_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport3_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport3_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport4_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein4.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport4_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein4.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport5_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein5.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport5_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein5.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport6_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein6.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein6",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport6_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein6.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein6",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport7_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein7.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport7_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein7.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport8_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein8.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein8",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport8_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein8.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein8",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport9_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein9.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein9",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport9_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein9.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein9",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport10_720p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein10.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=epl-bein10",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Bein Sport10_480p",
+      "image": "https://api.eatmorebanana.org/images/png/epl-bein10.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=epl-bein10",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD_720p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-tsport1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-tsport1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD_480p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-tsport1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-tsport1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD_720p",
+      "image": "https://api.eatmorebanana.org/images/png/th-tsporthd1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-tsporthd1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD_480p",
+      "image": "https://api.eatmorebanana.org/images/png/th-tsporthd1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-tsporthd1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD2_720p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-tsport2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-tsport2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD2_480p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-tsport2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-tsport2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD2_720p",
+      "image": "https://api.bananamuffin.org/images/png/th-tsporthd2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=th-tsporthd2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD2_480p",
+      "image": "https://api.bananamuffin.org/images/png/th-tsporthd2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=th-tsporthd2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD3_720p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-tsport3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-tsport3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD3_480p",
+      "image": "https://api.eatmorebanana.org/images/png/hd-tsport3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-tsport3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD4_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tsport4.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-tsport4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True SportHD4_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tsport4.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-tsport4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Sport5_720p",
+      "image": "https://api.eatmorebanana.org/images/png/sd-tsport5.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-tsport5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Sport5_480p",
+      "image": "https://api.eatmorebanana.org/images/png/sd-tsport5.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-tsport5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Sport7_720p",
+      "image": "https://api.eatmorebanana.org/images/png/sd-tsport7.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-tsport7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Sport7_480p",
+      "image": "https://api.eatmorebanana.org/images/png/sd-tsport7.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-tsport7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Golf Channel_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-golf2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-golf2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Golf Channel_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-golf2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-golf2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Tennis_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tennis.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-tennis",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Tennis_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-tennis.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-tennis",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "T-Sports_720p",
+      "image": "https://api.bananamuffin.org/images/png/sd-tsports.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sd-tsports",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "T-Sports_480p",
+      "image": "https://api.bananamuffin.org/images/png/sd-tsports.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sd-tsports",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-attheraces_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-attheraces.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-attheraces",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-attheraces_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-attheraces.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-attheraces",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport1hd_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport1hd.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-btsport1hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport1hd_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport1hd.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-btsport1hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport1hdbkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport1hdbkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-btsport1hdbkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport1hdbkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport1hdbkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-btsport1hdbkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport2hd_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport2hd.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-btsport2hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport2hd_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport2hd.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-btsport2hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport2hdbkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport2hdbkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-btsport2hdbkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport2hdbkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport2hdbkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-btsport2hdbkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport3hd_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport3hd.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-btsport3hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport3hd_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport3hd.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-btsport3hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport3hdbkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport3hdbkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-btsport3hdbkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-btsport3hdbkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-btsport3hdbkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-btsport3hdbkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-espn_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-espn.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-espn",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-espn_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-espn.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-espn",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-premiersports_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-premiersports.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-premiersports",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-premiersports_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-premiersports.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-premiersports",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-premiersports2_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-premiersports2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-premiersports2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-premiersports2_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-premiersports2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-premiersports2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-action_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-action.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-action",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-action_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-action.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-action",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-arena_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-arena.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-arena",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-arena_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-arena.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-arena",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-cricket_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-cricket.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-cricket",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-cricket_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-cricket.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-cricket",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-epl_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-epl.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-epl",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-epl_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-epl.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-epl",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-f1_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-f1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-f1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-f1_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-f1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-f1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-football_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-football.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-football",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-football_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-football.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-football",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-golf_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-golf.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-golf",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-golf_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-golf.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-golf",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-mainevent_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-mainevent.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-mainevent",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-mainevent_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-mainevent.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-mainevent",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-mix_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-mix.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-mix",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-mix_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-mix.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-mix",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-news_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-news.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-news",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-news_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-news.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-news",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-plus_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-plus.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports-plus",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports-plus_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports-plus.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports-plus",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports1bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports1bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports1bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports1bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports1bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports1bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports2bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports2bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports2bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports2bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports2bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports2bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports3bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports3bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports3bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports3bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports3bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports3bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports4bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports4bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports4bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports4bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports4bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports4bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports5bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports5bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysports5bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysports5bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysports5bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysports5bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysportsf1bkp_720p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysportsf1bkp.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=uk-skysportsf1bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "uk-skysportsf1bkp_480p",
+      "image": "https://api.bananamuffin.org/images/png/uk-skysportsf1bkp.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=uk-skysportsf1bkp",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-espn2_720p",
+      "image": "https://api.eatmorebanana.org/images/png/us-espn2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=us-espn2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-espn2_480p",
+      "image": "https://api.eatmorebanana.org/images/png/us-espn2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=us-espn2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-foxsports1_720p",
+      "image": "https://api.bananamuffin.org/images/png/us-foxsports1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=us-foxsports1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-foxsports1_480p",
+      "image": "https://api.bananamuffin.org/images/png/us-foxsports1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=us-foxsports1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-foxsports2_720p",
+      "image": "https://api.bananamuffin.org/images/png/us-foxsports2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=us-foxsports2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-foxsports2_480p",
+      "image": "https://api.bananamuffin.org/images/png/us-foxsports2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=us-foxsports2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-nba_720p",
+      "image": "https://api.bananamuffin.org/images/png/us-nba.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=us-nba",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-nba_480p",
+      "image": "https://api.bananamuffin.org/images/png/us-nba.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=us-nba",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-nbcgolf_720p",
+      "image": "https://api.bananamuffin.org/images/png/us-nbcgolf.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=us-nbcgolf",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-nbcgolf_480p",
+      "image": "https://api.bananamuffin.org/images/png/us-nbcgolf.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=us-nbcgolf",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-nfl_720p",
+      "image": "https://api.bananamuffin.org/images/png/us-nfl.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=us-nfl",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "us-nfl_480p",
+      "image": "https://api.bananamuffin.org/images/png/us-nfl.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=us-nfl",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox501_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox501.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-fox501",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox501_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox501.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-fox501",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox502_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox502.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-fox502",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox502_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox502.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-fox502",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox503_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox503.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-fox503",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox503_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox503.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-fox503",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox504_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox504.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-fox504",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox504_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox504.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-fox504",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox505_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox505.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-fox505",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox505_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox505.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-fox505",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox506_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox506.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-fox506",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox506_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox506.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-fox506",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox507_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox507.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-fox507",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-fox507_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-fox507.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-fox507",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-racing_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-racing.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-racing",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-racing_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-racing.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-racing",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-skyracing2_720p",
+      "image": "https://api.bananamuffin.org/images/png/au-skyracing2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=au-skyracing2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "au-skyracing2_480p",
+      "image": "https://api.bananamuffin.org/images/png/au-skyracing2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=au-skyracing2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn1_720p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=ca-tsn1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn1_480p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=ca-tsn1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn2_720p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=ca-tsn2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn2_480p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=ca-tsn2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn3_720p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=ca-tsn3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn3_480p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=ca-tsn3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn4_720p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn4.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=ca-tsn4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn4_480p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn4.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=ca-tsn4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn5_720p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn5.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=ca-tsn5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ca-tsn5_480p",
+      "image": "https://api.bananamuffin.org/images/png/ca-tsn5.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=ca-tsn5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-bein1hd_720p",
+      "image": "https://api.bananamuffin.org/images/png/fr-bein1hd.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=fr-bein1hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-bein1hd_480p",
+      "image": "https://api.bananamuffin.org/images/png/fr-bein1hd.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=fr-bein1hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-bein2hd_720p",
+      "image": "https://api.bananamuffin.org/images/png/fr-bein2hd.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=fr-bein2hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-bein2hd_480p",
+      "image": "https://api.bananamuffin.org/images/png/fr-bein2hd.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=fr-bein2hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-bein3hd_720p",
+      "image": "https://api.bananamuffin.org/images/png/fr-bein3hd.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=fr-bein3hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-bein3hd_480p",
+      "image": "https://api.bananamuffin.org/images/png/fr-bein3hd.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=fr-bein3hd",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-canalsport_720p",
+      "image": "https://api.bananamuffin.org/images/png/fr-canalsport.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=fr-canalsport",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-canalsport_480p",
+      "image": "https://api.bananamuffin.org/images/png/fr-canalsport.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=fr-canalsport",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-infosport_720p",
+      "image": "https://api.bananamuffin.org/images/png/fr-infosport.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=fr-infosport",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "fr-infosport_480p",
+      "image": "https://api.bananamuffin.org/images/png/fr-infosport.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=fr-infosport",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "de-sportdigital_720p",
+      "image": "https://api.bananamuffin.org/images/png/de-sportdigital.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=de-sportdigital",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "de-sportdigital_480p",
+      "image": "https://api.bananamuffin.org/images/png/de-sportdigital.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=de-sportdigital",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-arena1_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-arena1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-arena1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-arena1_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-arena1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-arena1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-arena2_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-arena2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-arena2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-arena2_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-arena2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-arena2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-epl1_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-epl1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-astro-epl1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-epl1_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-epl1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-astro-epl1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-epl2_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-epl2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-astro-epl2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-epl2_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-epl2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-astro-epl2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-football_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-football.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-astro-football",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-football_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-football.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-astro-football",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-grandstand_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-grandstand.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-astro-grandstand",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-grandstand_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-grandstand.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-astro-grandstand",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-sportsplus_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-sportsplus.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-astro-sportsplus",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-astro-sportsplus_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-astro-sportsplus.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-astro-sportsplus",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-bein1_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-bein1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-bein1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-bein1_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-bein1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-bein1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-bein2_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-bein2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-bein2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-bein2_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-bein2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-bein2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-bein3_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-bein3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-bein3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-bein3_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-bein3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-bein3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-nbcgolf_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-nbcgolf.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-nbcgolf",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-nbcgolf_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-nbcgolf.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-nbcgolf",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-premiersports_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-premiersports.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-premiersports",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-premiersports_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-premiersports.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-premiersports",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-spotv1_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-spotv1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-spotv1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-spotv1_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-spotv1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-spotv1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-spotv2_720p",
+      "image": "https://api.bananamuffin.org/images/png/my-spotv2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=my-spotv2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "my-spotv2_480p",
+      "image": "https://api.bananamuffin.org/images/png/my-spotv2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=my-spotv2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-espn1_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-espn1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-espn1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-espn1_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-espn1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-espn1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-espn2_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-espn2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-espn2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-espn2_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-espn2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-espn2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-espn3_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-espn3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-espn3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-espn3_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-espn3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-espn3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-espn4_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-espn4.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-espn4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-espn4_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-espn4.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-espn4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport1_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-ziggosport1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport1_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-ziggosport1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport2_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-ziggosport2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport2_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-ziggosport2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport3_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-ziggosport3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport3_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-ziggosport3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport4_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport4.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-ziggosport4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport4_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport4.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-ziggosport4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport5_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport5.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-ziggosport5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport5_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport5.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-ziggosport5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport6_720p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport6.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nl-ziggosport6",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nl-ziggosport6_480p",
+      "image": "https://api.bananamuffin.org/images/png/nl-ziggosport6.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nl-ziggosport6",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport1_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport1_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport2_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport2_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport3_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport3_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport4_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport4.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport4_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport4.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport5_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport5.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport5_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport5.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport6_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport6.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport6",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport6_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport6.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport6",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport7_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport7.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport7_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport7.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport8_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport8.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport8",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport8_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport8.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport8",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport9_720p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport9.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=nz-skysport9",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "nz-skysport9_480p",
+      "image": "https://api.bananamuffin.org/images/png/nz-skysport9.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=nz-skysport9",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein1_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein1_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein2_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein2_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein3_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein3_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein4_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein4.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein4_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein4.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein4",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein5_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein5.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein5_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein5.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein5",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein6_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein6.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein6",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein6_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein6.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein6",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein7_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein7.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein7_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein7.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein7",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein8_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein8.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein8",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein8_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein8.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein8",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein9_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein9.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein9",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein9_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein9.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein9",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein10_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein10.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein10",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein10_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein10.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein10",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein11_720p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein11.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=hd-bein11",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "hd-bein11_480p",
+      "image": "https://api.bananamuffin.org/images/png/hd-bein11.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=hd-bein11",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ru-matchfutbol1_720p",
+      "image": "https://api.bananamuffin.org/images/png/ru-matchfutbol1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=ru-matchfutbol1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ru-matchfutbol1_480p",
+      "image": "https://api.bananamuffin.org/images/png/ru-matchfutbol1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=ru-matchfutbol1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ru-matchfutbol2_720p",
+      "image": "https://api.bananamuffin.org/images/png/ru-matchfutbol2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=ru-matchfutbol2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ru-matchfutbol2_480p",
+      "image": "https://api.bananamuffin.org/images/png/ru-matchfutbol2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=ru-matchfutbol2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ru-matchfutbol3_720p",
+      "image": "https://api.bananamuffin.org/images/png/ru-matchfutbol3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=ru-matchfutbol3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ru-matchfutbol3_480p",
+      "image": "https://api.bananamuffin.org/images/png/ru-matchfutbol3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=ru-matchfutbol3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-bein1_720p",
+      "image": "https://api.bananamuffin.org/images/png/sg-bein1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sg-bein1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-bein1_480p",
+      "image": "https://api.bananamuffin.org/images/png/sg-bein1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sg-bein1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-bein2_720p",
+      "image": "https://api.bananamuffin.org/images/png/sg-bein2.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sg-bein2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-bein2_480p",
+      "image": "https://api.bananamuffin.org/images/png/sg-bein2.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sg-bein2",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-bein3_720p",
+      "image": "https://api.bananamuffin.org/images/png/sg-bein3.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sg-bein3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-bein3_480p",
+      "image": "https://api.bananamuffin.org/images/png/sg-bein3.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sg-bein3",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-hubsport01_720p",
+      "image": "https://api.bananamuffin.org/images/png/sg-hubsport01.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sg-hubsport01",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-hubsport01_480p",
+      "image": "https://api.bananamuffin.org/images/png/sg-hubsport01.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sg-hubsport01",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-hubsport02_720p",
+      "image": "https://api.bananamuffin.org/images/png/sg-hubsport02.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sg-hubsport02",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-hubsport02_480p",
+      "image": "https://api.bananamuffin.org/images/png/sg-hubsport02.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sg-hubsport02",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-hubsport03_720p",
+      "image": "https://api.bananamuffin.org/images/png/sg-hubsport03.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sg-hubsport03",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sg-hubsport03_480p",
+      "image": "https://api.bananamuffin.org/images/png/sg-hubsport03.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sg-hubsport03",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sk-arena1_720p",
+      "image": "https://api.bananamuffin.org/images/png/sk-arena1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=sk-arena1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "sk-arena1_480p",
+      "image": "https://api.bananamuffin.org/images/png/sk-arena1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=sk-arena1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "es-movistar-laliga1_720p",
+      "image": "https://api.bananamuffin.org/images/png/es-movistar-laliga1.png",
+      "url": "https://dootvz.myds.me/dooball66/DB66_P.php?channel=es-movistar-laliga1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "es-movistar-laliga1_480p",
+      "image": "https://api.bananamuffin.org/images/png/es-movistar-laliga1.png",
+      "url": "https://dootvz.myds.me/dooball69/DB69_P.php?channel=es-movistar-laliga1",
+      "referer": "https://dootvz.myds.me/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
