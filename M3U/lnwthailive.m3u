@@ -123,6 +123,72 @@ https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-24u
 #EXTINF:-1 tvg-id="5434896" tvg-name="True4U (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-24ubkp.png"group-title="ดิจิตอล ทีวี",True4U (Backup)
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-24ubkp
 
+
+
+#EXTINF:-1 tvg-id="898600" tvg-name="Asian More" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-asianmore.png"group-title="บันเทิง",Asian More
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-asianmore
+
+#EXTINF:-1 tvg-id="1042342" tvg-name="Warner TV HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-warnertv.png"group-title="บันเทิง",Warner TV HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-warnertv
+
+#EXTINF:-1 tvg-id="6495908" tvg-name="HBO (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbo.png"group-title="บันเทิง",HBO (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbo
+
+#EXTINF:-1 tvg-id="7009344" tvg-name="HBO Family (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbofamily.png"group-title="บันเทิง",HBO Family (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbofamily
+
+#EXTINF:-1 tvg-id="2093340" tvg-name="HBO Hits (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbohits.png"group-title="บันเทิง",HBO Hits (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbohits
+
+#EXTINF:-1 tvg-id="6823588" tvg-name="HBO Signature (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbosignature.png"group-title="บันเทิง",HBO Signature (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbosignature
+
+#EXTINF:-1 tvg-id="7985322" tvg-name="Cinemax" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-cinemax.png"group-title="บันเทิง",Cinemax
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-cinemax
+
+#EXTINF:-1 tvg-id="8936654" tvg-name="Cinemax (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-cinemax.png"group-title="บันเทิง",Cinemax (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-cinemax
+
+#EXTINF:-1 tvg-id="3745850" tvg-name="AXN" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-axn.png"group-title="บันเทิง",AXN
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-axn
+
+#EXTINF:-1 tvg-id="111295" tvg-name="AXN (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-axnbkp.png"group-title="บันเทิง",AXN (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-axnbkp
+
+#EXTINF:-1 tvg-id="6501954" tvg-name="AXN (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-axn.png"group-title="บันเทิง",AXN (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-axn
+
+#EXTINF:-1 tvg-id="3773940" tvg-name="Blue Ant (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-blueant.png"group-title="บันเทิง",Blue Ant (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-blueant
+
+#EXTINF:-1 tvg-id="7482791" tvg-name="Blue Ant Extreme (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-blueantex.png"group-title="บันเทิง",Blue Ant Extreme (Backup 2)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-blueantex
+
+#EXTINF:-1 tvg-id="8286567" tvg-name="Film HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tfilm.png"group-title="บันเทิง",Film HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tfilm
+
+#EXTINF:-1 tvg-id="629619" tvg-name="Series" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-series.png"group-title="บันเทิง",Series
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-series
+
+#EXTINF:-1 tvg-id="6869772" tvg-name="Movie Hits" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-moviehits.png"group-title="บันเทิง",Movie Hits
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-moviehits
+
+#EXTINF:-1 tvg-id="2592087" tvg-name="X-Zyte HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-xzyte.png"group-title="บันเทิง",X-Zyte HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-xzyte
+
+#EXTINF:-1 tvg-id="2750948" tvg-name="Thai Film (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-thaifilmbkp.png"group-title="บันเทิง",Thai Film (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-thaifilm
+
+#EXTINF:-1 tvg-id="6761124" tvg-name="Clelestial Classic Movies" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-celestial.png"group-title="บันเทิง",Clelestial Classic Movies
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-celestial
+
+#EXTINF:-1 tvg-id="4947146" tvg-name="Mono+" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-monoplus.png"group-title="บันเทิง",Mono+
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-monoplus
+
+#EXTINF:-1 tvg-id="3687114" tvg-name="Film Asia" tvg-logo="https://images.streamx-web.org/images/tv/png/sd-filmasia.png"group-title="บันเทิง",Film Asia
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-filmasia
+
+
 #EXTINF:-1 tvg-id="4379572" tvg-name="Max 01 (A)" tvg-logo="https://images.streamx-web.org/images/tv/png/th-max01.png"group-title="กีฬา",Max 01 (A)
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-max01
 
@@ -423,68 +489,26 @@ https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-animalshow
 #EXTINF:-1 tvg-id="4911463" tvg-name="Samrujlok (StreamX HD)" tvg-logo="https://images.streamx-web.org/images/tv/png/streamx-samrujlok.png"group-title="สารคดี",Samrujlok (StreamX HD)
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-samrujlok
 
-#EXTINF:-1 tvg-id="898600" tvg-name="Asian More" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-asianmore.png"group-title="บันเทิง",Asian More
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-asianmore
+#EXTINF:-1 tvg-id="5528016" tvg-name="Dreamworks" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-dreamworks.png"group-title="การ์ตูน",Dreamworks
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-dreamworks
 
-#EXTINF:-1 tvg-id="1042342" tvg-name="Warner TV HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-warnertv.png"group-title="บันเทิง",Warner TV HD
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-warnertv
+#EXTINF:-1 tvg-id="6902140" tvg-name="Cartoon Network (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-cartoonnetworkbkp.png"group-title="การ์ตูน",Cartoon Network (Backup)
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-cartoonnetwork
 
-#EXTINF:-1 tvg-id="6495908" tvg-name="HBO (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbo.png"group-title="บันเทิง",HBO (Backup 2)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbo
+#EXTINF:-1 tvg-id="2767479" tvg-name="Nickelodeon" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-nickelodeon.png"group-title="การ์ตูน",Nickelodeon
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-nickelodeon
 
-#EXTINF:-1 tvg-id="7009344" tvg-name="HBO Family (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbofamily.png"group-title="บันเทิง",HBO Family (Backup 2)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbofamily
+#EXTINF:-1 tvg-id="2508294" tvg-name="Boomerang" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-boomerang.png"group-title="การ์ตูน",Boomerang
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-boomerang
 
-#EXTINF:-1 tvg-id="2093340" tvg-name="HBO Hits (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbohits.png"group-title="บันเทิง",HBO Hits (Backup 2)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbohits
+#EXTINF:-1 tvg-id="7566861" tvg-name="Cartoonito UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cartoonito.png"group-title="การ์ตูน",Cartoonito UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cartoonito
 
-#EXTINF:-1 tvg-id="6823588" tvg-name="HBO Signature (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbosignature.png"group-title="บันเทิง",HBO Signature (Backup 2)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbosignature
+#EXTINF:-1 tvg-id="4139123" tvg-name="cBBC UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cbbchd.png"group-title="การ์ตูน",cBBC UK
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cbbchd
 
-#EXTINF:-1 tvg-id="7985322" tvg-name="Cinemax" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-cinemax.png"group-title="บันเทิง",Cinemax
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-cinemax
-
-#EXTINF:-1 tvg-id="8936654" tvg-name="Cinemax (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-cinemax.png"group-title="บันเทิง",Cinemax (Backup 2)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-cinemax
-
-#EXTINF:-1 tvg-id="3745850" tvg-name="AXN" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-axn.png"group-title="บันเทิง",AXN
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-axn
-
-#EXTINF:-1 tvg-id="111295" tvg-name="AXN (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-axnbkp.png"group-title="บันเทิง",AXN (Backup)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-axnbkp
-
-#EXTINF:-1 tvg-id="6501954" tvg-name="AXN (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-axn.png"group-title="บันเทิง",AXN (Backup 2)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-axn
-
-#EXTINF:-1 tvg-id="3773940" tvg-name="Blue Ant (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-blueant.png"group-title="บันเทิง",Blue Ant (Backup 2)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-blueant
-
-#EXTINF:-1 tvg-id="7482791" tvg-name="Blue Ant Extreme (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-blueantex.png"group-title="บันเทิง",Blue Ant Extreme (Backup 2)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-blueantex
-
-#EXTINF:-1 tvg-id="8286567" tvg-name="Film HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tfilm.png"group-title="บันเทิง",Film HD
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tfilm
-
-#EXTINF:-1 tvg-id="629619" tvg-name="Series" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-series.png"group-title="บันเทิง",Series
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-series
-
-#EXTINF:-1 tvg-id="6869772" tvg-name="Movie Hits" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-moviehits.png"group-title="บันเทิง",Movie Hits
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-moviehits
-
-#EXTINF:-1 tvg-id="2592087" tvg-name="X-Zyte HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-xzyte.png"group-title="บันเทิง",X-Zyte HD
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-xzyte
-
-#EXTINF:-1 tvg-id="2750948" tvg-name="Thai Film (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-thaifilmbkp.png"group-title="บันเทิง",Thai Film (Backup)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-thaifilm
-
-#EXTINF:-1 tvg-id="6761124" tvg-name="Clelestial Classic Movies" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-celestial.png"group-title="บันเทิง",Clelestial Classic Movies
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-celestial
-
-#EXTINF:-1 tvg-id="4947146" tvg-name="Mono+" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-monoplus.png"group-title="บันเทิง",Mono+
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-monoplus
-
-#EXTINF:-1 tvg-id="3687114" tvg-name="Film Asia" tvg-logo="https://images.streamx-web.org/images/tv/png/sd-filmasia.png"group-title="บันเทิง",Film Asia
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-filmasia
+#EXTINF:-1 tvg-id="4355191" tvg-name="Disney 2" tvg-logo="https://images.streamx-web.org/images/tv/png/streamx-disney2.png"group-title="การ์ตูน",Disney 2
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=streamx-disney2
 
 #EXTINF:-1 tvg-id="1748858" tvg-name="TPTV" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-tptv.png"group-title="ข่าว",TPTV
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-tptv
@@ -560,27 +584,6 @@ https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-aljazeera
 
 #EXTINF:-1 tvg-id="8909174" tvg-name="France 2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/fr-france2.png"group-title="ข่าว",France 2
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=fr-france2
-
-#EXTINF:-1 tvg-id="5528016" tvg-name="Dreamworks" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-dreamworks.png"group-title="การ์ตูน",Dreamworks
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-dreamworks
-
-#EXTINF:-1 tvg-id="6902140" tvg-name="Cartoon Network (Backup)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-cartoonnetworkbkp.png"group-title="การ์ตูน",Cartoon Network (Backup)
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-cartoonnetwork
-
-#EXTINF:-1 tvg-id="2767479" tvg-name="Nickelodeon" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-nickelodeon.png"group-title="การ์ตูน",Nickelodeon
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-nickelodeon
-
-#EXTINF:-1 tvg-id="2508294" tvg-name="Boomerang" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-boomerang.png"group-title="การ์ตูน",Boomerang
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-boomerang
-
-#EXTINF:-1 tvg-id="7566861" tvg-name="Cartoonito UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cartoonito.png"group-title="การ์ตูน",Cartoonito UK
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cartoonito
-
-#EXTINF:-1 tvg-id="4139123" tvg-name="cBBC UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-cbbchd.png"group-title="การ์ตูน",cBBC UK
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-cbbchd
-
-#EXTINF:-1 tvg-id="4355191" tvg-name="Disney 2" tvg-logo="https://images.streamx-web.org/images/tv/png/streamx-disney2.png"group-title="การ์ตูน",Disney 2
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=streamx-disney2
 
 #EXTINF:-1 tvg-id="8320193" tvg-name="cITV UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-citv.png"group-title="ต่างประเทศ",cITV UK
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-citv
@@ -759,26 +762,4 @@ https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-w
 #EXTINF:-1 tvg-id="2356235" tvg-name="Yesterday UK" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/uk-yesterday.png"group-title="ต่างประเทศ",Yesterday UK
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=uk-yesterday
 
-#EXTINF:-1 tvg-id="5026954" tvg-name="XXX 1" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/xxx-01.png"group-title="VIP",XXX 1
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-01
 
-#EXTINF:-1 tvg-id="5026953" tvg-name="XXX 2" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/xxx-02.png"group-title="VIP",XXX 2
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-02
-
-#EXTINF:-1 tvg-id="5026952" tvg-name="XXX 3" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/xxx-03.png"group-title="VIP",XXX 3
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-03
-
-#EXTINF:-1 tvg-id="9781090" tvg-name="StreamX VIP 1" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip1.png"group-title="VIP",StreamX VIP 1
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip1
-
-#EXTINF:-1 tvg-id="9781089" tvg-name="StreamX VIP 2" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip2.png"group-title="VIP",StreamX VIP 2
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip2
-
-#EXTINF:-1 tvg-id="9781088" tvg-name="StreamX VIP 3" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip3.png"group-title="VIP",StreamX VIP 3
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip3
-
-#EXTINF:-1 tvg-id="9781087" tvg-name="StreamX VIP 4" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip4.png"group-title="VIP",StreamX VIP 4
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip4
-
-#EXTINF:-1 tvg-id="9781086" tvg-name="StreamX VIP 5" tvg-logo="https://images.streamx-web.org/images/tv/png/xxx-streamx-vip5.png"group-title="VIP",StreamX VIP 5
-https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=xxx-streamx-vip5
