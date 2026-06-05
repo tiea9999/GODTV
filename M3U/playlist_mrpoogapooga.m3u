@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="CH 3" tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch3.png" group-title="ดิจิตอล",CH 3
-http://103.174.190.7:8080/live/mrpoogapooga@gmail.com/085858/83.m3u8
+https://6395online.com:8443/live/mrpoogapooga@gmail.com/085858/83.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CH 3-B" tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch3.png" group-title="ดิจิตอล",CH 3-B
 http://103.174.190.7:8080/live/mrpoogapooga@gmail.com/085858/84.m3u8
