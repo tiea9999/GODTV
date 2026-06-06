@@ -300,8 +300,6 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID Station" tvg-logo="https://6395online.com:8443/logotv/sport/IDStation.jpg" group-title="กีฬา 2",ID Station
 http://6395online.com:8080/live/iptv591@gmail.com/456672/214.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-cartoonclub.png" group-title="การ์ตูน",Cartoon Club
-http://6395online.com:8080/live/iptv591@gmail.com/456672/215.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD" tvg-logo="https://6395online.com:8443/logotv/sport/golf2.jpg" group-title="กีฬา 2",Golf 2 HD
 http://6395online.com:8080/live/iptv591@gmail.com/456672/217.m3u8
@@ -889,8 +887,6 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/393001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPL SKYBET 3" tvg-logo="http://apk-x.org/pics/images/EPL.jpg" group-title="กีฬา 1",EPL SKYBET 3
 http://6395online.com:8080/live/iptv591@gmail.com/456672/393002.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS Channel" tvg-logo="https://6395online.com:8443/logotv/cartoon/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.jpg" group-title="การ์ตูน",ANIPLUS Channel
-http://6395online.com:8080/live/iptv591@gmail.com/456672/398610.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="My Wsport" tvg-logo="https://6395online.com:8443/logotv/sportus/my-wsport.png" group-title="กีฬาต่างประเทศ",My Wsport
 http://6395online.com:8080/live/iptv591@gmail.com/456672/398630.m3u8
@@ -898,8 +894,6 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/398630.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/517_RealMadridTV_.png" group-title="กีฬาต่างประเทศ",Real Madrid TV
 http://6395online.com:8080/live/iptv591@gmail.com/456672/400489.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RT Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png" group-title="สารคดี",RT Documentary
-http://6395online.com:8080/live/iptv591@gmail.com/456672/401873.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="https://6395online.com:8443/logotv/logo/1753040524.png" group-title="กีฬาต่างประเทศ",Eurosport
 http://6395online.com:8080/live/iptv591@gmail.com/456672/403224.m3u8
@@ -1129,18 +1123,6 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/403355.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="one" tvg-logo="http://apk-x.org/pics/images/one173.png" group-title="even กีฬา",one
 http://6395online.com:8080/live/iptv591@gmail.com/456672/434962.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://6395online.com:8443/logotv/movie/universal.jpg" group-title="ภาพยนต์",Universal
-http://6395online.com:8080/live/iptv591@gmail.com/456672/435625.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AMAZING" tvg-logo="https://6395online.com:8443/logotv/movie/logo-amazing.png" group-title="สารคดี",AMAZING
-http://6395online.com:8080/live/iptv591@gmail.com/456672/435629.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Science" tvg-logo="https://6395online.com:8443/logotv/movie/logo-seience.png" group-title="สารคดี",Science
-http://6395online.com:8080/live/iptv591@gmail.com/456672/435630.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Animal" tvg-logo="https://6395online.com:8443/logotv/movie/logo-animal.png" group-title="สารคดี",Animal
-http://6395online.com:8080/live/iptv591@gmail.com/456672/435631.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="HiSports HD" tvg-logo="https://6395online.com:8443/logotv/movie/308864143_166781909281516_6364889195803126705_n.jpg" group-title="กีฬา 2",HiSports HD
 http://6395online.com:8080/live/iptv591@gmail.com/456672/435632.m3u8
 
@@ -1155,15 +1137,6 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/435635.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBC Sports Washington" tvg-logo="https://6395online.com:8443/logotv/movie/us-nbcsports.png" group-title="กีฬา 2",NBC Sports Washington
 http://6395online.com:8080/live/iptv591@gmail.com/456672/435636.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="M2rock HD" tvg-logo="https://6395online.com:8443/logotv/movie/M2-ROCK.png" group-title="วาไรตี้",M2rock HD
-http://6395online.com:8080/live/iptv591@gmail.com/456672/435637.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="M4JAZZ HD" tvg-logo="https://6395online.com:8443/logotv/movie/M4-jazz.png" group-title="วาไรตี้",M4JAZZ HD
-http://6395online.com:8080/live/iptv591@gmail.com/456672/435638.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="M6country HD" tvg-logo="https://6395online.com:8443/logotv/movie/M6-country.png" group-title="วาไรตี้",M6country HD
-http://6395online.com:8080/live/iptv591@gmail.com/456672/435639.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="True Ball Thai 1" tvg-logo="https://6395online.com:8443/logotv/true-ball-thai/ballthai1.png" group-title="Ais Jleauge TrueBallThai",True Ball Thai 1
 http://6395online.com:8080/live/iptv591@gmail.com/456672/288585.m3u8
@@ -1186,20 +1159,8 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/304693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BG Sport 5" tvg-logo="https://6395online.com:8443/logotv/sportus/opt1729770760d.png" group-title="Ais Jleauge TrueBallThai",BG Sport 5
 http://6395online.com:8080/live/iptv591@gmail.com/456672/304694.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Livesky 1" tvg-logo="https://6395online.com:8443/logotv/movie/Livesky11.png" group-title="ภาพยนต์",Livesky 1
-http://6395online.com:8080/live/iptv591@gmail.com/456672/443073.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Livesky 2" tvg-logo="https://6395online.com:8443/logotv/movie/Livesky22.png" group-title="ภาพยนต์",Livesky 2
-http://6395online.com:8080/live/iptv591@gmail.com/456672/443074.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://6395online.com:8443/logotv/movie/ipm_series_plus_hd.png" group-title="ภาพยนต์",SERIES
-http://6395online.com:8080/live/iptv591@gmail.com/456672/443075.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="League Men Sports 3" tvg-logo="https://6395online.com:8443/logotv/monomax/1155224.png" group-title="กีฬา M",League Men Sports 3
 http://6395online.com:8080/live/iptv591@gmail.com/456672/444275.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="VIPATV ThaiPBS" tvg-logo="https://6395online.com:8443/logotv/photo_6255908059389562550_x.jpg" group-title="ดิจิตอล",VIPATV ThaiPBS
-http://6395online.com:8080/live/iptv591@gmail.com/456672/463430.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONE 2" tvg-logo="http://apk-x.org/pics/images/one173.png" group-title="even กีฬา",ONE 2
 http://6395online.com:8080/live/iptv591@gmail.com/456672/538137.m3u8
