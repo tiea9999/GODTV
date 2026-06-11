@@ -167,6 +167,9 @@ https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-blueantex
 #EXTINF:-1 tvg-id="8286567" tvg-name="Film HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-tfilm.png"group-title="บันเทิง",Film HD
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tfilm
 
+#EXTINF:-1 tvg-id="8286567" tvg-name="Film HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-tfilm2.png"group-title="บันเทิง",Film HD
+https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-tfilm2
+
 #EXTINF:-1 tvg-id="629619" tvg-name="Series" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/sd-series.png"group-title="บันเทิง",Series
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=sd-series
 
