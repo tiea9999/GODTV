@@ -136,6 +136,9 @@ https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-asianmore
 #EXTINF:-1 tvg-id="1042342" tvg-name="Warner TV HD" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/hd-warnertv.png"group-title="บันเทิง",Warner TV HD
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=hd-warnertv
 
+#EXTINF:-1 tvg-id="6495908" tvg-name="HBO (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbo.png"group-title="บันเทิง",HBO 
+http://54.37.19.157/hbohd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="6495908" tvg-name="HBO (Backup 2)" tvg-logo="https://images.streamx-web.org/images/tv/channels_icons/th-hbo.png"group-title="บันเทิง",HBO (Backup 2)
 https://apiiptv.lnwthailive.online/api/play/stream.m3u8?c=th-hbo
 
