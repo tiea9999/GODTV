@@ -1,4 +1,6 @@
 #EXTM3U  
+#EXTINF:-1 tvg-id="3744483" tvg-name=WorldCup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMu7gQoNOKnWwlQQPvEjV00BkjefHBjYE-OQ&s"group-title="ดิจิตอล ทีวี",Worldcup
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CH 3" tvg-logo="https://6395online.com:8443/logotv/freetv/hd-ch3.png" group-title="ดิจิตอล",CH 3
 http://6395online.com:8080/live/iptv591@gmail.com/456672/83.m3u8
