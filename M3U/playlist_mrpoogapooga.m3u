@@ -134,7 +134,7 @@ https://6395online.com:8443/live/mrpoogapooga@gmail.com/085858/130.m3u8
 #EXTINF:-1 tvg-id="channel22" tvg-name="HBO HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
 https://6395online.com:8443/live/mrpoogapooga@gmail.com/085858/133.m3u8
 
-#EXTINF:-1 tvg-id="channel22" tvg-name="HBO HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD B
+#EXTINF:-1 tvg-id="channel22" tvg-name="HBO HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD_B
 http://54.37.19.157/hbohd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="channel24" tvg-name="HBO HITS HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-hit.png" group-title="ภาพยนต์",HBO HITS HD
