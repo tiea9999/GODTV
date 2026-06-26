@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3744483" tvg-name=WorldCup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMu7gQoNOKnWwlQQPvEjV00BkjefHBjYE-OQ&s"group-title="การ์ตูน",Worldcup
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
+#EXTINF:-1 tvg-id="3744483" tvg-name=WorldCup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMu7gQoNOKnWwlQQPvEjV00BkjefHBjYE-OQ&s"group-title="การ์ตูน",Worldcup
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
+#EXTINF:-1 tvg-id="3744483" tvg-name=WorldCup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMu7gQoNOKnWwlQQPvEjV00BkjefHBjYE-OQ&s"group-title="การ์ตูน",Worldcup
+https://yyi7tewa2x.3ppnkog.com/xstream/monomax-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3744483" tvg-name="WorldCup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMu7gQoNOKnWwlQQPvEjV00BkjefHBjYE-OQ&s"group-title="การ์ตูน",Worldcup
 https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
@@ -91,6 +95,11 @@ http://6395online.com:8080/live/iptv591@gmail.com/456672/129.m3u8
 http://6395online.com:8080/live/iptv591@gmail.com/456672/130.m3u8
 #EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
 http://6395online.com:8080/live/iptv591@gmail.com/456672/133.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
+https://live.livedoomovies.com:4433/api/hls/live/2820/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
+http://54.37.19.157/hbohd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-hit.png" group-title="ภาพยนต์",HBO HITS HD
 http://6395online.com:8080/live/iptv591@gmail.com/456672/134.m3u8
 #EXTINF:-1 tvg-logo="https://6395online.com:8443/logotv/movie/hbosignature.png" group-title="ภาพยนต์",HBO Signature
