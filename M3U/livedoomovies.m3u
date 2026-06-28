@@ -1,16 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2821" tvg-name="3BB Asian" tvg-logo="https://343live.com/upload/2821.jpg" group-title="343LIVE",3BB Asian
+#EXTINF:-1 tvg-id="2821" tvg-name="3BB Asian" tvg-logo="https://343live.com/upload/2821.jpg" group-title="ภาพยนต์",3BB Asian
 https://live.livedoomovies.com:4433/api/hls/live/2821/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2821_backup" tvg-name="3BB Asian Backup" tvg-logo="https://343live.com/upload/2821.jpg" group-title="343LIVE Backup",3BB Asian Backup
+#EXTINF:-1 tvg-id="2821_backup" tvg-name="3BB Asian Backup" tvg-logo="https://343live.com/upload/2821.jpg" group-title="ภาพยนต์",3BB Asian Backup
 https://live.livedoomovies.com:4433/api/hls/live/2821_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7161" tvg-name="7 HD" tvg-logo="https://343live.com/upload/7161.jpg" group-title="343LIVE",7 HD
+
+#EXTINF:-1 tvg-id="2650" tvg-name="AXN HD" tvg-logo="https://343live.com/upload/2650.jpg" group-title="ภาพยนต์",AXN HD
+https://live.livedoomovies.com:4433/api/hls/live/2650/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2650_backup" tvg-name="AXN HD Backup" tvg-logo="https://343live.com/upload/2650.jpg" group-title="ภาพยนต์",AXN HD Backup
+https://live.livedoomovies.com:4433/api/hls/live/2650_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1913" tvg-name="Celestial Classic Movies (CCM)" tvg-logo="https://343live.com/upload/1913.jpg" group-title="ภาพยนต์",Celestial Classic Movies (CCM)
+https://live.livedoomovies.com:4433/api/hls/live/1913/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1913_backup" tvg-name="Celestial Classic Movies (CCM) Backup" tvg-logo="https://343live.com/upload/1913.jpg" group-title="ภาพยนต์",Celestial Classic Movies (CCM) Backup
+https://live.livedoomovies.com:4433/api/hls/live/1913_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2815" tvg-name="CINEMAX" tvg-logo="https://343live.com/upload/2815.jpg" group-title="ภาพยนต์",CINEMAX
+https://live.livedoomovies.com:4433/api/hls/live/2815/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2815_backup" tvg-name="CINEMAX Backup" tvg-logo="https://343live.com/upload/2815.jpg" group-title="ภาพยนต์",CINEMAX Backup
+https://live.livedoomovies.com:4433/api/hls/live/2815_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2820" tvg-name="HBO" tvg-logo="https://343live.com/upload/2820.jpg" group-title="ภาพยนต์",HBO
+https://live.livedoomovies.com:4433/api/hls/live/2820/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2820_backup" tvg-name="HBO Backup" tvg-logo="https://343live.com/upload/2820.jpg" group-title="ภาพยนต์",HBO Backup
+https://live.livedoomovies.com:4433/api/hls/live/2820_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2816" tvg-name="HBO Family" tvg-logo="https://343live.com/upload/2816.jpg" group-title="ภาพยนต์",HBO Family
+https://live.livedoomovies.com:4433/api/hls/live/2816/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2816_backup" tvg-name="HBO Family Backup" tvg-logo="https://343live.com/upload/2816.jpg" group-title="ภาพยนต์",HBO Family Backup
+https://live.livedoomovies.com:4433/api/hls/live/2816_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2819" tvg-name="HBO Hits" tvg-logo="https://343live.com/upload/2819.jpg" group-title="ภาพยนต์",HBO Hits
+https://live.livedoomovies.com:4433/api/hls/live/2819/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2819_backup" tvg-name="HBO Hits Backup" tvg-logo="https://343live.com/upload/2819.jpg" group-title="ภาพยนต์",HBO Hits Backup
+https://live.livedoomovies.com:4433/api/hls/live/2819_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2818" tvg-name="HBO Signature" tvg-logo="https://343live.com/upload/2818.jpg" group-title="ภาพยนต์",HBO Signature
+https://live.livedoomovies.com:4433/api/hls/live/2818/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2818_backup" tvg-name="HBO Signature Backup" tvg-logo="https://343live.com/upload/2818.jpg" group-title="ภาพยนต์",HBO Signature Backup
+https://live.livedoomovies.com:4433/api/hls/live/2818_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1873" tvg-name="True Asian More" tvg-logo="https://343live.com/upload/1873.jpg" group-title="ภาพยนต์",True Asian More
+https://live.livedoomovies.com:4433/api/hls/live/1873/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1873_backup" tvg-name="True Asian More Backup" tvg-logo="https://343live.com/upload/1873.jpg" group-title="ภาพยนต์",True Asian More Backup
+https://live.livedoomovies.com:4433/api/hls/live/1873_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1877" tvg-name="True Film 1" tvg-logo="https://343live.com/upload/1877.jpg" group-title="ภาพยนต์",True Film 1
+https://live.livedoomovies.com:4433/api/hls/live/1877/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1877_backup" tvg-name="True Film 1 Backup" tvg-logo="https://343live.com/upload/1877.jpg" group-title="ภาพยนต์",True Film 1 Backup
+https://live.livedoomovies.com:4433/api/hls/live/1877_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1915" tvg-name="True Film Asia" tvg-logo="https://343live.com/upload/1915.jpg" group-title="ภาพยนต์",True Film Asia
+https://live.livedoomovies.com:4433/api/hls/live/1915/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1915_backup" tvg-name="True Film Asia Backup" tvg-logo="https://343live.com/upload/1915.jpg" group-title="ภาพยนต์",True Film Asia Backup
+https://live.livedoomovies.com:4433/api/hls/live/1915_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1875" tvg-name="True Movie Hits" tvg-logo="https://343live.com/upload/1875.jpg" group-title="ภาพยนต์",True Movie Hits
+https://live.livedoomovies.com:4433/api/hls/live/1875/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1875_backup" tvg-name="True Movie Hits Backup" tvg-logo="https://343live.com/upload/1875.jpg" group-title="ภาพยนต์",True Movie Hits Backup
+https://live.livedoomovies.com:4433/api/hls/live/1875_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1916" tvg-name="True Series" tvg-logo="https://343live.com/upload/1916.jpg" group-title="ภาพยนต์",True Series
+https://live.livedoomovies.com:4433/api/hls/live/1916/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1916_backup" tvg-name="True Series Backup" tvg-logo="https://343live.com/upload/1916.jpg" group-title="ภาพยนต์",True Series Backup
+https://live.livedoomovies.com:4433/api/hls/live/1916_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1874" tvg-name="True Thai Film" tvg-logo="https://343live.com/upload/1874.jpg" group-title="ภาพยนต์",True Thai Film
+https://live.livedoomovies.com:4433/api/hls/live/1874/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1874_backup" tvg-name="True Thai Film Backup" tvg-logo="https://343live.com/upload/1874.jpg" group-title="ภาพยนต์",True Thai Film Backup
+https://live.livedoomovies.com:4433/api/hls/live/1874_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2056" tvg-name="True X-Zyte" tvg-logo="https://343live.com/upload/2056.jpg" group-title="ภาพยนต์",True X-Zyte
+https://live.livedoomovies.com:4433/api/hls/live/2056/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2056_backup" tvg-name="True X-Zyte Backup" tvg-logo="https://343live.com/upload/2056.jpg" group-title="ภาพยนต์",True X-Zyte Backup
+https://live.livedoomovies.com:4433/api/hls/live/2056_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2739" tvg-name="Warner TV" tvg-logo="https://343live.com/upload/2739.jpg" group-title="ภาพยนต์",Warner TV
+https://live.livedoomovies.com:4433/api/hls/live/2739/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2739_backup" tvg-name="Warner TV Backup" tvg-logo="https://343live.com/upload/2739.jpg" group-title="ภาพยนต์",Warner TV Backup
+https://live.livedoomovies.com:4433/api/hls/live/2739_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7348" tvg-name="ช่อง 3 HD" tvg-logo="https://343live.com/upload/7348.jpg" group-title="ดิจิตอล",ช่อง 3 HD
+https://live.livedoomovies.com:4433/api/hls/live/7348/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7348_backup" tvg-name="ช่อง 3 HD Backup" tvg-logo="https://343live.com/upload/7348.jpg" group-title="ดิจิตอล",ช่อง 3 HD Backup
+https://live.livedoomovies.com:4433/api/hls/live/7348_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7347" tvg-name="ช่อง 5 HD" tvg-logo="https://343live.com/upload/7347.jpg" group-title="ดิจิตอล",ช่อง 5 HD
+https://live.livedoomovies.com:4433/api/hls/live/7347/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7347_backup" tvg-name="ช่อง 5 HD Backup" tvg-logo="https://343live.com/upload/7347.jpg" group-title="ดิจิตอล",ช่อง 5 HD Backup
+https://live.livedoomovies.com:4433/api/hls/live/7347_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7161" tvg-name="7 HD" tvg-logo="https://343live.com/upload/7161.jpg" group-title="ดิจิตอล",7 HD
 https://live.livedoomovies.com:4433/api/hls/live/7161/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7161_backup" tvg-name="7 HD Backup" tvg-logo="https://343live.com/upload/7161.jpg" group-title="343LIVE Backup",7 HD Backup
+#EXTINF:-1 tvg-id="7161_backup" tvg-name="7 HD Backup" tvg-logo="https://343live.com/upload/7161.jpg" group-title="ดิจิตอล",7 HD Backup
 https://live.livedoomovies.com:4433/api/hls/live/7161_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6332" tvg-name="MCOT HD" tvg-logo="https://343live.com/upload/6332.jpg" group-title="ดิจิตอล",MCOT HD
+https://live.livedoomovies.com:4433/api/hls/live/6332/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6332_backup" tvg-name="MCOT HD Backup" tvg-logo="https://343live.com/upload/6332.jpg" group-title="ดิจิตอล",MCOT HD Backup
+https://live.livedoomovies.com:4433/api/hls/live/6332_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1698" tvg-name="Thai PBS" tvg-logo="https://343live.com/upload/1698.jpg" group-title="ดิจิตอล",Thai PBS
+https://live.livedoomovies.com:4433/api/hls/live/1698/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1698_backup" tvg-name="Thai PBS Backup" tvg-logo="https://343live.com/upload/1698.jpg" group-title="ดิจิตอล",Thai PBS Backup
+https://live.livedoomovies.com:4433/api/hls/live/1698_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6328" tvg-name="Amarin TV" tvg-logo="https://343live.com/upload/6328.jpg" group-title="ดิจิตอล",Amarin TV
+https://live.livedoomovies.com:4433/api/hls/live/6328/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6328_backup" tvg-name="Amarin TV Backup" tvg-logo="https://343live.com/upload/6328.jpg" group-title="ดิจิตอล",Amarin TV Backup
+https://live.livedoomovies.com:4433/api/hls/live/6328_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6335" tvg-name="Workpoint TV" tvg-logo="https://343live.com/upload/6335.jpg" group-title="ดิจิตอล",Workpoint TV
+https://live.livedoomovies.com:4433/api/hls/live/6335/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6335_backup" tvg-name="Workpoint TV Backup" tvg-logo="https://343live.com/upload/6335.jpg" group-title="ดิจิตอล",Workpoint TV Backup
+https://live.livedoomovies.com:4433/api/hls/live/6335_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6336" tvg-name="GMM 25" tvg-logo="https://343live.com/upload/6336.jpg" group-title="ดิจิตอล",GMM 25
+https://live.livedoomovies.com:4433/api/hls/live/6336/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6336_backup" tvg-name="GMM 25 Backup" tvg-logo="https://343live.com/upload/6336.jpg" group-title="ดิจิตอล",GMM 25 Backup
+https://live.livedoomovies.com:4433/api/hls/live/6336_backup/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="1664" tvg-name="PPTV HD" tvg-logo="https://343live.com/upload/1664.jpg" group-title="ดิจิตอล",PPTV HD
+https://live.livedoomovies.com:4433/api/hls/live/1664/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1664_backup" tvg-name="PPTV HD Backup" tvg-logo="https://343live.com/upload/1664.jpg" group-title="ดิจิตอล",PPTV HD Backup
+https://live.livedoomovies.com:4433/api/hls/live/1664_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1450" tvg-name="NBT Channel" tvg-logo="https://343live.com/upload/1450.jpg" group-title="ดิจิตอล",NBT Channel
+https://live.livedoomovies.com:4433/api/hls/live/1450/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1450_backup" tvg-name="NBT Channel Backup" tvg-logo="https://343live.com/upload/1450.jpg" group-title="ดิจิตอล",NBT Channel Backup
+https://live.livedoomovies.com:4433/api/hls/live/1450_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="408" tvg-name="NEWS1" tvg-logo="https://343live.com/upload/408.jpg" group-title="ดิจิตอล",NEWS1
+https://live.livedoomovies.com:4433/api/hls/live/408/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="497" tvg-name="CH 8" tvg-logo="https://343live.com/upload/497.jpg" group-title="ดิจิตอล",CH 8
+https://live.livedoomovies.com:4433/api/hls/live/497/playlist.m3u8
+
+#EXTINF:-1 tvg-id="497_backup" tvg-name="CH 8 Backup" tvg-logo="https://343live.com/upload/497.jpg" group-title="ดิจิตอล",CH 8 Backup
+https://live.livedoomovies.com:4433/api/hls/live/497_backup/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="408_backup" tvg-name="NEWS1 Backup" tvg-logo="https://343live.com/upload/408.jpg" group-title="ดิจิตอล",NEWS1 Backup
+https://live.livedoomovies.com:4433/api/hls/live/408_backup/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="6339" tvg-name="Nation" tvg-logo="https://343live.com/upload/6339.jpg" group-title="ดิจิตอล",Nation
+https://live.livedoomovies.com:4433/api/hls/live/6339/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6339_backup" tvg-name="Nation Backup" tvg-logo="https://343live.com/upload/6339.jpg" group-title="ดิจิตอล",Nation Backup
+https://live.livedoomovies.com:4433/api/hls/live/6339_backup/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="1730" tvg-name="Top News" tvg-logo="https://343live.com/upload/1730.jpg" group-title="ดิจิตอล",Top News
+https://live.livedoomovies.com:4433/api/hls/live/1730/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1730_backup" tvg-name="Top News Backup" tvg-logo="https://343live.com/upload/1730.jpg" group-title="ดิจิตอล",Top News Backup
+https://live.livedoomovies.com:4433/api/hls/live/1730_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="430" tvg-name="TPTV" tvg-logo="https://343live.com/upload/430.jpg" group-title="ดิจิตอล",TPTV
+https://live.livedoomovies.com:4433/api/hls/live/430/playlist.m3u8
+
+#EXTINF:-1 tvg-id="430_backup" tvg-name="TPTV Backup" tvg-logo="https://343live.com/upload/430.jpg" group-title="ดิจิตอล",TPTV Backup
+https://live.livedoomovies.com:4433/api/hls/live/430_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6337" tvg-name="True4U" tvg-logo="https://343live.com/upload/6337.jpg" group-title="ดิจิตอล",True4U
+https://live.livedoomovies.com:4433/api/hls/live/6337/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6337_backup" tvg-name="True4U Backup" tvg-logo="https://343live.com/upload/6337.jpg" group-title="ดิจิตอล",True4U Backup
+https://live.livedoomovies.com:4433/api/hls/live/6337_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6333" tvg-name="MONO 29" tvg-logo="https://343live.com/upload/6333.jpg" group-title="ดิจิตอล",MONO 29
+https://live.livedoomovies.com:4433/api/hls/live/6333/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6333_backup" tvg-name="MONO 29 Backup" tvg-logo="https://343live.com/upload/6333.jpg" group-title="ดิจิตอล",MONO 29 Backup
+https://live.livedoomovies.com:4433/api/hls/live/6333_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2824" tvg-name="Mono29 Music Station" tvg-logo="https://343live.com/upload/2824.jpg" group-title="ดิจิตอล",Mono29 Music Station
+https://live.livedoomovies.com:4433/api/hls/live/2824/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2824_backup" tvg-name="Mono29 Music Station Backup" tvg-logo="https://343live.com/upload/2824.jpg" group-title="ดิจิตอล",Mono29 Music Station Backup
+https://live.livedoomovies.com:4433/api/hls/live/2824_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2823" tvg-name="Mono29 Plus" tvg-logo="https://343live.com/upload/2823.jpg" group-title="ดิจิตอล",Mono29 Plus
+https://live.livedoomovies.com:4433/api/hls/live/2823/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2823_backup" tvg-name="Mono29 Plus Backup" tvg-logo="https://343live.com/upload/2823.jpg" group-title="ดิจิตอล",Mono29 Plus Backup
+https://live.livedoomovies.com:4433/api/hls/live/2823_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="159" tvg-name="DLTV1 ประถมศึกษาปีที่ 1" tvg-logo="https://343live.com/upload/159.jpg" group-title="ดิจิตอล",DLTV1 ประถมศึกษาปีที่ 1
+https://live.livedoomovies.com:4433/api/hls/live/159/playlist.m3u8
+
+#EXTINF:-1 tvg-id="159_backup" tvg-name="DLTV1 ประถมศึกษาปีที่ 1 Backup" tvg-logo="https://343live.com/upload/159.jpg" group-title="ดิจิตอล",DLTV1 ประถมศึกษาปีที่ 1 Backup
+https://live.livedoomovies.com:4433/api/hls/live/159_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-name="DLTV1 ประถมศึกษาปีที่ 2" tvg-logo="https://343live.com/upload/144.jpg" group-title="ดิจิตอล",DLTV1 ประถมศึกษาปีที่ 2
+https://live.livedoomovies.com:4433/api/hls/live/144/playlist.m3u8
+
+#EXTINF:-1 tvg-id="144_backup" tvg-name="DLTV1 ประถมศึกษาปีที่ 2 Backup" tvg-logo="https://343live.com/upload/144.jpg" group-title="ดิจิตอล",DLTV1 ประถมศึกษาปีที่ 2 Backup
+https://live.livedoomovies.com:4433/api/hls/live/144_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-name="DLTV3 ประถมศึกษาปีที่ 3" tvg-logo="https://343live.com/upload/112.jpg" group-title="ดิจิตอล",DLTV3 ประถมศึกษาปีที่ 3
+https://live.livedoomovies.com:4433/api/hls/live/112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="112_backup" tvg-name="DLTV3 ประถมศึกษาปีที่ 3 Backup" tvg-logo="https://343live.com/upload/112.jpg" group-title="ดิจิตอล",DLTV3 ประถมศึกษาปีที่ 3 Backup
+https://live.livedoomovies.com:4433/api/hls/live/112_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="DLTV4 ประถมศึกษาปีที่ 4" tvg-logo="https://343live.com/upload/61.jpg" group-title="ดิจิตอล",DLTV4 ประถมศึกษาปีที่ 4
+https://live.livedoomovies.com:4433/api/hls/live/61/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61_backup" tvg-name="DLTV4 ประถมศึกษาปีที่ 4 Backup" tvg-logo="https://343live.com/upload/61.jpg" group-title="ดิจิตอล",DLTV4 ประถมศึกษาปีที่ 4 Backup
+https://live.livedoomovies.com:4433/api/hls/live/61_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="DLTV5 ประถมศึกษาปีที่ 5" tvg-logo="https://343live.com/upload/21.jpg" group-title="ดิจิตอล",DLTV5 ประถมศึกษาปีที่ 5
+https://live.livedoomovies.com:4433/api/hls/live/21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="21_backup" tvg-name="DLTV5 ประถมศึกษาปีที่ 5 Backup" tvg-logo="https://343live.com/upload/21.jpg" group-title="ดิจิตอล",DLTV5 ประถมศึกษาปีที่ 5 Backup
+https://live.livedoomovies.com:4433/api/hls/live/21_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="DLTV5 ประถมศึกษาปีที่ 6" tvg-logo="https://343live.com/upload/20.jpg" group-title="ดิจิตอล",DLTV5 ประถมศึกษาปีที่ 6
+https://live.livedoomovies.com:4433/api/hls/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20_backup" tvg-name="DLTV5 ประถมศึกษาปีที่ 6 Backup" tvg-logo="https://343live.com/upload/20.jpg" group-title="ดิจิตอล",DLTV5 ประถมศึกษาปีที่ 6 Backup
+https://live.livedoomovies.com:4433/api/hls/live/20_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="DLTV7 มัธยมศึกษาปีที่ 1" tvg-logo="https://343live.com/upload/19.jpg" group-title="ดิจิตอล",DLTV7 มัธยมศึกษาปีที่ 1
+https://live.livedoomovies.com:4433/api/hls/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-id="19_backup" tvg-name="DLTV7 มัธยมศึกษาปีที่ 1 Backup" tvg-logo="https://343live.com/upload/19.jpg" group-title="ดิจิตอล",DLTV7 มัธยมศึกษาปีที่ 1 Backup
+https://live.livedoomovies.com:4433/api/hls/live/19_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="DLTV8 มัธยมศึกษาปีที่ 2" tvg-logo="https://343live.com/upload/18.jpg" group-title="ดิจิตอล",DLTV8 มัธยมศึกษาปีที่ 2
+https://live.livedoomovies.com:4433/api/hls/live/18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="18_backup" tvg-name="DLTV8 มัธยมศึกษาปีที่ 2 Backup" tvg-logo="https://343live.com/upload/18.jpg" group-title="ดิจิตอล",DLTV8 มัธยมศึกษาปีที่ 2 Backup
+https://live.livedoomovies.com:4433/api/hls/live/18_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="DLTV9 มัธยมศึกษาปีที่ 3" tvg-logo="https://343live.com/upload/17.jpg" group-title="ดิจิตอล",DLTV9 มัธยมศึกษาปีที่ 3
+https://live.livedoomovies.com:4433/api/hls/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-id="17_backup" tvg-name="DLTV9 มัธยมศึกษาปีที่ 3 Backup" tvg-logo="https://343live.com/upload/17.jpg" group-title="ดิจิตอล",DLTV9 มัธยมศึกษาปีที่ 3 Backup
+https://live.livedoomovies.com:4433/api/hls/live/17_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="DLTV10 อนุบาลศึกษาปีที่ 1" tvg-logo="https://343live.com/upload/16.jpg" group-title="ดิจิตอล",DLTV10 อนุบาลศึกษาปีที่ 1
+https://live.livedoomovies.com:4433/api/hls/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16_backup" tvg-name="DLTV10 อนุบาลศึกษาปีที่ 1 Backup" tvg-logo="https://343live.com/upload/16.jpg" group-title="ดิจิตอล",DLTV10 อนุบาลศึกษาปีที่ 1 Backup
+https://live.livedoomovies.com:4433/api/hls/live/16_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="DLTV11 อนุบาลศึกษาปีที่ 2" tvg-logo="https://343live.com/upload/15.jpg" group-title="ดิจิตอล",DLTV11 อนุบาลศึกษาปีที่ 2
+https://live.livedoomovies.com:4433/api/hls/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15_backup" tvg-name="DLTV11 อนุบาลศึกษาปีที่ 2 Backup" tvg-logo="https://343live.com/upload/15.jpg" group-title="ดิจิตอล",DLTV11 อนุบาลศึกษาปีที่ 2 Backup
+https://live.livedoomovies.com:4433/api/hls/live/15_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="DLTV12 อนุบาลศึกษาปีที่ 3" tvg-logo="https://343live.com/upload/7.jpg" group-title="ดิจิตอล",DLTV12 อนุบาลศึกษาปีที่ 3
+https://live.livedoomovies.com:4433/api/hls/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7_backup" tvg-name="DLTV12 อนุบาลศึกษาปีที่ 3 Backup" tvg-logo="https://343live.com/upload/7.jpg" group-title="ดิจิตอล",DLTV12 อนุบาลศึกษาปีที่ 3 Backup
+https://live.livedoomovies.com:4433/api/hls/live/7_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="DLTV13 มัธยมศึกษาปีที่ 4" tvg-logo="https://343live.com/upload/6.jpg" group-title="ดิจิตอล",DLTV13 มัธยมศึกษาปีที่ 4
+https://live.livedoomovies.com:4433/api/hls/live/6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6_backup" tvg-name="DLTV13 มัธยมศึกษาปีที่ 4 Backup" tvg-logo="https://343live.com/upload/6.jpg" group-title="ดิจิตอล",DLTV13 มัธยมศึกษาปีที่ 4 Backup
+https://live.livedoomovies.com:4433/api/hls/live/6_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="DLTV14 มัธยมศึกษาปีที่ 5" tvg-logo="https://343live.com/upload/5.jpg" group-title="ดิจิตอล",DLTV14 มัธยมศึกษาปีที่ 5
+https://live.livedoomovies.com:4433/api/hls/live/5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5_backup" tvg-name="DLTV14 มัธยมศึกษาปีที่ 5 Backup" tvg-logo="https://343live.com/upload/5.jpg" group-title="ดิจิตอล",DLTV14 มัธยมศึกษาปีที่ 5 Backup
+https://live.livedoomovies.com:4433/api/hls/live/5_backup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="DLTV15 มัธยมศึกษาปีที่ 6" tvg-logo="https://343live.com/upload/4.jpg" group-title="ดิจิตอล",DLTV15 มัธยมศึกษาปีที่ 6
+https://live.livedoomovies.com:4433/api/hls/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4_backup" tvg-name="DLTV15 มัธยมศึกษาปีที่ 6 Backup" tvg-logo="https://343live.com/upload/4.jpg" group-title="ดิจิตอล",DLTV15 มัธยมศึกษาปีที่ 6 Backup
+https://live.livedoomovies.com:4433/api/hls/live/4_backup/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="1600" tvg-name="ABC Australia" tvg-logo="https://343live.com/upload/1600.jpg" group-title="343LIVE",ABC Australia
 https://live.livedoomovies.com:4433/api/hls/live/1600/playlist.m3u8
@@ -24,11 +339,7 @@ https://live.livedoomovies.com:4433/api/hls/live/404/playlist.m3u8
 #EXTINF:-1 tvg-id="404_backup" tvg-name="Al Jazeera Backup" tvg-logo="https://343live.com/upload/404.jpg" group-title="343LIVE Backup",Al Jazeera Backup
 https://live.livedoomovies.com:4433/api/hls/live/404_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6328" tvg-name="Amarin TV" tvg-logo="https://343live.com/upload/6328.jpg" group-title="343LIVE",Amarin TV
-https://live.livedoomovies.com:4433/api/hls/live/6328/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6328_backup" tvg-name="Amarin TV Backup" tvg-logo="https://343live.com/upload/6328.jpg" group-title="343LIVE Backup",Amarin TV Backup
-https://live.livedoomovies.com:4433/api/hls/live/6328_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="710" tvg-name="Animal Show" tvg-logo="https://343live.com/upload/710.jpg" group-title="343LIVE",Animal Show
 https://live.livedoomovies.com:4433/api/hls/live/710/playlist.m3u8
@@ -38,6 +349,11 @@ https://live.livedoomovies.com:4433/api/hls/live/710_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13918" tvg-name="Arena Sport 1" tvg-logo="https://343live.com/upload/13918.jpg" group-title="343LIVE",Arena Sport 1
 https://live.livedoomovies.com:4433/api/hls/live/13918/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="13918_backup" tvg-name="Arena Sport 1 Backup" tvg-logo="https://343live.com/upload/13918.jpg" group-title="343LIVE Backup",Arena Sport 1 Backup
 https://live.livedoomovies.com:4433/api/hls/live/13918_backup/playlist.m3u8
@@ -72,11 +388,6 @@ https://live.livedoomovies.com:4433/api/hls/live/1854/playlist.m3u8
 #EXTINF:-1 tvg-id="1854_backup" tvg-name="Asian Food Network Backup" tvg-logo="https://343live.com/upload/1854.jpg" group-title="343LIVE Backup",Asian Food Network Backup
 https://live.livedoomovies.com:4433/api/hls/live/1854_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2650" tvg-name="AXN HD" tvg-logo="https://343live.com/upload/2650.jpg" group-title="343LIVE",AXN HD
-https://live.livedoomovies.com:4433/api/hls/live/2650/playlist.m3u8
-
-#EXTINF:-1 tvg-id="2650_backup" tvg-name="AXN HD Backup" tvg-logo="https://343live.com/upload/2650.jpg" group-title="343LIVE Backup",AXN HD Backup
-https://live.livedoomovies.com:4433/api/hls/live/2650_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1389" tvg-name="Ball Thai 1" tvg-logo="https://343live.com/upload/1389.jpg" group-title="343LIVE",Ball Thai 1
 https://live.livedoomovies.com:4433/api/hls/live/1389/playlist.m3u8
@@ -210,6 +521,10 @@ https://live.livedoomovies.com:4433/api/hls/live/2814/playlist.m3u8
 #EXTINF:-1 tvg-id="2814_backup" tvg-name="Bloomberg Backup" tvg-logo="https://343live.com/upload/2814.jpg" group-title="343LIVE Backup",Bloomberg Backup
 https://live.livedoomovies.com:4433/api/hls/live/2814_backup/playlist.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-id="8999" tvg-name="Boomerang" tvg-logo="https://343live.com/upload/8999.jpg" group-title="343LIVE",Boomerang
 https://live.livedoomovies.com:4433/api/hls/live/8999/playlist.m3u8
 
@@ -227,6 +542,10 @@ https://live.livedoomovies.com:4433/api/hls/live/8007/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8007_backup" tvg-name="Cartoon Network Backup" tvg-logo="https://343live.com/upload/8007.jpg" group-title="343LIVE Backup",Cartoon Network Backup
 https://live.livedoomovies.com:4433/api/hls/live/8007_backup/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="3026" tvg-name="CBS News (CBSN)" tvg-logo="https://343live.com/upload/3026.jpg" group-title="343LIVE",CBS News (CBSN)
 https://live.livedoomovies.com:4433/api/hls/live/3026/playlist.m3u8
@@ -246,11 +565,15 @@ https://live.livedoomovies.com:4433/api/hls/live/402/playlist.m3u8
 #EXTINF:-1 tvg-id="402_backup" tvg-name="CCTV-4 Backup" tvg-logo="https://343live.com/upload/402.jpg" group-title="343LIVE Backup",CCTV-4 Backup
 https://live.livedoomovies.com:4433/api/hls/live/402_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1913" tvg-name="Celestial Classic Movies (CCM)" tvg-logo="https://343live.com/upload/1913.jpg" group-title="343LIVE",Celestial Classic Movies (CCM)
-https://live.livedoomovies.com:4433/api/hls/live/1913/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1913_backup" tvg-name="Celestial Classic Movies (CCM) Backup" tvg-logo="https://343live.com/upload/1913.jpg" group-title="343LIVE Backup",Celestial Classic Movies (CCM) Backup
-https://live.livedoomovies.com:4433/api/hls/live/1913_backup/playlist.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="2100" tvg-name="CGTN" tvg-logo="https://343live.com/upload/2100.jpg" group-title="343LIVE",CGTN
 https://live.livedoomovies.com:4433/api/hls/live/2100/playlist.m3u8
@@ -258,11 +581,8 @@ https://live.livedoomovies.com:4433/api/hls/live/2100/playlist.m3u8
 #EXTINF:-1 tvg-id="2100_backup" tvg-name="CGTN Backup" tvg-logo="https://343live.com/upload/2100.jpg" group-title="343LIVE Backup",CGTN Backup
 https://live.livedoomovies.com:4433/api/hls/live/2100_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="497" tvg-name="CH 8" tvg-logo="https://343live.com/upload/497.jpg" group-title="343LIVE",CH 8
-https://live.livedoomovies.com:4433/api/hls/live/497/playlist.m3u8
 
-#EXTINF:-1 tvg-id="497_backup" tvg-name="CH 8 Backup" tvg-logo="https://343live.com/upload/497.jpg" group-title="343LIVE Backup",CH 8 Backup
-https://live.livedoomovies.com:4433/api/hls/live/497_backup/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="433" tvg-name="Channel NewsAsia" tvg-logo="https://343live.com/upload/433.jpg" group-title="343LIVE",Channel NewsAsia
 https://live.livedoomovies.com:4433/api/hls/live/433/playlist.m3u8
@@ -270,11 +590,15 @@ https://live.livedoomovies.com:4433/api/hls/live/433/playlist.m3u8
 #EXTINF:-1 tvg-id="433_backup" tvg-name="Channel NewsAsia Backup" tvg-logo="https://343live.com/upload/433.jpg" group-title="343LIVE Backup",Channel NewsAsia Backup
 https://live.livedoomovies.com:4433/api/hls/live/433_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2815" tvg-name="CINEMAX" tvg-logo="https://343live.com/upload/2815.jpg" group-title="343LIVE",CINEMAX
-https://live.livedoomovies.com:4433/api/hls/live/2815/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2815_backup" tvg-name="CINEMAX Backup" tvg-logo="https://343live.com/upload/2815.jpg" group-title="343LIVE Backup",CINEMAX Backup
-https://live.livedoomovies.com:4433/api/hls/live/2815_backup/playlist.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="6639" tvg-name="CNN" tvg-logo="https://343live.com/upload/6639.jpg" group-title="343LIVE",CNN
 https://live.livedoomovies.com:4433/api/hls/live/6639/playlist.m3u8
@@ -294,6 +618,10 @@ https://live.livedoomovies.com:4433/api/hls/live/2145/playlist.m3u8
 #EXTINF:-1 tvg-id="2145_backup" tvg-name="Deutsche Welle DW Backup" tvg-logo="https://343live.com/upload/2145.jpg" group-title="343LIVE Backup",Deutsche Welle DW Backup
 https://live.livedoomovies.com:4433/api/hls/live/2145_backup/playlist.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-id="1606" tvg-name="Discovery Asia" tvg-logo="https://343live.com/upload/1606.jpg" group-title="343LIVE",Discovery Asia
 https://live.livedoomovies.com:4433/api/hls/live/1606/playlist.m3u8
 
@@ -306,101 +634,22 @@ https://live.livedoomovies.com:4433/api/hls/live/1546/playlist.m3u8
 #EXTINF:-1 tvg-id="1546_backup" tvg-name="Discovery Channel Backup" tvg-logo="https://343live.com/upload/1546.jpg" group-title="343LIVE Backup",Discovery Channel Backup
 https://live.livedoomovies.com:4433/api/hls/live/1546_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="159" tvg-name="DLTV1 ประถมศึกษาปีที่ 1" tvg-logo="https://343live.com/upload/159.jpg" group-title="343LIVE",DLTV1 ประถมศึกษาปีที่ 1
-https://live.livedoomovies.com:4433/api/hls/live/159/playlist.m3u8
 
-#EXTINF:-1 tvg-id="159_backup" tvg-name="DLTV1 ประถมศึกษาปีที่ 1 Backup" tvg-logo="https://343live.com/upload/159.jpg" group-title="343LIVE Backup",DLTV1 ประถมศึกษาปีที่ 1 Backup
-https://live.livedoomovies.com:4433/api/hls/live/159_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="144" tvg-name="DLTV1 ประถมศึกษาปีที่ 2" tvg-logo="https://343live.com/upload/144.jpg" group-title="343LIVE",DLTV1 ประถมศึกษาปีที่ 2
-https://live.livedoomovies.com:4433/api/hls/live/144/playlist.m3u8
 
-#EXTINF:-1 tvg-id="144_backup" tvg-name="DLTV1 ประถมศึกษาปีที่ 2 Backup" tvg-logo="https://343live.com/upload/144.jpg" group-title="343LIVE Backup",DLTV1 ประถมศึกษาปีที่ 2 Backup
-https://live.livedoomovies.com:4433/api/hls/live/144_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="112" tvg-name="DLTV3 ประถมศึกษาปีที่ 3" tvg-logo="https://343live.com/upload/112.jpg" group-title="343LIVE",DLTV3 ประถมศึกษาปีที่ 3
-https://live.livedoomovies.com:4433/api/hls/live/112/playlist.m3u8
-
-#EXTINF:-1 tvg-id="112_backup" tvg-name="DLTV3 ประถมศึกษาปีที่ 3 Backup" tvg-logo="https://343live.com/upload/112.jpg" group-title="343LIVE Backup",DLTV3 ประถมศึกษาปีที่ 3 Backup
-https://live.livedoomovies.com:4433/api/hls/live/112_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="61" tvg-name="DLTV4 ประถมศึกษาปีที่ 4" tvg-logo="https://343live.com/upload/61.jpg" group-title="343LIVE",DLTV4 ประถมศึกษาปีที่ 4
-https://live.livedoomovies.com:4433/api/hls/live/61/playlist.m3u8
-
-#EXTINF:-1 tvg-id="61_backup" tvg-name="DLTV4 ประถมศึกษาปีที่ 4 Backup" tvg-logo="https://343live.com/upload/61.jpg" group-title="343LIVE Backup",DLTV4 ประถมศึกษาปีที่ 4 Backup
-https://live.livedoomovies.com:4433/api/hls/live/61_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="21" tvg-name="DLTV5 ประถมศึกษาปีที่ 5" tvg-logo="https://343live.com/upload/21.jpg" group-title="343LIVE",DLTV5 ประถมศึกษาปีที่ 5
-https://live.livedoomovies.com:4433/api/hls/live/21/playlist.m3u8
-
-#EXTINF:-1 tvg-id="21_backup" tvg-name="DLTV5 ประถมศึกษาปีที่ 5 Backup" tvg-logo="https://343live.com/upload/21.jpg" group-title="343LIVE Backup",DLTV5 ประถมศึกษาปีที่ 5 Backup
-https://live.livedoomovies.com:4433/api/hls/live/21_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-name="DLTV5 ประถมศึกษาปีที่ 6" tvg-logo="https://343live.com/upload/20.jpg" group-title="343LIVE",DLTV5 ประถมศึกษาปีที่ 6
-https://live.livedoomovies.com:4433/api/hls/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-id="20_backup" tvg-name="DLTV5 ประถมศึกษาปีที่ 6 Backup" tvg-logo="https://343live.com/upload/20.jpg" group-title="343LIVE Backup",DLTV5 ประถมศึกษาปีที่ 6 Backup
-https://live.livedoomovies.com:4433/api/hls/live/20_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="19" tvg-name="DLTV7 มัธยมศึกษาปีที่ 1" tvg-logo="https://343live.com/upload/19.jpg" group-title="343LIVE",DLTV7 มัธยมศึกษาปีที่ 1
-https://live.livedoomovies.com:4433/api/hls/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-id="19_backup" tvg-name="DLTV7 มัธยมศึกษาปีที่ 1 Backup" tvg-logo="https://343live.com/upload/19.jpg" group-title="343LIVE Backup",DLTV7 มัธยมศึกษาปีที่ 1 Backup
-https://live.livedoomovies.com:4433/api/hls/live/19_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-name="DLTV8 มัธยมศึกษาปีที่ 2" tvg-logo="https://343live.com/upload/18.jpg" group-title="343LIVE",DLTV8 มัธยมศึกษาปีที่ 2
-https://live.livedoomovies.com:4433/api/hls/live/18/playlist.m3u8
-
-#EXTINF:-1 tvg-id="18_backup" tvg-name="DLTV8 มัธยมศึกษาปีที่ 2 Backup" tvg-logo="https://343live.com/upload/18.jpg" group-title="343LIVE Backup",DLTV8 มัธยมศึกษาปีที่ 2 Backup
-https://live.livedoomovies.com:4433/api/hls/live/18_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-name="DLTV9 มัธยมศึกษาปีที่ 3" tvg-logo="https://343live.com/upload/17.jpg" group-title="343LIVE",DLTV9 มัธยมศึกษาปีที่ 3
-https://live.livedoomovies.com:4433/api/hls/live/17/playlist.m3u8
-
-#EXTINF:-1 tvg-id="17_backup" tvg-name="DLTV9 มัธยมศึกษาปีที่ 3 Backup" tvg-logo="https://343live.com/upload/17.jpg" group-title="343LIVE Backup",DLTV9 มัธยมศึกษาปีที่ 3 Backup
-https://live.livedoomovies.com:4433/api/hls/live/17_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-name="DLTV10 อนุบาลศึกษาปีที่ 1" tvg-logo="https://343live.com/upload/16.jpg" group-title="343LIVE",DLTV10 อนุบาลศึกษาปีที่ 1
-https://live.livedoomovies.com:4433/api/hls/live/16/playlist.m3u8
-
-#EXTINF:-1 tvg-id="16_backup" tvg-name="DLTV10 อนุบาลศึกษาปีที่ 1 Backup" tvg-logo="https://343live.com/upload/16.jpg" group-title="343LIVE Backup",DLTV10 อนุบาลศึกษาปีที่ 1 Backup
-https://live.livedoomovies.com:4433/api/hls/live/16_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="15" tvg-name="DLTV11 อนุบาลศึกษาปีที่ 2" tvg-logo="https://343live.com/upload/15.jpg" group-title="343LIVE",DLTV11 อนุบาลศึกษาปีที่ 2
-https://live.livedoomovies.com:4433/api/hls/live/15/playlist.m3u8
-
-#EXTINF:-1 tvg-id="15_backup" tvg-name="DLTV11 อนุบาลศึกษาปีที่ 2 Backup" tvg-logo="https://343live.com/upload/15.jpg" group-title="343LIVE Backup",DLTV11 อนุบาลศึกษาปีที่ 2 Backup
-https://live.livedoomovies.com:4433/api/hls/live/15_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="DLTV12 อนุบาลศึกษาปีที่ 3" tvg-logo="https://343live.com/upload/7.jpg" group-title="343LIVE",DLTV12 อนุบาลศึกษาปีที่ 3
-https://live.livedoomovies.com:4433/api/hls/live/7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7_backup" tvg-name="DLTV12 อนุบาลศึกษาปีที่ 3 Backup" tvg-logo="https://343live.com/upload/7.jpg" group-title="343LIVE Backup",DLTV12 อนุบาลศึกษาปีที่ 3 Backup
-https://live.livedoomovies.com:4433/api/hls/live/7_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="DLTV13 มัธยมศึกษาปีที่ 4" tvg-logo="https://343live.com/upload/6.jpg" group-title="343LIVE",DLTV13 มัธยมศึกษาปีที่ 4
-https://live.livedoomovies.com:4433/api/hls/live/6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6_backup" tvg-name="DLTV13 มัธยมศึกษาปีที่ 4 Backup" tvg-logo="https://343live.com/upload/6.jpg" group-title="343LIVE Backup",DLTV13 มัธยมศึกษาปีที่ 4 Backup
-https://live.livedoomovies.com:4433/api/hls/live/6_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="DLTV14 มัธยมศึกษาปีที่ 5" tvg-logo="https://343live.com/upload/5.jpg" group-title="343LIVE",DLTV14 มัธยมศึกษาปีที่ 5
-https://live.livedoomovies.com:4433/api/hls/live/5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5_backup" tvg-name="DLTV14 มัธยมศึกษาปีที่ 5 Backup" tvg-logo="https://343live.com/upload/5.jpg" group-title="343LIVE Backup",DLTV14 มัธยมศึกษาปีที่ 5 Backup
-https://live.livedoomovies.com:4433/api/hls/live/5_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="DLTV15 มัธยมศึกษาปีที่ 6" tvg-logo="https://343live.com/upload/4.jpg" group-title="343LIVE",DLTV15 มัธยมศึกษาปีที่ 6
-https://live.livedoomovies.com:4433/api/hls/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4_backup" tvg-name="DLTV15 มัธยมศึกษาปีที่ 6 Backup" tvg-logo="https://343live.com/upload/4.jpg" group-title="343LIVE Backup",DLTV15 มัธยมศึกษาปีที่ 6 Backup
-https://live.livedoomovies.com:4433/api/hls/live/4_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2347" tvg-name="DreamWorks" tvg-logo="https://343live.com/upload/2347.jpg" group-title="343LIVE",DreamWorks
 https://live.livedoomovies.com:4433/api/hls/live/2347/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2347_backup" tvg-name="DreamWorks Backup" tvg-logo="https://343live.com/upload/2347.jpg" group-title="343LIVE Backup",DreamWorks Backup
 https://live.livedoomovies.com:4433/api/hls/live/2347_backup/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="11924" tvg-name="ESPN 1" tvg-logo="https://343live.com/upload/11924.jpg" group-title="343LIVE",ESPN 1
 https://live.livedoomovies.com:4433/api/hls/live/11924/playlist.m3u8
@@ -486,11 +735,10 @@ https://live.livedoomovies.com:4433/api/hls/live/394/playlist.m3u8
 #EXTINF:-1 tvg-id="394_backup" tvg-name="France 24 Backup" tvg-logo="https://343live.com/upload/394.jpg" group-title="343LIVE Backup",France 24 Backup
 https://live.livedoomovies.com:4433/api/hls/live/394_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6336" tvg-name="GMM 25" tvg-logo="https://343live.com/upload/6336.jpg" group-title="343LIVE",GMM 25
-https://live.livedoomovies.com:4433/api/hls/live/6336/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6336_backup" tvg-name="GMM 25 Backup" tvg-logo="https://343live.com/upload/6336.jpg" group-title="343LIVE Backup",GMM 25 Backup
-https://live.livedoomovies.com:4433/api/hls/live/6336_backup/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="7203" tvg-name="Golf +" tvg-logo="https://343live.com/upload/7203.jpg" group-title="343LIVE",Golf +
 https://live.livedoomovies.com:4433/api/hls/live/7203/playlist.m3u8
@@ -498,29 +746,14 @@ https://live.livedoomovies.com:4433/api/hls/live/7203/playlist.m3u8
 #EXTINF:-1 tvg-id="7203_backup" tvg-name="Golf + Backup" tvg-logo="https://343live.com/upload/7203.jpg" group-title="343LIVE Backup",Golf + Backup
 https://live.livedoomovies.com:4433/api/hls/live/7203_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2820" tvg-name="HBO" tvg-logo="https://343live.com/upload/2820.jpg" group-title="343LIVE",HBO
-https://live.livedoomovies.com:4433/api/hls/live/2820/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2820_backup" tvg-name="HBO Backup" tvg-logo="https://343live.com/upload/2820.jpg" group-title="343LIVE Backup",HBO Backup
-https://live.livedoomovies.com:4433/api/hls/live/2820_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2816" tvg-name="HBO Family" tvg-logo="https://343live.com/upload/2816.jpg" group-title="343LIVE",HBO Family
-https://live.livedoomovies.com:4433/api/hls/live/2816/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2816_backup" tvg-name="HBO Family Backup" tvg-logo="https://343live.com/upload/2816.jpg" group-title="343LIVE Backup",HBO Family Backup
-https://live.livedoomovies.com:4433/api/hls/live/2816_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2819" tvg-name="HBO Hits" tvg-logo="https://343live.com/upload/2819.jpg" group-title="343LIVE",HBO Hits
-https://live.livedoomovies.com:4433/api/hls/live/2819/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2819_backup" tvg-name="HBO Hits Backup" tvg-logo="https://343live.com/upload/2819.jpg" group-title="343LIVE Backup",HBO Hits Backup
-https://live.livedoomovies.com:4433/api/hls/live/2819_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2818" tvg-name="HBO Signature" tvg-logo="https://343live.com/upload/2818.jpg" group-title="343LIVE",HBO Signature
-https://live.livedoomovies.com:4433/api/hls/live/2818/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2818_backup" tvg-name="HBO Signature Backup" tvg-logo="https://343live.com/upload/2818.jpg" group-title="343LIVE Backup",HBO Signature Backup
-https://live.livedoomovies.com:4433/api/hls/live/2818_backup/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="1667" tvg-name="History Channel" tvg-logo="https://343live.com/upload/1667.jpg" group-title="343LIVE",History Channel
 https://live.livedoomovies.com:4433/api/hls/live/1667/playlist.m3u8
@@ -558,11 +791,7 @@ https://live.livedoomovies.com:4433/api/hls/live/12684/playlist.m3u8
 #EXTINF:-1 tvg-id="12684_backup" tvg-name="Liverpool TV Backup" tvg-logo="https://343live.com/upload/12684.jpg" group-title="343LIVE Backup",Liverpool TV Backup
 https://live.livedoomovies.com:4433/api/hls/live/12684_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6332" tvg-name="MCOT HD" tvg-logo="https://343live.com/upload/6332.jpg" group-title="343LIVE",MCOT HD
-https://live.livedoomovies.com:4433/api/hls/live/6332/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6332_backup" tvg-name="MCOT HD Backup" tvg-logo="https://343live.com/upload/6332.jpg" group-title="343LIVE Backup",MCOT HD Backup
-https://live.livedoomovies.com:4433/api/hls/live/6332_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10330" tvg-name="MLB Network" tvg-logo="https://343live.com/upload/10330.jpg" group-title="343LIVE",MLB Network
 https://live.livedoomovies.com:4433/api/hls/live/10330/playlist.m3u8
@@ -570,23 +799,12 @@ https://live.livedoomovies.com:4433/api/hls/live/10330/playlist.m3u8
 #EXTINF:-1 tvg-id="10330_backup" tvg-name="MLB Network Backup" tvg-logo="https://343live.com/upload/10330.jpg" group-title="343LIVE Backup",MLB Network Backup
 https://live.livedoomovies.com:4433/api/hls/live/10330_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6333" tvg-name="MONO 29" tvg-logo="https://343live.com/upload/6333.jpg" group-title="343LIVE",MONO 29
-https://live.livedoomovies.com:4433/api/hls/live/6333/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6333_backup" tvg-name="MONO 29 Backup" tvg-logo="https://343live.com/upload/6333.jpg" group-title="343LIVE Backup",MONO 29 Backup
-https://live.livedoomovies.com:4433/api/hls/live/6333_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2824" tvg-name="Mono29 Music Station" tvg-logo="https://343live.com/upload/2824.jpg" group-title="343LIVE",Mono29 Music Station
-https://live.livedoomovies.com:4433/api/hls/live/2824/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2824_backup" tvg-name="Mono29 Music Station Backup" tvg-logo="https://343live.com/upload/2824.jpg" group-title="343LIVE Backup",Mono29 Music Station Backup
-https://live.livedoomovies.com:4433/api/hls/live/2824_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2823" tvg-name="Mono29 Plus" tvg-logo="https://343live.com/upload/2823.jpg" group-title="343LIVE",Mono29 Plus
-https://live.livedoomovies.com:4433/api/hls/live/2823/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2823_backup" tvg-name="Mono29 Plus Backup" tvg-logo="https://343live.com/upload/2823.jpg" group-title="343LIVE Backup",Mono29 Plus Backup
-https://live.livedoomovies.com:4433/api/hls/live/2823_backup/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="82290" tvg-name="Monomax 1" tvg-logo="https://343live.com/upload/82290.jpg" group-title="343LIVE",Monomax 1
 https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
@@ -714,11 +932,6 @@ https://live.livedoomovies.com:4433/api/hls/live/555/playlist.m3u8
 #EXTINF:-1 tvg-id="555_backup" tvg-name="Mysci Backup" tvg-logo="https://343live.com/upload/555.jpg" group-title="343LIVE Backup",Mysci Backup
 https://live.livedoomovies.com:4433/api/hls/live/555_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6339" tvg-name="Nation" tvg-logo="https://343live.com/upload/6339.jpg" group-title="343LIVE",Nation
-https://live.livedoomovies.com:4433/api/hls/live/6339/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6339_backup" tvg-name="Nation Backup" tvg-logo="https://343live.com/upload/6339.jpg" group-title="343LIVE Backup",Nation Backup
-https://live.livedoomovies.com:4433/api/hls/live/6339_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8739" tvg-name="NBA" tvg-logo="https://343live.com/upload/8739.jpg" group-title="343LIVE",NBA
 https://live.livedoomovies.com:4433/api/hls/live/8739/playlist.m3u8
@@ -732,17 +945,9 @@ https://live.livedoomovies.com:4433/api/hls/live/11920/playlist.m3u8
 #EXTINF:-1 tvg-id="11920_backup" tvg-name="NBC Sports Backup" tvg-logo="https://343live.com/upload/11920.jpg" group-title="343LIVE Backup",NBC Sports Backup
 https://live.livedoomovies.com:4433/api/hls/live/11920_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1450" tvg-name="NBT Channel" tvg-logo="https://343live.com/upload/1450.jpg" group-title="343LIVE",NBT Channel
-https://live.livedoomovies.com:4433/api/hls/live/1450/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1450_backup" tvg-name="NBT Channel Backup" tvg-logo="https://343live.com/upload/1450.jpg" group-title="343LIVE Backup",NBT Channel Backup
-https://live.livedoomovies.com:4433/api/hls/live/1450_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="408" tvg-name="NEWS1" tvg-logo="https://343live.com/upload/408.jpg" group-title="343LIVE",NEWS1
-https://live.livedoomovies.com:4433/api/hls/live/408/playlist.m3u8
 
-#EXTINF:-1 tvg-id="408_backup" tvg-name="NEWS1 Backup" tvg-logo="https://343live.com/upload/408.jpg" group-title="343LIVE Backup",NEWS1 Backup
-https://live.livedoomovies.com:4433/api/hls/live/408_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="11922" tvg-name="NFL" tvg-logo="https://343live.com/upload/11922.jpg" group-title="343LIVE",NFL
 https://live.livedoomovies.com:4433/api/hls/live/11922/playlist.m3u8
@@ -882,11 +1087,9 @@ https://live.livedoomovies.com:4433/api/hls/live/1432/playlist.m3u8
 #EXTINF:-1 tvg-id="1432_backup" tvg-name="Play Sports 75 Backup" tvg-logo="https://343live.com/upload/1432.jpg" group-title="343LIVE Backup",Play Sports 75 Backup
 https://live.livedoomovies.com:4433/api/hls/live/1432_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1664" tvg-name="PPTV HD" tvg-logo="https://343live.com/upload/1664.jpg" group-title="343LIVE",PPTV HD
-https://live.livedoomovies.com:4433/api/hls/live/1664/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1664_backup" tvg-name="PPTV HD Backup" tvg-logo="https://343live.com/upload/1664.jpg" group-title="343LIVE Backup",PPTV HD Backup
-https://live.livedoomovies.com:4433/api/hls/live/1664_backup/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="1431" tvg-name="Premier Sports" tvg-logo="https://343live.com/upload/1431.jpg" group-title="343LIVE",Premier Sports
 https://live.livedoomovies.com:4433/api/hls/live/1431/playlist.m3u8
@@ -1086,11 +1289,12 @@ https://live.livedoomovies.com:4433/api/hls/live/715/playlist.m3u8
 #EXTINF:-1 tvg-id="715_backup" tvg-name="Thainess TV Backup" tvg-logo="https://343live.com/upload/715.jpg" group-title="343LIVE Backup",Thainess TV Backup
 https://live.livedoomovies.com:4433/api/hls/live/715_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1698" tvg-name="Thai PBS" tvg-logo="https://343live.com/upload/1698.jpg" group-title="343LIVE",Thai PBS
-https://live.livedoomovies.com:4433/api/hls/live/1698/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1698_backup" tvg-name="Thai PBS Backup" tvg-logo="https://343live.com/upload/1698.jpg" group-title="343LIVE Backup",Thai PBS Backup
-https://live.livedoomovies.com:4433/api/hls/live/1698_backup/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="1496" tvg-name="TLC" tvg-logo="https://343live.com/upload/1496.jpg" group-title="343LIVE",TLC
 https://live.livedoomovies.com:4433/api/hls/live/1496/playlist.m3u8
@@ -1128,29 +1332,15 @@ https://live.livedoomovies.com:4433/api/hls/live/11939/playlist.m3u8
 #EXTINF:-1 tvg-id="11939_backup" tvg-name="TNT Sport 4 Backup" tvg-logo="https://343live.com/upload/11939.jpg" group-title="343LIVE Backup",TNT Sport 4 Backup
 https://live.livedoomovies.com:4433/api/hls/live/11939_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1730" tvg-name="Top News" tvg-logo="https://343live.com/upload/1730.jpg" group-title="343LIVE",Top News
-https://live.livedoomovies.com:4433/api/hls/live/1730/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1730_backup" tvg-name="Top News Backup" tvg-logo="https://343live.com/upload/1730.jpg" group-title="343LIVE Backup",Top News Backup
-https://live.livedoomovies.com:4433/api/hls/live/1730_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="430" tvg-name="TPTV" tvg-logo="https://343live.com/upload/430.jpg" group-title="343LIVE",TPTV
-https://live.livedoomovies.com:4433/api/hls/live/430/playlist.m3u8
 
-#EXTINF:-1 tvg-id="430_backup" tvg-name="TPTV Backup" tvg-logo="https://343live.com/upload/430.jpg" group-title="343LIVE Backup",TPTV Backup
-https://live.livedoomovies.com:4433/api/hls/live/430_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6337" tvg-name="True4U" tvg-logo="https://343live.com/upload/6337.jpg" group-title="343LIVE",True4U
-https://live.livedoomovies.com:4433/api/hls/live/6337/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6337_backup" tvg-name="True4U Backup" tvg-logo="https://343live.com/upload/6337.jpg" group-title="343LIVE Backup",True4U Backup
-https://live.livedoomovies.com:4433/api/hls/live/6337_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1873" tvg-name="True Asian More" tvg-logo="https://343live.com/upload/1873.jpg" group-title="343LIVE",True Asian More
-https://live.livedoomovies.com:4433/api/hls/live/1873/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1873_backup" tvg-name="True Asian More Backup" tvg-logo="https://343live.com/upload/1873.jpg" group-title="343LIVE Backup",True Asian More Backup
-https://live.livedoomovies.com:4433/api/hls/live/1873_backup/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="722" tvg-name="True Explore SCI" tvg-logo="https://343live.com/upload/722.jpg" group-title="343LIVE",True Explore SCI
 https://live.livedoomovies.com:4433/api/hls/live/722/playlist.m3u8
@@ -1164,23 +1354,7 @@ https://live.livedoomovies.com:4433/api/hls/live/740/playlist.m3u8
 #EXTINF:-1 tvg-id="740_backup" tvg-name="True Explore WILD Backup" tvg-logo="https://343live.com/upload/740.jpg" group-title="343LIVE Backup",True Explore WILD Backup
 https://live.livedoomovies.com:4433/api/hls/live/740_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1877" tvg-name="True Film 1" tvg-logo="https://343live.com/upload/1877.jpg" group-title="343LIVE",True Film 1
-https://live.livedoomovies.com:4433/api/hls/live/1877/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1877_backup" tvg-name="True Film 1 Backup" tvg-logo="https://343live.com/upload/1877.jpg" group-title="343LIVE Backup",True Film 1 Backup
-https://live.livedoomovies.com:4433/api/hls/live/1877_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1915" tvg-name="True Film Asia" tvg-logo="https://343live.com/upload/1915.jpg" group-title="343LIVE",True Film Asia
-https://live.livedoomovies.com:4433/api/hls/live/1915/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1915_backup" tvg-name="True Film Asia Backup" tvg-logo="https://343live.com/upload/1915.jpg" group-title="343LIVE Backup",True Film Asia Backup
-https://live.livedoomovies.com:4433/api/hls/live/1915_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1875" tvg-name="True Movie Hits" tvg-logo="https://343live.com/upload/1875.jpg" group-title="343LIVE",True Movie Hits
-https://live.livedoomovies.com:4433/api/hls/live/1875/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1875_backup" tvg-name="True Movie Hits Backup" tvg-logo="https://343live.com/upload/1875.jpg" group-title="343LIVE Backup",True Movie Hits Backup
-https://live.livedoomovies.com:4433/api/hls/live/1875_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2018" tvg-name="True Premier HD 3" tvg-logo="https://343live.com/upload/2018.jpg" group-title="343LIVE",True Premier HD 3
 https://live.livedoomovies.com:4433/api/hls/live/2018/playlist.m3u8
@@ -1194,11 +1368,7 @@ https://live.livedoomovies.com:4433/api/hls/live/2017/playlist.m3u8
 #EXTINF:-1 tvg-id="2017_backup" tvg-name="True Premier HD 4 Backup" tvg-logo="https://343live.com/upload/2017.jpg" group-title="343LIVE Backup",True Premier HD 4 Backup
 https://live.livedoomovies.com:4433/api/hls/live/2017_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1916" tvg-name="True Series" tvg-logo="https://343live.com/upload/1916.jpg" group-title="343LIVE",True Series
-https://live.livedoomovies.com:4433/api/hls/live/1916/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1916_backup" tvg-name="True Series Backup" tvg-logo="https://343live.com/upload/1916.jpg" group-title="343LIVE Backup",True Series Backup
-https://live.livedoomovies.com:4433/api/hls/live/1916_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2892" tvg-name="True Sport 1" tvg-logo="https://343live.com/upload/2892.jpg" group-title="343LIVE",True Sport 1
 https://live.livedoomovies.com:4433/api/hls/live/2892/playlist.m3u8
@@ -1242,17 +1412,7 @@ https://live.livedoomovies.com:4433/api/hls/live/2101/playlist.m3u8
 #EXTINF:-1 tvg-id="2101_backup" tvg-name="True Tennis Backup" tvg-logo="https://343live.com/upload/2101.jpg" group-title="343LIVE Backup",True Tennis Backup
 https://live.livedoomovies.com:4433/api/hls/live/2101_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1874" tvg-name="True Thai Film" tvg-logo="https://343live.com/upload/1874.jpg" group-title="343LIVE",True Thai Film
-https://live.livedoomovies.com:4433/api/hls/live/1874/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1874_backup" tvg-name="True Thai Film Backup" tvg-logo="https://343live.com/upload/1874.jpg" group-title="343LIVE Backup",True Thai Film Backup
-https://live.livedoomovies.com:4433/api/hls/live/1874_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="2056" tvg-name="True X-Zyte" tvg-logo="https://343live.com/upload/2056.jpg" group-title="343LIVE",True X-Zyte
-https://live.livedoomovies.com:4433/api/hls/live/2056/playlist.m3u8
-
-#EXTINF:-1 tvg-id="2056_backup" tvg-name="True X-Zyte Backup" tvg-logo="https://343live.com/upload/2056.jpg" group-title="343LIVE Backup",True X-Zyte Backup
-https://live.livedoomovies.com:4433/api/hls/live/2056_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="11904" tvg-name="TSN 1" tvg-logo="https://343live.com/upload/11904.jpg" group-title="343LIVE",TSN 1
 https://live.livedoomovies.com:4433/api/hls/live/11904/playlist.m3u8
@@ -1302,11 +1462,7 @@ https://live.livedoomovies.com:4433/api/hls/live/1498/playlist.m3u8
 #EXTINF:-1 tvg-id="1498_backup" tvg-name="W-sport Backup" tvg-logo="https://343live.com/upload/1498.jpg" group-title="343LIVE Backup",W-sport Backup
 https://live.livedoomovies.com:4433/api/hls/live/1498_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2739" tvg-name="Warner TV" tvg-logo="https://343live.com/upload/2739.jpg" group-title="343LIVE",Warner TV
-https://live.livedoomovies.com:4433/api/hls/live/2739/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2739_backup" tvg-name="Warner TV Backup" tvg-logo="https://343live.com/upload/2739.jpg" group-title="343LIVE Backup",Warner TV Backup
-https://live.livedoomovies.com:4433/api/hls/live/2739_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8740" tvg-name="Willow Cricket" tvg-logo="https://343live.com/upload/8740.jpg" group-title="343LIVE",Willow Cricket
 https://live.livedoomovies.com:4433/api/hls/live/8740/playlist.m3u8
@@ -1314,11 +1470,7 @@ https://live.livedoomovies.com:4433/api/hls/live/8740/playlist.m3u8
 #EXTINF:-1 tvg-id="8740_backup" tvg-name="Willow Cricket Backup" tvg-logo="https://343live.com/upload/8740.jpg" group-title="343LIVE Backup",Willow Cricket Backup
 https://live.livedoomovies.com:4433/api/hls/live/8740_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6335" tvg-name="Workpoint TV" tvg-logo="https://343live.com/upload/6335.jpg" group-title="343LIVE",Workpoint TV
-https://live.livedoomovies.com:4433/api/hls/live/6335/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6335_backup" tvg-name="Workpoint TV Backup" tvg-logo="https://343live.com/upload/6335.jpg" group-title="343LIVE Backup",Workpoint TV Backup
-https://live.livedoomovies.com:4433/api/hls/live/6335_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10329" tvg-name="WWE Network" tvg-logo="https://343live.com/upload/10329.jpg" group-title="343LIVE",WWE Network
 https://live.livedoomovies.com:4433/api/hls/live/10329/playlist.m3u8
@@ -1332,17 +1484,7 @@ https://live.livedoomovies.com:4433/api/hls/live/716/playlist.m3u8
 #EXTINF:-1 tvg-id="716_backup" tvg-name="ของดีประเทศไทย Backup" tvg-logo="https://343live.com/upload/716.jpg" group-title="343LIVE Backup",ของดีประเทศไทย Backup
 https://live.livedoomovies.com:4433/api/hls/live/716_backup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7348" tvg-name="ช่อง 3 HD" tvg-logo="https://343live.com/upload/7348.jpg" group-title="343LIVE",ช่อง 3 HD
-https://live.livedoomovies.com:4433/api/hls/live/7348/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7348_backup" tvg-name="ช่อง 3 HD Backup" tvg-logo="https://343live.com/upload/7348.jpg" group-title="343LIVE Backup",ช่อง 3 HD Backup
-https://live.livedoomovies.com:4433/api/hls/live/7348_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7347" tvg-name="ช่อง 5 HD" tvg-logo="https://343live.com/upload/7347.jpg" group-title="343LIVE",ช่อง 5 HD
-https://live.livedoomovies.com:4433/api/hls/live/7347/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7347_backup" tvg-name="ช่อง 5 HD Backup" tvg-logo="https://343live.com/upload/7347.jpg" group-title="343LIVE Backup",ช่อง 5 HD Backup
-https://live.livedoomovies.com:4433/api/hls/live/7347_backup/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-name="ถิ่นใต้ IPTV" tvg-logo="https://343live.com/upload/24.jpg" group-title="343LIVE",ถิ่นใต้ IPTV
 https://live.livedoomovies.com:4433/api/hls/live/24/playlist.m3u8
@@ -1367,3 +1509,54 @@ https://live.livedoomovies.com:4433/api/hls/live/6330/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6330_backup" tvg-name="ไทยรัฐ TV HD Backup" tvg-logo="https://343live.com/upload/6330.jpg" group-title="343LIVE Backup",ไทยรัฐ TV HD Backup
 https://live.livedoomovies.com:4433/api/hls/live/6330_backup/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
