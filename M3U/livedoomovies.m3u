@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="2821" tvg-name="3BB Asian" tvg-logo="https://343live.com/upload/2821.jpg" group-title="ภาพยนต์",3BB Asian
-https://live.livedoomovies.com:4433/api/hls/live/2821/playlist.m3u8
+https://live.livedoomovies.com:4433/api/hls/live/2821/playlist.m3u8&referer=https%3A%2F%2Fwww.doonewmovie365.com%2F
 
 #EXTINF:-1 tvg-id="2821_backup" tvg-name="3BB Asian Backup" tvg-logo="https://343live.com/upload/2821.jpg" group-title="ภาพยนต์",3BB Asian Backup
 https://live.livedoomovies.com:4433/api/hls/live/2821_backup/playlist.m3u8
