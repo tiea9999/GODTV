@@ -30,7 +30,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2820/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2820_backup" tvg-name="HBO Backup" tvg-logo="https://343live.com/upload/2820.jpg" group-title="ภาพยนต์",HBO Backup
-https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2820_backup/playlist.m3u8
+https://live.livedoomovies.com:4433/api/hls/live/2820/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2816" tvg-name="HBO Family" tvg-logo="https://343live.com/upload/2816.jpg" group-title="ภาพยนต์",HBO Family
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2816/playlist.m3u8
