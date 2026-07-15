@@ -342,7 +342,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="2100" tvg-name="CGTN" tvg-logo="https://343live.com/upload/2100.jpg" group-title="สารคดี  ",CGTN
+#EXTINF:-1 tvg-id="2100" tvg-name="CGTN" tvg-logo="https://343live.com/upload/2100.jpg" group-title="สารคดี",CGTN
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2100/playlist.m3u8
 
 
@@ -958,7 +958,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="2892" tvg-name="True Sport 1" tvg-logo="https://343live.com/upload/2892.jpg" group-title="กีฬา ",True Sport 1
+#EXTINF:-1 tvg-id="2892" tvg-name="True Sport 1" tvg-logo="https://343live.com/upload/2892.jpg" group-title="กีฬา",True Sport 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2892/playlist.m3u8
 
 
