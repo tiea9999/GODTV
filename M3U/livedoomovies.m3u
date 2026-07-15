@@ -185,23 +185,23 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 #EXTINF:-1 tvg-id="710" tvg-name="Animal Show" tvg-logo="https://343live.com/upload/710.jpg" group-title="343LIVE",Animal Show
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/710/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13918" tvg-name="Arena Sport 1" tvg-logo="https://343live.com/upload/13918.jpg" group-title="343LIVE",Arena Sport 1
+#EXTINF:-1 tvg-id="13918" tvg-name="Arena Sport 1" tvg-logo="https://343live.com/upload/13918.jpg" group-title="กีฬา  ",Arena Sport 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/13918/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="13917" tvg-name="Arena Sport 2" tvg-logo="https://343live.com/upload/13917.jpg" group-title="343LIVE",Arena Sport 2
+#EXTINF:-1 tvg-id="13917" tvg-name="Arena Sport 2" tvg-logo="https://343live.com/upload/13917.jpg" group-title="กีฬา  ",Arena Sport 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/13917/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="13916" tvg-name="Arena Sport 3" tvg-logo="https://343live.com/upload/13916.jpg" group-title="343LIVE",Arena Sport 3
+#EXTINF:-1 tvg-id="13916" tvg-name="Arena Sport 3" tvg-logo="https://343live.com/upload/13916.jpg" group-title="กีฬา  ",Arena Sport 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/13916/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="13915" tvg-name="Arena Sport 4" tvg-logo="https://343live.com/upload/13915.jpg" group-title="343LIVE",Arena Sport 4
+#EXTINF:-1 tvg-id="13915" tvg-name="Arena Sport 4" tvg-logo="https://343live.com/upload/13915.jpg" group-title="กีฬา  ",Arena Sport 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/13915/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="13071" tvg-name="Arena Sport 5" tvg-logo="https://343live.com/upload/13071.jpg" group-title="343LIVE",Arena Sport 5
+#EXTINF:-1 tvg-id="13071" tvg-name="Arena Sport 5" tvg-logo="https://343live.com/upload/13071.jpg" group-title="กีฬา  ",Arena Sport 5
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/13071/playlist.m3u8
 
 
@@ -209,7 +209,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1854/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1389" tvg-name="Ball Thai 1" tvg-logo="https://343live.com/upload/1389.jpg" group-title="343LIVE",Ball Thai 1
+#EXTINF:-1 tvg-id="1389" tvg-name="Ball Thai 1" tvg-logo="https://343live.com/upload/1389.jpg" group-title="กีฬา  ",Ball Thai 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1389/playlist.m3u8
 
 
@@ -222,74 +222,74 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/6638/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="61286" tvg-name="Bein France 1" tvg-logo="https://343live.com/upload/61286.jpg" group-title="343LIVE",Bein France 1
+#EXTINF:-1 tvg-id="61286" tvg-name="Bein France 1" tvg-logo="https://343live.com/upload/61286.jpg" group-title="กีฬา  ",Bein France 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/61286/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="61283" tvg-name="Bein France 2" tvg-logo="https://343live.com/upload/61283.jpg" group-title="343LIVE",Bein France 2
+#EXTINF:-1 tvg-id="61283" tvg-name="Bein France 2" tvg-logo="https://343live.com/upload/61283.jpg" group-title="กีฬา  ",Bein France 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/61283/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="61281" tvg-name="Bein France 3" tvg-logo="https://343live.com/upload/61281.jpg" group-title="343LIVE",Bein France 3
+#EXTINF:-1 tvg-id="61281" tvg-name="Bein France 3" tvg-logo="https://343live.com/upload/61281.jpg" group-title="กีฬา  ",Bein France 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/61281/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="10331" tvg-name="Being Sport USA" tvg-logo="https://343live.com/upload/10331.jpg" group-title="343LIVE",Being Sport USA
+#EXTINF:-1 tvg-id="10331" tvg-name="Being Sport USA" tvg-logo="https://343live.com/upload/10331.jpg" group-title="กีฬา  ",Being Sport USA
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/10331/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7424" tvg-name="beIN SPORTS 1" tvg-logo="https://343live.com/upload/7424.jpg" group-title="343LIVE",beIN SPORTS 1
+#EXTINF:-1 tvg-id="7424" tvg-name="beIN SPORTS 1" tvg-logo="https://343live.com/upload/7424.jpg" group-title="กีฬา  ",beIN SPORTS 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7424/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7423" tvg-name="beIN SPORTS 2" tvg-logo="https://343live.com/upload/7423.jpg" group-title="343LIVE",beIN SPORTS 2
+#EXTINF:-1 tvg-id="7423" tvg-name="beIN SPORTS 2" tvg-logo="https://343live.com/upload/7423.jpg" group-title="กีฬา  ",beIN SPORTS 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7423/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7422" tvg-name="beIN SPORTS 3" tvg-logo="https://343live.com/upload/7422.jpg" group-title="343LIVE",beIN SPORTS 3
+#EXTINF:-1 tvg-id="7422" tvg-name="beIN SPORTS 3" tvg-logo="https://343live.com/upload/7422.jpg" group-title="กีฬา  ",beIN SPORTS 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7422/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7421" tvg-name="beIN SPORTS 4" tvg-logo="https://343live.com/upload/7421.jpg" group-title="343LIVE",beIN SPORTS 4
+#EXTINF:-1 tvg-id="7421" tvg-name="beIN SPORTS 4" tvg-logo="https://343live.com/upload/7421.jpg" group-title="กีฬา  ",beIN SPORTS 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7421/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7420" tvg-name="beIN SPORTS 5" tvg-logo="https://343live.com/upload/7420.jpg" group-title="343LIVE",beIN SPORTS 5
+#EXTINF:-1 tvg-id="7420" tvg-name="beIN SPORTS 5" tvg-logo="https://343live.com/upload/7420.jpg" group-title="กีฬา  ",beIN SPORTS 5
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7420/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7419" tvg-name="beIN SPORTS 6" tvg-logo="https://343live.com/upload/7419.jpg" group-title="343LIVE",beIN SPORTS 6
+#EXTINF:-1 tvg-id="7419" tvg-name="beIN SPORTS 6" tvg-logo="https://343live.com/upload/7419.jpg" group-title="กีฬา  ",beIN SPORTS 6
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7419/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7418" tvg-name="beIN SPORTS 7" tvg-logo="https://343live.com/upload/7418.jpg" group-title="343LIVE",beIN SPORTS 7
+#EXTINF:-1 tvg-id="7418" tvg-name="beIN SPORTS 7" tvg-logo="https://343live.com/upload/7418.jpg" group-title="กีฬา  ",beIN SPORTS 7
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7418/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7417" tvg-name="beIN SPORTS 8" tvg-logo="https://343live.com/upload/7417.jpg" group-title="343LIVE",beIN SPORTS 8
+#EXTINF:-1 tvg-id="7417" tvg-name="beIN SPORTS 8" tvg-logo="https://343live.com/upload/7417.jpg" group-title="กีฬา  ",beIN SPORTS 8
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7417/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7416" tvg-name="beIN SPORTS 9" tvg-logo="https://343live.com/upload/7416.jpg" group-title="343LIVE",beIN SPORTS 9
+#EXTINF:-1 tvg-id="7416" tvg-name="beIN SPORTS 9" tvg-logo="https://343live.com/upload/7416.jpg" group-title="กีฬา  ",beIN SPORTS 9
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7416/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="7415" tvg-name="beIN SPORTS 10" tvg-logo="https://343live.com/upload/7415.jpg" group-title="343LIVE",beIN SPORTS 10
+#EXTINF:-1 tvg-id="7415" tvg-name="beIN SPORTS 10" tvg-logo="https://343live.com/upload/7415.jpg" group-title="กีฬา  ",beIN SPORTS 10
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7415/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1260" tvg-name="BG Sports 1" tvg-logo="https://343live.com/upload/1260.jpg" group-title="343LIVE",BG Sports 1
+#EXTINF:-1 tvg-id="1260" tvg-name="BG Sports 1" tvg-logo="https://343live.com/upload/1260.jpg" group-title="กีฬา  ",BG Sports 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1260/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1259" tvg-name="BG Sports 2" tvg-logo="https://343live.com/upload/1259.jpg" group-title="343LIVE",BG Sports 2
+#EXTINF:-1 tvg-id="1259" tvg-name="BG Sports 2" tvg-logo="https://343live.com/upload/1259.jpg" group-title="กีฬา  ",BG Sports 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1259/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1258" tvg-name="BG Sports 3" tvg-logo="https://343live.com/upload/1258.jpg" group-title="343LIVE",BG Sports 3
+#EXTINF:-1 tvg-id="1258" tvg-name="BG Sports 3" tvg-logo="https://343live.com/upload/1258.jpg" group-title="กีฬา  ",BG Sports 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1258/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1257" tvg-name="BG Sports 4" tvg-logo="https://343live.com/upload/1257.jpg" group-title="343LIVE",BG Sports 4
+#EXTINF:-1 tvg-id="1257" tvg-name="BG Sports 4" tvg-logo="https://343live.com/upload/1257.jpg" group-title="กีฬา  ",BG Sports 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1257/playlist.m3u8
 
 
@@ -301,15 +301,15 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="8999" tvg-name="Boomerang" tvg-logo="https://343live.com/upload/8999.jpg" group-title="343LIVE",Boomerang
+#EXTINF:-1 tvg-id="8999" tvg-name="Boomerang" tvg-logo="https://343live.com/upload/8999.jpg" group-title="การ์ตูน  ",Boomerang
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/8999/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="477" tvg-name="Cartoonito" tvg-logo="https://343live.com/upload/477.jpg" group-title="343LIVE",Cartoonito
+#EXTINF:-1 tvg-id="477" tvg-name="Cartoonito" tvg-logo="https://343live.com/upload/477.jpg" group-title="การ์ตูน  ",Cartoonito
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/477/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="8007" tvg-name="Cartoon Network" tvg-logo="https://343live.com/upload/8007.jpg" group-title="343LIVE",Cartoon Network
+#EXTINF:-1 tvg-id="8007" tvg-name="Cartoon Network" tvg-logo="https://343live.com/upload/8007.jpg" group-title="การ์ตูน  ",Cartoon Network
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/8007/playlist.m3u8
 
 
@@ -322,7 +322,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="11921" tvg-name="CBS Sports" tvg-logo="https://343live.com/upload/11921.jpg" group-title="343LIVE",CBS Sports
+#EXTINF:-1 tvg-id="11921" tvg-name="CBS Sports" tvg-logo="https://343live.com/upload/11921.jpg" group-title="กีฬา  ",CBS Sports
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11921/playlist.m3u8
 
 
@@ -342,7 +342,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="2100" tvg-name="CGTN" tvg-logo="https://343live.com/upload/2100.jpg" group-title="343LIVE",CGTN
+#EXTINF:-1 tvg-id="2100" tvg-name="CGTN" tvg-logo="https://343live.com/upload/2100.jpg" group-title="สารคดี  ",CGTN
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2100/playlist.m3u8
 
 
@@ -381,11 +381,11 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="1606" tvg-name="Discovery Asia" tvg-logo="https://343live.com/upload/1606.jpg" group-title="343LIVE",Discovery Asia
+#EXTINF:-1 tvg-id="1606" tvg-name="Discovery Asia" tvg-logo="https://343live.com/upload/1606.jpg" group-title="สารคดี  ",Discovery Asia
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1606/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1546" tvg-name="Discovery Channel" tvg-logo="https://343live.com/upload/1546.jpg" group-title="343LIVE",Discovery Channel
+#EXTINF:-1 tvg-id="1546" tvg-name="Discovery Channel" tvg-logo="https://343live.com/upload/1546.jpg" group-title="สารคดี  ",Discovery Channel
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1546/playlist.m3u8
 
 
@@ -394,7 +394,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="2347" tvg-name="DreamWorks" tvg-logo="https://343live.com/upload/2347.jpg" group-title="343LIVE",DreamWorks
+#EXTINF:-1 tvg-id="2347" tvg-name="DreamWorks" tvg-logo="https://343live.com/upload/2347.jpg" group-title="การ์ตูน ",DreamWorks
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2347/playlist.m3u8
 
 
@@ -404,32 +404,32 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="11924" tvg-name="ESPN 1" tvg-logo="https://343live.com/upload/11924.jpg" group-title="343LIVE",ESPN 1
+#EXTINF:-1 tvg-id="11924" tvg-name="ESPN 1" tvg-logo="https://343live.com/upload/11924.jpg" group-title="กีฬา  ",ESPN 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11924/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11923" tvg-name="ESPN 2" tvg-logo="https://343live.com/upload/11923.jpg" group-title="343LIVE",ESPN 2
+#EXTINF:-1 tvg-id="11923" tvg-name="ESPN 2" tvg-logo="https://343live.com/upload/11923.jpg" group-title="กีฬา  ",ESPN 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11923/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="4337" tvg-name="Euronews" tvg-logo="https://343live.com/upload/4337.jpg" group-title="343LIVE",Euronews
+#EXTINF:-1 tvg-id="4337" tvg-name="Euronews" tvg-logo="https://343live.com/upload/4337.jpg" group-title="กีฬา  ",Euronews
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/4337/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1368" tvg-name="Eurosport" tvg-logo="https://343live.com/upload/1368.jpg" group-title="343LIVE",Eurosport
+#EXTINF:-1 tvg-id="1368" tvg-name="Eurosport" tvg-logo="https://343live.com/upload/1368.jpg" group-title="กีฬา  ",Eurosport
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1368/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11936" tvg-name="EuroSport 1" tvg-logo="https://343live.com/upload/11936.jpg" group-title="343LIVE",EuroSport 1
+#EXTINF:-1 tvg-id="11936" tvg-name="EuroSport 1" tvg-logo="https://343live.com/upload/11936.jpg" group-title="กีฬา  ",EuroSport 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11936/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11935" tvg-name="EuroSport 2" tvg-logo="https://343live.com/upload/11935.jpg" group-title="343LIVE",EuroSport 2
+#EXTINF:-1 tvg-id="11935" tvg-name="EuroSport 2" tvg-logo="https://343live.com/upload/11935.jpg" group-title="กีฬา  ",EuroSport 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11935/playlist.m3u8
 
 
@@ -437,7 +437,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1418/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="61289" tvg-name="Fight Sports" tvg-logo="https://343live.com/upload/61289.jpg" group-title="343LIVE",Fight Sports
+#EXTINF:-1 tvg-id="61289" tvg-name="Fight Sports" tvg-logo="https://343live.com/upload/61289.jpg" group-title="กีฬา  ",Fight Sports
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/61289/playlist.m3u8
 
 
@@ -453,19 +453,19 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 #EXTINF:-1 tvg-id="9196" tvg-name="FOX NEWS" tvg-logo="https://343live.com/upload/9196.jpg" group-title="343LIVE",FOX NEWS
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/9196/playlist.m3u8
 
-#EXTINF:-1 tvg-id="11926" tvg-name="Fox Sports 1 USA" tvg-logo="https://343live.com/upload/11926.jpg" group-title="343LIVE",Fox Sports 1 USA
+#EXTINF:-1 tvg-id="11926" tvg-name="Fox Sports 1 USA" tvg-logo="https://343live.com/upload/11926.jpg" group-title="กีฬา  ",Fox Sports 1 USA
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11926/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11925" tvg-name="Fox Sports 2 USA" tvg-logo="https://343live.com/upload/11925.jpg" group-title="343LIVE",Fox Sports 2 USA
+#EXTINF:-1 tvg-id="11925" tvg-name="Fox Sports 2 USA" tvg-logo="https://343live.com/upload/11925.jpg" group-title="กีฬา  ",Fox Sports 2 USA
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11925/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="394" tvg-name="France 24" tvg-logo="https://343live.com/upload/394.jpg" group-title="343LIVE",France 24
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/394/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7203" tvg-name="Golf +" tvg-logo="https://343live.com/upload/7203.jpg" group-title="343LIVE",Golf +
+#EXTINF:-1 tvg-id="7203" tvg-name="Golf +" tvg-logo="https://343live.com/upload/7203.jpg" group-title="กีฬา  ",Golf +
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/7203/playlist.m3u8
 
 
@@ -478,28 +478,13 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="1667" tvg-name="History Channel" tvg-logo="https://343live.com/upload/1667.jpg" group-title="343LIVE",History Channel
+#EXTINF:-1 tvg-id="1667" tvg-name="History Channel" tvg-logo="https://343live.com/upload/1667.jpg" group-title="สารคดี  ",History Channel
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1667/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="8738" tvg-name="ITV1" tvg-logo="https://343live.com/upload/8738.jpg" group-title="343LIVE",ITV1
-https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/8738/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="8737" tvg-name="ITV2" tvg-logo="https://343live.com/upload/8737.jpg" group-title="343LIVE",ITV2
-https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/8737/playlist.m3u8
-
-#EXTINF:-1 tvg-id="8736" tvg-name="ITV3" tvg-logo="https://343live.com/upload/8736.jpg" group-title="343LIVE",ITV3
-https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/8736/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="8735" tvg-name="ITV4" tvg-logo="https://343live.com/upload/8735.jpg" group-title="343LIVE",ITV4
-https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/8735/playlist.m3u8
-
-Backup
-https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/8735_backup/playlist.m3u8
-
-#EXTINF:-1 tvg-id="12684" tvg-name="Liverpool TV" tvg-logo="https://343live.com/upload/12684.jpg" group-title="343LIVE",Liverpool TV
+#EXTINF:-1 tvg-id="12684" tvg-name="Liverpool TV" tvg-logo="https://343live.com/upload/12684.jpg" group-title="กีฬา  ",Liverpool TV
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/12684/playlist.m3u8
 
 
@@ -508,114 +493,114 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="82290" tvg-name="Monomax 1" tvg-logo="https://343live.com/upload/82290.jpg" group-title="343LIVE",Monomax 1
+#EXTINF:-1 tvg-id="82290" tvg-name="Monomax 1" tvg-logo="https://343live.com/upload/82290.jpg" group-title="กีฬา  ",Monomax 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1495" tvg-name="Mono MAX 1" tvg-logo="https://343live.com/upload/1495.jpg" group-title="343LIVE",Mono MAX 1
+#EXTINF:-1 tvg-id="1495" tvg-name="Mono MAX 1" tvg-logo="https://343live.com/upload/1495.jpg" group-title="กีฬา  ",Mono MAX 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1495/playlist.m3u8
 
-#EXTINF:-1 tvg-id="82079" tvg-name="Monomax 2" tvg-logo="https://343live.com/upload/82079.jpg" group-title="343LIVE",Monomax 2
+#EXTINF:-1 tvg-id="82079" tvg-name="Monomax 2" tvg-logo="https://343live.com/upload/82079.jpg" group-title="กีฬา  ",Monomax 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/82079/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1494" tvg-name="Mono MAX 2" tvg-logo="https://343live.com/upload/1494.jpg" group-title="343LIVE",Mono MAX 2
+#EXTINF:-1 tvg-id="1494" tvg-name="Mono MAX 2" tvg-logo="https://343live.com/upload/1494.jpg" group-title="กีฬา  ",Mono MAX 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1494/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="82044" tvg-name="Monomax 3" tvg-logo="https://343live.com/upload/82044.jpg" group-title="343LIVE",Monomax 3
+#EXTINF:-1 tvg-id="82044" tvg-name="Monomax 3" tvg-logo="https://343live.com/upload/82044.jpg" group-title="กีฬา  ",Monomax 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/82044/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1493" tvg-name="Mono MAX 3" tvg-logo="https://343live.com/upload/1493.jpg" group-title="343LIVE",Mono MAX 3
+#EXTINF:-1 tvg-id="1493" tvg-name="Mono MAX 3" tvg-logo="https://343live.com/upload/1493.jpg" group-title="กีฬา  ",Mono MAX 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1493/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="81912" tvg-name="Monomax 4" tvg-logo="https://343live.com/upload/81912.jpg" group-title="343LIVE",Monomax 4
+#EXTINF:-1 tvg-id="81912" tvg-name="Monomax 4" tvg-logo="https://343live.com/upload/81912.jpg" group-title="กีฬา  ",Monomax 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/81912/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1492" tvg-name="Mono MAX 4" tvg-logo="https://343live.com/upload/1492.jpg" group-title="343LIVE",Mono MAX 4
+#EXTINF:-1 tvg-id="1492" tvg-name="Mono MAX 4" tvg-logo="https://343live.com/upload/1492.jpg" group-title="กีฬา  ",Mono MAX 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1492/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="81779" tvg-name="Monomax 5" tvg-logo="https://343live.com/upload/81779.jpg" group-title="343LIVE",Monomax 5
+#EXTINF:-1 tvg-id="81779" tvg-name="Monomax 5" tvg-logo="https://343live.com/upload/81779.jpg" group-title="กีฬา  ",Monomax 5
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/81779/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1491" tvg-name="Mono MAX 5" tvg-logo="https://343live.com/upload/1491.jpg" group-title="343LIVE",Mono MAX 5
+#EXTINF:-1 tvg-id="1491" tvg-name="Mono MAX 5" tvg-logo="https://343live.com/upload/1491.jpg" group-title="กีฬา  ",Mono MAX 5
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1491/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="81741" tvg-name="Monomax 6" tvg-logo="https://343live.com/upload/81741.jpg" group-title="343LIVE",Monomax 6
+#EXTINF:-1 tvg-id="81741" tvg-name="Monomax 6" tvg-logo="https://343live.com/upload/81741.jpg" group-title="กีฬา  ",Monomax 6
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/81741/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1490" tvg-name="Mono MAX 6" tvg-logo="https://343live.com/upload/1490.jpg" group-title="343LIVE",Mono MAX 6
+#EXTINF:-1 tvg-id="1490" tvg-name="Mono MAX 6" tvg-logo="https://343live.com/upload/1490.jpg" group-title="กีฬา  ",Mono MAX 6
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1490/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="81639" tvg-name="Monomax 7" tvg-logo="https://343live.com/upload/81639.jpg" group-title="343LIVE",Monomax 7
+#EXTINF:-1 tvg-id="81639" tvg-name="Monomax 7" tvg-logo="https://343live.com/upload/81639.jpg" group-title="กีฬา  ",Monomax 7
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/81639/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1489" tvg-name="Mono MAX 7" tvg-logo="https://343live.com/upload/1489.jpg" group-title="343LIVE",Mono MAX 7
+#EXTINF:-1 tvg-id="1489" tvg-name="Mono MAX 7" tvg-logo="https://343live.com/upload/1489.jpg" group-title="กีฬา  ",Mono MAX 7
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1489/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="81611" tvg-name="Monomax 8" tvg-logo="https://343live.com/upload/81611.jpg" group-title="343LIVE",Monomax 8
+#EXTINF:-1 tvg-id="81611" tvg-name="Monomax 8" tvg-logo="https://343live.com/upload/81611.jpg" group-title="กีฬา  ",Monomax 8
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/81611/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1488" tvg-name="Mono MAX 8" tvg-logo="https://343live.com/upload/1488.jpg" group-title="343LIVE",Mono MAX 8
+#EXTINF:-1 tvg-id="1488" tvg-name="Mono MAX 8" tvg-logo="https://343live.com/upload/1488.jpg" group-title="กีฬา  ",Mono MAX 8
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1488/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1487" tvg-name="Mono MAX 9" tvg-logo="https://343live.com/upload/1487.jpg" group-title="343LIVE",Mono MAX 9
+#EXTINF:-1 tvg-id="1487" tvg-name="Mono MAX 9" tvg-logo="https://343live.com/upload/1487.jpg" group-title="กีฬา  ",Mono MAX 9
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1487/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1486" tvg-name="Mono MAX 10" tvg-logo="https://343live.com/upload/1486.jpg" group-title="343LIVE",Mono MAX 10
+#EXTINF:-1 tvg-id="1486" tvg-name="Mono MAX 10" tvg-logo="https://343live.com/upload/1486.jpg" group-title="กีฬา  ",Mono MAX 10
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1486/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1239" tvg-name="MUTV" tvg-logo="https://343live.com/upload/1239.jpg" group-title="343LIVE",MUTV
+#EXTINF:-1 tvg-id="1239" tvg-name="MUTV" tvg-logo="https://343live.com/upload/1239.jpg" group-title="กีฬา  ",MUTV
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1239/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="12682" tvg-name="MUTV" tvg-logo="https://343live.com/upload/12682.jpg" group-title="343LIVE",MUTV
+#EXTINF:-1 tvg-id="12682" tvg-name="MUTV" tvg-logo="https://343live.com/upload/12682.jpg" group-title="กีฬา  ",MUTV
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/12682/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="555" tvg-name="Mysci" tvg-logo="https://343live.com/upload/555.jpg" group-title="343LIVE",Mysci
+#EXTINF:-1 tvg-id="555" tvg-name="Mysci" tvg-logo="https://343live.com/upload/555.jpg" group-title="สารคดี  ",Mysci
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/555/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="8739" tvg-name="NBA" tvg-logo="https://343live.com/upload/8739.jpg" group-title="343LIVE",NBA
+#EXTINF:-1 tvg-id="8739" tvg-name="NBA" tvg-logo="https://343live.com/upload/8739.jpg" group-title="กีฬา ",NBA
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/8739/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11920" tvg-name="NBC Sports" tvg-logo="https://343live.com/upload/11920.jpg" group-title="343LIVE",NBC Sports
+#EXTINF:-1 tvg-id="11920" tvg-name="NBC Sports" tvg-logo="https://343live.com/upload/11920.jpg" group-title="กีฬา ",NBC Sports
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11920/playlist.m3u8
 
 
@@ -624,21 +609,21 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="11922" tvg-name="NFL" tvg-logo="https://343live.com/upload/11922.jpg" group-title="343LIVE",NFL
+#EXTINF:-1 tvg-id="11922" tvg-name="NFL" tvg-logo="https://343live.com/upload/11922.jpg" group-title="กีฬา ",NFL
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11922/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="14972" tvg-name="NHL" tvg-logo="https://343live.com/upload/14972.jpg" group-title="343LIVE",NHL
+#EXTINF:-1 tvg-id="14972" tvg-name="NHL" tvg-logo="https://343live.com/upload/14972.jpg" group-title="กีฬา ",NHL
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/14972/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2029" tvg-name="Nickelodeon" tvg-logo="https://343live.com/upload/2029.jpg" group-title="343LIVE",Nickelodeon
+#EXTINF:-1 tvg-id="2029" tvg-name="Nickelodeon" tvg-logo="https://343live.com/upload/2029.jpg" group-title="การ์ตูน ",Nickelodeon
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2029/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2875" tvg-name="Nick Jr." tvg-logo="https://343live.com/upload/2875.jpg" group-title="343LIVE",Nick Jr.
+#EXTINF:-1 tvg-id="2875" tvg-name="Nick Jr." tvg-logo="https://343live.com/upload/2875.jpg" group-title="การ์ตูน ",Nick Jr.
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2875/playlist.m3u8
 
 
@@ -648,91 +633,91 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="461" tvg-name="One Channel" tvg-logo="https://343live.com/upload/461.jpg" group-title="343LIVE",One Channel
+#EXTINF:-1 tvg-id="461" tvg-name="One Channel" tvg-logo="https://343live.com/upload/461.jpg" group-title="ดิจิตอล",One Channel
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/461/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1485" tvg-name="Play Sports 41" tvg-logo="https://343live.com/upload/1485.jpg" group-title="343LIVE",Play Sports 41
+#EXTINF:-1 tvg-id="1485" tvg-name="Play Sports 41" tvg-logo="https://343live.com/upload/1485.jpg" group-title="กีฬา  ",Play Sports 41
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1485/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1439" tvg-name="Play Sports 48" tvg-logo="https://343live.com/upload/1439.jpg" group-title="343LIVE",Play Sports 48
+#EXTINF:-1 tvg-id="1439" tvg-name="Play Sports 48" tvg-logo="https://343live.com/upload/1439.jpg" group-title="กีฬา  ",Play Sports 48
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1439/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1484" tvg-name="Play Sports 55" tvg-logo="https://343live.com/upload/1484.jpg" group-title="343LIVE",Play Sports 55
+#EXTINF:-1 tvg-id="1484" tvg-name="Play Sports 55" tvg-logo="https://343live.com/upload/1484.jpg" group-title="กีฬา  ",Play Sports 55
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1484/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1483" tvg-name="Play Sports 56" tvg-logo="https://343live.com/upload/1483.jpg" group-title="343LIVE",Play Sports 56
+#EXTINF:-1 tvg-id="1483" tvg-name="Play Sports 56" tvg-logo="https://343live.com/upload/1483.jpg" group-title="กีฬา  ",Play Sports 56
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1483/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1441" tvg-name="Play Sports 57" tvg-logo="https://343live.com/upload/1441.jpg" group-title="343LIVE",Play Sports 57
+#EXTINF:-1 tvg-id="1441" tvg-name="Play Sports 57" tvg-logo="https://343live.com/upload/1441.jpg" group-title="กีฬา  ",Play Sports 57
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1441/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1440" tvg-name="Play Sports 58" tvg-logo="https://343live.com/upload/1440.jpg" group-title="343LIVE",Play Sports 58
+#EXTINF:-1 tvg-id="1440" tvg-name="Play Sports 58" tvg-logo="https://343live.com/upload/1440.jpg" group-title="กีฬา  ",Play Sports 58
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1440/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1482" tvg-name="Play Sports 61" tvg-logo="https://343live.com/upload/1482.jpg" group-title="343LIVE",Play Sports 61
+#EXTINF:-1 tvg-id="1482" tvg-name="Play Sports 61" tvg-logo="https://343live.com/upload/1482.jpg" group-title="กีฬา  ",Play Sports 61
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1482/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1481" tvg-name="Play Sports 62" tvg-logo="https://343live.com/upload/1481.jpg" group-title="343LIVE",Play Sports 62
+#EXTINF:-1 tvg-id="1481" tvg-name="Play Sports 62" tvg-logo="https://343live.com/upload/1481.jpg" group-title="กีฬา  ",Play Sports 62
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1481/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1480" tvg-name="Play Sports 63" tvg-logo="https://343live.com/upload/1480.jpg" group-title="343LIVE",Play Sports 63
+#EXTINF:-1 tvg-id="1480" tvg-name="Play Sports 63" tvg-logo="https://343live.com/upload/1480.jpg" group-title="กีฬา  ",Play Sports 63
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1480/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1438" tvg-name="Play Sports 64" tvg-logo="https://343live.com/upload/1438.jpg" group-title="343LIVE",Play Sports 64
+#EXTINF:-1 tvg-id="1438" tvg-name="Play Sports 64" tvg-logo="https://343live.com/upload/1438.jpg" group-title="กีฬา  ",Play Sports 64
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1438/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1479" tvg-name="Play Sports 66" tvg-logo="https://343live.com/upload/1479.jpg" group-title="343LIVE",Play Sports 66
+#EXTINF:-1 tvg-id="1479" tvg-name="Play Sports 66" tvg-logo="https://343live.com/upload/1479.jpg" group-title="กีฬา  ",Play Sports 66
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1479/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1478" tvg-name="Play Sports 69" tvg-logo="https://343live.com/upload/1478.jpg" group-title="343LIVE",Play Sports 69
+#EXTINF:-1 tvg-id="1478" tvg-name="Play Sports 69" tvg-logo="https://343live.com/upload/1478.jpg" group-title="กีฬา  ",Play Sports 69
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1478/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1477" tvg-name="Play Sports 71" tvg-logo="https://343live.com/upload/1477.jpg" group-title="343LIVE",Play Sports 71
+#EXTINF:-1 tvg-id="1477" tvg-name="Play Sports 71" tvg-logo="https://343live.com/upload/1477.jpg" group-title="กีฬา  ",Play Sports 71
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1477/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1476" tvg-name="Play Sports 72" tvg-logo="https://343live.com/upload/1476.jpg" group-title="343LIVE",Play Sports 72
+#EXTINF:-1 tvg-id="1476" tvg-name="Play Sports 72" tvg-logo="https://343live.com/upload/1476.jpg" group-title="กีฬา  ",Play Sports 72
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1476/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1475" tvg-name="Play Sports 73" tvg-logo="https://343live.com/upload/1475.jpg" group-title="343LIVE",Play Sports 73
+#EXTINF:-1 tvg-id="1475" tvg-name="Play Sports 73" tvg-logo="https://343live.com/upload/1475.jpg" group-title="กีฬา  ",Play Sports 73
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1475/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1433" tvg-name="Play Sports 74" tvg-logo="https://343live.com/upload/1433.jpg" group-title="343LIVE",Play Sports 74
+#EXTINF:-1 tvg-id="1433" tvg-name="Play Sports 74" tvg-logo="https://343live.com/upload/1433.jpg" group-title="กีฬา  ",Play Sports 74
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1433/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1432" tvg-name="Play Sports 75" tvg-logo="https://343live.com/upload/1432.jpg" group-title="343LIVE",Play Sports 75
+#EXTINF:-1 tvg-id="1432" tvg-name="Play Sports 75" tvg-logo="https://343live.com/upload/1432.jpg" group-title="กีฬา  ",Play Sports 75
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1432/playlist.m3u8
 
 
@@ -741,34 +726,34 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="1431" tvg-name="Premier Sports" tvg-logo="https://343live.com/upload/1431.jpg" group-title="343LIVE",Premier Sports
+#EXTINF:-1 tvg-id="1431" tvg-name="Premier Sports" tvg-logo="https://343live.com/upload/1431.jpg" group-title="กีฬา  ",Premier Sports
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1431/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1642" tvg-name="Rama Channel" tvg-logo="https://343live.com/upload/1642.jpg" group-title="343LIVE",Rama Channel
+#EXTINF:-1 tvg-id="1642" tvg-name="Rama Channel" tvg-logo="https://343live.com/upload/1642.jpg" group-title="กีฬา  ",Rama Channel
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1642/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1231" tvg-name="Realmadrid TV" tvg-logo="https://343live.com/upload/1231.jpg" group-title="343LIVE",Realmadrid TV
+#EXTINF:-1 tvg-id="1231" tvg-name="Realmadrid TV" tvg-logo="https://343live.com/upload/1231.jpg" group-title="กีฬา  ",Realmadrid TV
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1231/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="1373" tvg-name="RED BULL" tvg-logo="https://343live.com/upload/1373.jpg" group-title="343LIVE",RED BULL
+#EXTINF:-1 tvg-id="1373" tvg-name="RED BULL" tvg-logo="https://343live.com/upload/1373.jpg" group-title="กีฬา  ",RED BULL
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1373/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2930" tvg-name="Rock Action" tvg-logo="https://343live.com/upload/2930.jpg" group-title="343LIVE",Rock Action
+#EXTINF:-1 tvg-id="2930" tvg-name="Rock Action" tvg-logo="https://343live.com/upload/2930.jpg" group-title="3ภาพยนต์",Rock Action
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2930/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2929" tvg-name="Rock Entertainment" tvg-logo="https://343live.com/upload/2929.jpg" group-title="343LIVE",Rock Entertainment
+#EXTINF:-1 tvg-id="2929" tvg-name="Rock Entertainment" tvg-logo="https://343live.com/upload/2929.jpg" group-title="ภาพยนต์",Rock Entertainment
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2929/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="261622" tvg-name="ROCK X Stream" tvg-logo="https://343live.com/upload/261622.jpg" group-title="343LIVE",ROCK X Stream
+#EXTINF:-1 tvg-id="261622" tvg-name="ROCK X Stream" tvg-logo="https://343live.com/upload/261622.jpg" group-title="ภาพยนต์",ROCK X Stream
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/261622/playlist.m3u8
 
 
@@ -778,127 +763,127 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="11972" tvg-name="Sky Sports +" tvg-logo="https://343live.com/upload/11972.jpg" group-title="343LIVE",Sky Sports +
+#EXTINF:-1 tvg-id="11972" tvg-name="Sky Sports +" tvg-logo="https://343live.com/upload/11972.jpg" group-title="กีฬา",Sky Sports +
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11972/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11952" tvg-name="Sky Sports Action" tvg-logo="https://343live.com/upload/11952.jpg" group-title="343LIVE",Sky Sports Action
+#EXTINF:-1 tvg-id="11952" tvg-name="Sky Sports Action" tvg-logo="https://343live.com/upload/11952.jpg" group-title="กีฬา",Sky Sports Action
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11952/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11951" tvg-name="Sky Sports Cricket" tvg-logo="https://343live.com/upload/11951.jpg" group-title="343LIVE",Sky Sports Cricket
+#EXTINF:-1 tvg-id="11951" tvg-name="Sky Sports Cricket" tvg-logo="https://343live.com/upload/11951.jpg" group-title="กีฬา",Sky Sports Cricket
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11951/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11973" tvg-name="Sky Sports F1" tvg-logo="https://343live.com/upload/11973.jpg" group-title="343LIVE",Sky Sports F1
+#EXTINF:-1 tvg-id="11973" tvg-name="Sky Sports F1" tvg-logo="https://343live.com/upload/11973.jpg" group-title="กีฬา",Sky Sports F1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11973/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11974" tvg-name="Sky Sports Football" tvg-logo="https://343live.com/upload/11974.jpg" group-title="343LIVE",Sky Sports Football
+#EXTINF:-1 tvg-id="11974" tvg-name="Sky Sports Football" tvg-logo="https://343live.com/upload/11974.jpg" group-title="กีฬา",Sky Sports Football
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11974/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11950" tvg-name="Sky Sports Golf" tvg-logo="https://343live.com/upload/11950.jpg" group-title="343LIVE",Sky Sports Golf
+#EXTINF:-1 tvg-id="11950" tvg-name="Sky Sports Golf" tvg-logo="https://343live.com/upload/11950.jpg" group-title="กีฬา",Sky Sports Golf
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11950/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11949" tvg-name="Sky Sports Main Event" tvg-logo="https://343live.com/upload/11949.jpg" group-title="343LIVE",Sky Sports Main Event
+#EXTINF:-1 tvg-id="11949" tvg-name="Sky Sports Main Event" tvg-logo="https://343live.com/upload/11949.jpg" group-title="กีฬา",Sky Sports Main Event
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11949/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11975" tvg-name="Sky Sports Mix" tvg-logo="https://343live.com/upload/11975.jpg" group-title="343LIVE",Sky Sports Mix
+#EXTINF:-1 tvg-id="11975" tvg-name="Sky Sports Mix" tvg-logo="https://343live.com/upload/11975.jpg" group-title="กีฬา",Sky Sports Mix
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11975/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11976" tvg-name="Sky Sports News" tvg-logo="https://343live.com/upload/11976.jpg" group-title="343LIVE",Sky Sports News
+#EXTINF:-1 tvg-id="11976" tvg-name="Sky Sports News" tvg-logo="https://343live.com/upload/11976.jpg" group-title="กีฬา",Sky Sports News
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11976/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11948" tvg-name="Sky Sports Premier League" tvg-logo="https://343live.com/upload/11948.jpg" group-title="343LIVE",Sky Sports Premier League
+#EXTINF:-1 tvg-id="11948" tvg-name="Sky Sports Premier League" tvg-logo="https://343live.com/upload/11948.jpg" group-title="กีฬา",Sky Sports Premier League
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11948/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11977" tvg-name="Sky Sports Racing" tvg-logo="https://343live.com/upload/11977.jpg" group-title="343LIVE",Sky Sports Racing
+#EXTINF:-1 tvg-id="11977" tvg-name="Sky Sports Racing" tvg-logo="https://343live.com/upload/11977.jpg" group-title="กีฬา",Sky Sports Racing
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11977/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="15787" tvg-name="Sportsnet 360" tvg-logo="https://343live.com/upload/15787.jpg" group-title="343LIVE",Sportsnet 360
+#EXTINF:-1 tvg-id="15787" tvg-name="Sportsnet 360" tvg-logo="https://343live.com/upload/15787.jpg" group-title="กีฬา",Sportsnet 360
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/15787/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="16299" tvg-name="Sportsnet ONE" tvg-logo="https://343live.com/upload/16299.jpg" group-title="343LIVE",Sportsnet ONE
+#EXTINF:-1 tvg-id="16299" tvg-name="Sportsnet ONE" tvg-logo="https://343live.com/upload/16299.jpg" group-title="กีฬา",Sportsnet ONE
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/16299/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="14975" tvg-name="Sportsnet Ontario" tvg-logo="https://343live.com/upload/14975.jpg" group-title="343LIVE",Sportsnet Ontario
+#EXTINF:-1 tvg-id="14975" tvg-name="Sportsnet Ontario" tvg-logo="https://343live.com/upload/14975.jpg" group-title="กีฬา",Sportsnet Ontario
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/14975/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="16302" tvg-name="Sportsnet West" tvg-logo="https://343live.com/upload/16302.jpg" group-title="343LIVE",Sportsnet West
+#EXTINF:-1 tvg-id="16302" tvg-name="Sportsnet West" tvg-logo="https://343live.com/upload/16302.jpg" group-title="กีฬา",Sportsnet West
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/16302/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="16304" tvg-name="Sportsnet World" tvg-logo="https://343live.com/upload/16304.jpg" group-title="343LIVE",Sportsnet World
+#EXTINF:-1 tvg-id="16304" tvg-name="Sportsnet World" tvg-logo="https://343live.com/upload/16304.jpg" group-title="กีฬา",Sportsnet World
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/16304/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="63481" tvg-name="Sport TV 1" tvg-logo="https://343live.com/upload/63481.jpg" group-title="343LIVE",Sport TV 1
+#EXTINF:-1 tvg-id="63481" tvg-name="Sport TV 1" tvg-logo="https://343live.com/upload/63481.jpg" group-title="กีฬา",Sport TV 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/63481/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="63478" tvg-name="Sport TV 2" tvg-logo="https://343live.com/upload/63478.jpg" group-title="343LIVE",Sport TV 2
+#EXTINF:-1 tvg-id="63478" tvg-name="Sport TV 2" tvg-logo="https://343live.com/upload/63478.jpg" group-title="กีฬา",Sport TV 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/63478/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="63475" tvg-name="Sport TV 3" tvg-logo="https://343live.com/upload/63475.jpg" group-title="343LIVE",Sport TV 3
+#EXTINF:-1 tvg-id="63475" tvg-name="Sport TV 3" tvg-logo="https://343live.com/upload/63475.jpg" group-title="กีฬา",Sport TV 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/63475/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="63472" tvg-name="Sport TV 4" tvg-logo="https://343live.com/upload/63472.jpg" group-title="343LIVE",Sport TV 4
+#EXTINF:-1 tvg-id="63472" tvg-name="Sport TV 4" tvg-logo="https://343live.com/upload/63472.jpg" group-title="กีฬา",Sport TV 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/63472/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="63471" tvg-name="Sport TV 5" tvg-logo="https://343live.com/upload/63471.jpg" group-title="343LIVE",Sport TV 5
+#EXTINF:-1 tvg-id="63471" tvg-name="Sport TV 5" tvg-logo="https://343live.com/upload/63471.jpg" group-title="กีฬา",Sport TV 5
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/63471/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2027" tvg-name="SPOTV 1" tvg-logo="https://343live.com/upload/2027.jpg" group-title="343LIVE",SPOTV 1
+#EXTINF:-1 tvg-id="2027" tvg-name="SPOTV 1" tvg-logo="https://343live.com/upload/2027.jpg" group-title="กีฬา",SPOTV 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2027/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2023" tvg-name="SPOTV 2" tvg-logo="https://343live.com/upload/2023.jpg" group-title="343LIVE",SPOTV 2
+#EXTINF:-1 tvg-id="2023" tvg-name="SPOTV 2" tvg-logo="https://343live.com/upload/2023.jpg" group-title="กีฬา",SPOTV 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2023/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="10332" tvg-name="Tennis Channel" tvg-logo="https://343live.com/upload/10332.jpg" group-title="343LIVE",Tennis Channel
+#EXTINF:-1 tvg-id="10332" tvg-name="Tennis Channel" tvg-logo="https://343live.com/upload/10332.jpg" group-title="กีฬา",Tennis Channel
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/10332/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="715" tvg-name="Thainess TV" tvg-logo="https://343live.com/upload/715.jpg" group-title="343LIVE",Thainess TV
+#EXTINF:-1 tvg-id="715" tvg-name="Thainess TV" tvg-logo="https://343live.com/upload/715.jpg" group-title="สารคดี  ",Thainess TV
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/715/playlist.m3u8
 
 
@@ -910,31 +895,31 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="1496" tvg-name="TLC" tvg-logo="https://343live.com/upload/1496.jpg" group-title="343LIVE",TLC
+#EXTINF:-1 tvg-id="1496" tvg-name="TLC" tvg-logo="https://343live.com/upload/1496.jpg" group-title="สารคดี  ",TLC
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1496/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="6345" tvg-name="TNN 16" tvg-logo="https://343live.com/upload/6345.jpg" group-title="343LIVE",TNN 16
+#EXTINF:-1 tvg-id="6345" tvg-name="TNN 16" tvg-logo="https://343live.com/upload/6345.jpg" group-title="ดิจิตอล",TNN 16
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/6345/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11947" tvg-name="TNT Sport 1" tvg-logo="https://343live.com/upload/11947.jpg" group-title="343LIVE",TNT Sport 1
+#EXTINF:-1 tvg-id="11947" tvg-name="TNT Sport 1" tvg-logo="https://343live.com/upload/11947.jpg" group-title="กีฬา  ",TNT Sport 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11947/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11941" tvg-name="TNT Sport 2" tvg-logo="https://343live.com/upload/11941.jpg" group-title="343LIVE",TNT Sport 2
+#EXTINF:-1 tvg-id="11941" tvg-name="TNT Sport 2" tvg-logo="https://343live.com/upload/11941.jpg" group-title="กีฬา  ",TNT Sport 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11941/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11940" tvg-name="TNT Sport 3" tvg-logo="https://343live.com/upload/11940.jpg" group-title="343LIVE",TNT Sport 3
+#EXTINF:-1 tvg-id="11940" tvg-name="TNT Sport 3" tvg-logo="https://343live.com/upload/11940.jpg" group-title="กีฬา  ",TNT Sport 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11940/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="11939" tvg-name="TNT Sport 4" tvg-logo="https://343live.com/upload/11939.jpg" group-title="343LIVE",TNT Sport 4
+#EXTINF:-1 tvg-id="11939" tvg-name="TNT Sport 4" tvg-logo="https://343live.com/upload/11939.jpg" group-title="กีฬา  ",TNT Sport 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11939/playlist.m3u8
 
 
@@ -949,46 +934,46 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="722" tvg-name="True Explore SCI" tvg-logo="https://343live.com/upload/722.jpg" group-title="343LIVE",True Explore SCI
+#EXTINF:-1 tvg-id="722" tvg-name="True Explore SCI" tvg-logo="https://343live.com/upload/722.jpg" group-title="สารคดี ",True Explore SCI
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/722/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="740" tvg-name="True Explore WILD" tvg-logo="https://343live.com/upload/740.jpg" group-title="343LIVE",True Explore WILD
+#EXTINF:-1 tvg-id="740" tvg-name="True Explore WILD" tvg-logo="https://343live.com/upload/740.jpg" group-title="สารคดี ",True Explore WILD
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/740/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="2018" tvg-name="True Premier HD 3" tvg-logo="https://343live.com/upload/2018.jpg" group-title="343LIVE",True Premier HD 3
+#EXTINF:-1 tvg-id="2018" tvg-name="True Premier HD 3" tvg-logo="https://343live.com/upload/2018.jpg" group-title="กีฬา ",True Premier HD 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2018/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2017" tvg-name="True Premier HD 4" tvg-logo="https://343live.com/upload/2017.jpg" group-title="343LIVE",True Premier HD 4
+#EXTINF:-1 tvg-id="2017" tvg-name="True Premier HD 4" tvg-logo="https://343live.com/upload/2017.jpg" group-title="กีฬา ",True Premier HD 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2017/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="2892" tvg-name="True Sport 1" tvg-logo="https://343live.com/upload/2892.jpg" group-title="343LIVE",True Sport 1
+#EXTINF:-1 tvg-id="2892" tvg-name="True Sport 1" tvg-logo="https://343live.com/upload/2892.jpg" group-title="กีฬา ",True Sport 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2892/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2891" tvg-name="True Sport 2" tvg-logo="https://343live.com/upload/2891.jpg" group-title="343LIVE",True Sport 2
+#EXTINF:-1 tvg-id="2891" tvg-name="True Sport 2" tvg-logo="https://343live.com/upload/2891.jpg" group-title="กีฬา ",True Sport 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2891/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2890" tvg-name="True Sport 3" tvg-logo="https://343live.com/upload/2890.jpg" group-title="343LIVE",True Sport 3
+#EXTINF:-1 tvg-id="2890" tvg-name="True Sport 3" tvg-logo="https://343live.com/upload/2890.jpg" group-title="กีฬา ",True Sport 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2890/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2889" tvg-name="True Sport 4" tvg-logo="https://343live.com/upload/2889.jpg" group-title="343LIVE",True Sport 4
+#EXTINF:-1 tvg-id="2889" tvg-name="True Sport 4" tvg-logo="https://343live.com/upload/2889.jpg" group-title="กีฬา ",True Sport 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2889/playlist.m3u8
 
 
@@ -998,37 +983,37 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="2829" tvg-name="True Sport 7" tvg-logo="https://343live.com/upload/2829.jpg" group-title="343LIVE",True Sport 7
+#EXTINF:-1 tvg-id="2829" tvg-name="True Sport 7" tvg-logo="https://343live.com/upload/2829.jpg" group-title="กีฬา ",True Sport 7
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2829/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="2101" tvg-name="True Tennis" tvg-logo="https://343live.com/upload/2101.jpg" group-title="343LIVE",True Tennis
+#EXTINF:-1 tvg-id="2101" tvg-name="True Tennis" tvg-logo="https://343live.com/upload/2101.jpg" group-title="กีฬา ",True Tennis
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/2101/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="11904" tvg-name="TSN 1" tvg-logo="https://343live.com/upload/11904.jpg" group-title="343LIVE",TSN 1
+#EXTINF:-1 tvg-id="11904" tvg-name="TSN 1" tvg-logo="https://343live.com/upload/11904.jpg" group-title="กีฬา ",TSN 1
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11904/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11903" tvg-name="TSN 2" tvg-logo="https://343live.com/upload/11903.jpg" group-title="343LIVE",TSN 2
+#EXTINF:-1 tvg-id="11903" tvg-name="TSN 2" tvg-logo="https://343live.com/upload/11903.jpg" group-title="กีฬา ",TSN 2
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11903/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="11902" tvg-name="TSN 3" tvg-logo="https://343live.com/upload/11902.jpg" group-title="343LIVE",TSN 3
+#EXTINF:-1 tvg-id="11902" tvg-name="TSN 3" tvg-logo="https://343live.com/upload/11902.jpg" group-title="กีฬา ",TSN 3
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11902/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="11901" tvg-name="TSN 4" tvg-logo="https://343live.com/upload/11901.jpg" group-title="343LIVE",TSN 4
+#EXTINF:-1 tvg-id="11901" tvg-name="TSN 4" tvg-logo="https://343live.com/upload/11901.jpg" group-title="กีฬา ",TSN 4
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11901/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="11900" tvg-name="TSN 5" tvg-logo="https://343live.com/upload/11900.jpg" group-title="343LIVE",TSN 5
+#EXTINF:-1 tvg-id="11900" tvg-name="TSN 5" tvg-logo="https://343live.com/upload/11900.jpg" group-title="กีฬา ",TSN 5
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/11900/playlist.m3u8
 
 
@@ -1043,7 +1028,7 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="1498" tvg-name="W-sport" tvg-logo="https://343live.com/upload/1498.jpg" group-title="343LIVE",W-sport
+#EXTINF:-1 tvg-id="1498" tvg-name="W-sport" tvg-logo="https://343live.com/upload/1498.jpg" group-title="กีฬา ",W-sport
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1498/playlist.m3u8
 
 
@@ -1055,35 +1040,34 @@ https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:443
 
 
 
-#EXTINF:-1 tvg-id="10329" tvg-name="WWE Network" tvg-logo="https://343live.com/upload/10329.jpg" group-title="343LIVE",WWE Network
+#EXTINF:-1 tvg-id="10329" tvg-name="WWE Network" tvg-logo="https://343live.com/upload/10329.jpg" group-title="กีฬา ",WWE Network
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/10329/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="716" tvg-name="ของดีประเทศไทย" tvg-logo="https://343live.com/upload/716.jpg" group-title="343LIVE",ของดีประเทศไทย
+#EXTINF:-1 tvg-id="716" tvg-name="ของดีประเทศไทย" tvg-logo="https://343live.com/upload/716.jpg" group-title="สารคดี  ",ของดีประเทศไทย
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/716/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="24" tvg-name="ถิ่นใต้ IPTV" tvg-logo="https://343live.com/upload/24.jpg" group-title="343LIVE",ถิ่นใต้ IPTV
+#EXTINF:-1 tvg-id="24" tvg-name="ถิ่นใต้ IPTV" tvg-logo="https://343live.com/upload/24.jpg" group-title="สารคดี  ",ถิ่นใต้ IPTV
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/24/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="563" tvg-name="สำรวจโลก" tvg-logo="https://343live.com/upload/563.jpg" group-title="343LIVE",สำรวจโลก
+#EXTINF:-1 tvg-id="563" tvg-name="สำรวจโลก" tvg-logo="https://343live.com/upload/563.jpg" group-title="สารคดี  ",สำรวจโลก
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/563/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1243" tvg-name="สุวรรณภูมิทีวี" tvg-logo="https://343live.com/upload/1243.jpg" group-title="343LIVE",สุวรรณภูมิทีวี
+#EXTINF:-1 tvg-id="1243" tvg-name="สุวรรณภูมิทีวี" tvg-logo="https://343live.com/upload/1243.jpg" group-title="ดิจิตอล",สุวรรณภูมิทีวี
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/1243/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="6330" tvg-name="ไทยรัฐ TV HD" tvg-logo="https://343live.com/upload/6330.jpg" group-title="343LIVE",ไทยรัฐ TV HD
+#EXTINF:-1 tvg-id="6330" tvg-name="ไทยรัฐ TV HD" tvg-logo="https://343live.com/upload/6330.jpg" group-title="ดิจิตอล",ไทยรัฐ TV HD
 https://iptv.tawatchai250958.workers.dev/?url=https://live.livedoomovies.com:4433/api/hls/live/6330/playlist.m3u8
-
 
 
 
