@@ -56,10 +56,10 @@ https://cdn1.googlecdnforstreaming.live/live/cbeebies/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/cctv4/playlist.m3u8
 #EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1703833429.png",tvN | Indonesia
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115704&extension=m3u8
+http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=115704&extension=m3u8
 #EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1714100840.png",tvN MOVIES
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tvn-movies/playlist.m3u8
+http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776086.m3u8
 #EXTINF:-1group-title="ดิจิตอล"tvg-logo="https://dookeela.live/uploads/1705503765.png",มังกร
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://iptv.tawatchai250958.workers.dev/?url=http://tiea1.3bbddns.com:28470/0.m3u8
