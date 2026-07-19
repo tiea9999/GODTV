@@ -54,10 +54,6 @@ https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming
 #EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/cctv4/playlist.m3u8
-
-
-
-
 #EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664802455.png",truesports 1
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8
