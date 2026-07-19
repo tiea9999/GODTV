@@ -54,16 +54,16 @@ https://cdn1.googlecdnforstreaming.live/live/cbeebies/playlist.m3u8
 #EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/cctv4/playlist.m3u8
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1703833429.png",tvN | Indonesia
+#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1703833429.png",tvN | Indonesia
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tvn-indonesia/playlist.m3u8
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1714100840.png",tvN MOVIES
+http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115704&extension=m3u8
+#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1714100840.png",tvN MOVIES
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/tvn-movies/playlist.m3u8
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1705503765.png",มังกร
+#EXTINF:-1group-title="ดิจิตอล"tvg-logo="https://dookeela.live/uploads/1705503765.png",มังกร
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/mangorn/playlist.m3u8
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono Plus
+#EXTINF:-1group-title="ดิจิตอล"tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono Plus
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/mono29plus/playlist.m3u8
 #EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664802455.png",truesports 1
