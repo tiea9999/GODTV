@@ -5,7 +5,7 @@
 https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
 #EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1664574997.png",5HD
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/ch5hd/playlist.m3u8
+https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/ch5hd/playlist.m3u8&referer=https://warpdooball.net
 #EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1688059473.png",7HD
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://iptv.tawatchai250958.workers.dev/?url=https://cdn1.googlecdnforstreaming.live/live/ch7hd/playlist.m3u8
