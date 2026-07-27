@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://lookontv.net:2095/play/live.php?mac=10:27:BE:2e:3d:e9&stream=115704&extension=m3u8
+https://dov.streaming-api.xyz/kicksballcom/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDI2IDM6MTg6NDkgQU0maGFzaF92YWx1ZT1pUTZHYUEwd2hkVW5BMEM1VS9DNU9RPT0mdmFsaWRtaW51dGVzPTIw
