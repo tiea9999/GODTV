@@ -66,6 +66,11 @@ https://movieproxy.tawatchai250958.workers.dev/watch?id=axn
 https://movieproxy.tawatchai250958.workers.dev/watch?id=warner
 #EXTINF:-1 tvg-id="channel22" tvg-name="HBO HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
 https://iptv.tawatchai250958.workers.dev/?url=http://tiea1.3bbddns.com:28470/0.m3u8
+
+#EXTINF:-1 tvg-id="channel22" tvg-name="HBO HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
+https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo
+
+
 #EXTINF:-1 tvg-id="channel24" tvg-name="HBO HITS HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-hit.png" group-title="ภาพยนต์",HBO HITS HD
 https://iptv.tawatchai250958.workers.dev/?url=http://tiea1.3bbddns.com:28470/4.m3u8
 
@@ -76,7 +81,7 @@ https://6395online.com:8443/live/Iptv6988/0905692638/135.m3u8
 https://6395online.com:8443/live/Iptv6988/0905692638/136.m3u8
 
 #EXTINF:-1 tvg-id="channel26" tvg-name="CineMax" tvg-logo="https://6395online.com:8443/logotv/movie/cinemax(2).png" group-title="ภาพยนต์",CineMax
-https://6395online.com:8443/live/Iptv6988/0905692638/138.m3u8
+https://movieproxy.tawatchai250958.workers.dev/watch?id=cinemax
 
 #EXTINF:-1 tvg-id="ROCK ENTERTAINMENT.th" tvg-name="BLUEANT ENTERTAINMENT " tvg-logo="https://6395online.com:8443/logotv/movie/rocken.jpg" group-title="ภาพยนต์",BLUEANT ENTERTAINMENT 
 https://6395online.com:8443/live/Iptv6988/0905692638/139.m3u8
