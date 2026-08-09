@@ -42,7 +42,6 @@
           "referer": "https://warpdooball.net/",
           "referrer": "https://warpdooball.net/"
         },
-
         {
           "name": "CH8",
           "image": "https://dookeela.live/uploads/1704117313.png",
@@ -63,7 +62,7 @@
           "url": "https://cdn1.googlecdnforstreaming.live/live/thairathtv/playlist.m3u8",
           "referer": "https://warpdooball.net/",
           "referrer": "https://warpdooball.net/"
-        }
+        },
         {
           "name": "AmarinTV HD",
           "image": "https://dookeela.live/uploads/1704117706.png",
@@ -151,7 +150,6 @@
           "image": "https://6395online.com:8443/logotv/movie/hd-axn.png",
           "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=axn"
         },
-
         {
           "name": "Warner",
           "image": "https://6395online.com:8443/logotv/movie/hd-warnertv.png",
@@ -358,7 +356,6 @@
           "referer": "https://warpdooball.net/",
           "referrer": "https://warpdooball.net/"
         },
-
         {
           "name": "TPF3",
           "image": "https://dookeela.live/uploads/1664499681.png",
@@ -380,7 +377,6 @@
           "referer": "https://warpdooball.net/",
           "referrer": "https://warpdooball.net/"
         }
-
       ],
       "groups": []
     }
