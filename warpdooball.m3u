@@ -1,62 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1685812254.png",3HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1685812254.png",3HD
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1664574997.png",5HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1664574997.png",5HD
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch5hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1688059473.png",7HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1688059473.png",7HD
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch7hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1704117313.png",CH8
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1704117313.png",CH8
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fmcothd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1671966260.png",MCOT HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1671966260.png",MCOT HD
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1703787713.png",MONO29 
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1703787713.png",MONO29 
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fmono29%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1686800227.png",THAIRATH
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1686800227.png",THAIRATH
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fthairathtv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1704117706.png",AmarinTV HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1704117706.png",AmarinTV HD
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Famarintv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1683394005.png",One31
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1683394005.png",One31
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fone31%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1664499074.png",PPTV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1664499074.png",PPTV
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fpptv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896683.png",Workpoint TV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896683.png",Workpoint TV
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fworkpointtv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896937.png",GMM25
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896937.png",GMM25
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fgmm25%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895790.png",NBT
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895790.png",NBT
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fnbt2hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 #EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://6395online.com:8443/logotv/freetv/sd-24u.png",true4u
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftrue4u%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896561.png",Nation
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896561.png",Nation
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fnationtv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895931.png",TPBS
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895931.png",TPBS
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fthaipbs%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896083.png",ALTV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896083.png",ALTV
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Faltv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fcctv4%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 
-#EXTINF:-1group-title="ดิจิตอล"tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono Plus
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono Plus
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 #EXTINF:-1 tvg-id="" tvg-name="Asian More" tvg-logo="https://6395online.com:8443/logotv/movie/hd-asianmore.png" group-title="ภาพยนต์",Asian More
 https://movieproxy.tawatchai250958.workers.dev/watch?id=asianmore
@@ -110,62 +91,43 @@ https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://6395online.com:8443/logotv/movie/ccm.png" group-title="ภาพยนต์",CCM
 https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm
 
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664802455.png",truesports 1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664802455.png",truesports 1
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp1%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664499966.png",truesports 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664499966.png",truesports 2
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp2%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664802480.png",truesports 3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664802480.png",truesports 3
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp3%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664847910.png",truesports 5
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664847910.png",truesports 5
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp5%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664847921.png",truesports 7
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664847921.png",truesports 7
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftsp7%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 #EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1664499681.png",TPF3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftpf3%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 #EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1664499692.png",TPF4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftpf4%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 #EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1664499700.png",TPF5
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Ftpf5%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664529562.png",SPOTV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664529562.png",SPOTV
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664529575.png",SPOTV 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664529575.png",SPOTV 2
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664500365.png",บีอิน 1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664500365.png",บีอิน 1
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1690843424.png",บีอิน 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1690843424.png",บีอิน 2
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1663980670.png",บีอิน 3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1663980670.png",บีอิน 3
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1692816640.png",บีอิน 4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1692816640.png",บีอิน 4
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1693290376.png",บีอิน 5
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1693290376.png",บีอิน 5
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1694719513.png",บีอิน 6
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1694719513.png",บีอิน 6
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1694719622.png",บีอิน 7
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1694719622.png",บีอิน 7
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1724241278.png",บีอิน 8
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1724241278.png",บีอิน 8
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
-#EXTINF:-1group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1724241287.png",บีอิน 9
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1724241287.png",บีอิน 9
 https://iptv.tawatchai250958.workers.dev/?url=https%3A%2F%2Fcdn1.googlecdnforstreaming.live%2Flive%2Fch3hd%2Fplaylist.m3u8&referer=https%3A%2F%2Fwarpdooball.net%2F
 
 
