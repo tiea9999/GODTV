@@ -1,208 +1,389 @@
-#EXTM3U
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1685812254.png",3HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
+{
+  "name": "TIEA แยกตามหมวด",
+  "author": "TIEA Studio",
+  "info": "Wiseplay W3U F8.5Y — Exact TV88 / Movie122 from F8.5X",
+  "groups": [
+    {
+      "name": "ทีวีออนไลน์",
+      "image": "https://dl.dropboxusercontent.com/scl/fi/k77ovxc35qm0girjo43mt/logo.png?rlkey=1x7w8nk1fl6gptnt9jiaugt54",
+      "stations": [
+        {
+          "name": "3HD",
+          "image": "https://dookeela.live/uploads/1685812254.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "5HD",
+          "image": "https://dookeela.live/uploads/1664574997.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/ch5hd/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "7HD",
+          "image": "https://dookeela.live/uploads/1688059473.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/ch7hd/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "MONO29",
+          "image": "https://dookeela.live/uploads/1703787713.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/mono29/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "PPTV",
+          "image": "https://dookeela.live/uploads/1664499074.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/pptv/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
 
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1664574997.png",5HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch5hd/playlist.m3u8
+        {
+          "name": "CH8",
+          "image": "https://dookeela.live/uploads/1704117313.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/mcothd/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "MCOT HD",
+          "image": "https://dookeela.live/uploads/1671966260.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "THAIRATH",
+          "image": "https://dookeela.live/uploads/1686800227.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/thairathtv/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        }
+        {
+          "name": "AmarinTV HD",
+          "image": "https://dookeela.live/uploads/1704117706.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/amarintv/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "One31",
+          "image": "https://dookeela.live/uploads/1683394005.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/one31/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "Workpoint TV",
+          "image": "https://dookeela.live/uploads/1725896683.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/workpointtv/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "GMM25",
+          "image": "https://dookeela.live/uploads/1725896937.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/gmm25/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "NBT",
+          "image": "https://dookeela.live/uploads/1725895790.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/nbt2hd/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "true4u",
+          "image": "https://6395online.com:8443/logotv/freetv/sd-24u.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/true4u/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "Nation",
+          "image": "https://dookeela.live/uploads/1725896561.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/nationtv/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "TPBS",
+          "image": "https://dookeela.live/uploads/1725895931.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/thaipbs/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "ALTV",
+          "image": "https://dookeela.live/uploads/1725896083.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/altv/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "CCTV4",
+          "image": "https://dookeela.live/uploads/1705785371.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/cctv4/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "Mono Plus",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/mono29plus/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "Asian More",
+          "image": "https://6395online.com:8443/logotv/movie/hd-asianmore.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=asianmore"
+        },
+        {
+          "name": "AXN",
+          "image": "https://6395online.com:8443/logotv/movie/hd-axn.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=axn"
+        },
 
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1688059473.png",7HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch7hd/playlist.m3u8
+        {
+          "name": "Warner",
+          "image": "https://6395online.com:8443/logotv/movie/hd-warnertv.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=warner"
+        },
+        {
+          "name": "BLUEANT ENTERTAINMENT",
+          "image": "https://6395online.com:8443/logotv/movie/rocken.jpg",
+          "url": "https://6395online.com:8443/live/Iptv6988/0905692638/139.m3u8",
+          "referer": "http://gold.6395online.com:8080/",
+          "referrer": "http://gold.6395online.com:8080/"
+        },
+        {
+          "name": "BLUEANT EXTREME",
+          "image": "https://6395online.com:8443/logotv/movie/expreme.jpg",
+          "url": "https://6395online.com:8443/live/Iptv6988/0905692638/140.m3u8",
+          "referer": "http://gold.6395online.com:8080/",
+          "referrer": "http://gold.6395online.com:8080/"
+        },
+        {
+          "name": "HBO HD",
+          "image": "https://6395online.com:8443/logotv/movie/hd-hbo-thai.png",
+          "url": "http://tiea1.3bbddns.com:28470/0.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "HBO HD",
+          "image": "https://6395online.com:8443/logotv/movie/hd-hbo-thai.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo"
+        },
+        {
+          "name": "HBO HITS HD",
+          "image": "https://6395online.com:8443/logotv/movie/hd-hbo-hit.png",
+          "url": "http://tiea1.3bbddns.com:28470/4.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "HBO Signature",
+          "image": "https://6395online.com:8443/logotv/movie/hbosignature.png",
+          "url": "https://6395online.com:8443/live/Iptv6988/0905692638/135.m3u8",
+          "referer": "http://gold.6395online.com:8080/",
+          "referrer": "http://gold.6395online.com:8080/"
+        },
+        {
+          "name": "HBO Family HD",
+          "image": "https://6395online.com:8443/logotv/movie/hbofamily.png",
+          "url": "https://6395online.com:8443/live/Iptv6988/0905692638/136.m3u8",
+          "referer": "http://gold.6395online.com:8080/",
+          "referrer": "http://gold.6395online.com:8080/"
+        },
+        {
+          "name": "CineMax",
+          "image": "https://6395online.com:8443/logotv/movie/cinemax(2).png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=cinemax"
+        },
+        {
+          "name": "TRUE Thai Film",
+          "image": "https://6395online.com:8443/logotv/movie/sd-thaifilm.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truethaifilm"
+        },
+        {
+          "name": "True Film HD",
+          "image": "https://6395online.com:8443/logotv/movie/hd-tfilm.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd"
+        },
+        {
+          "name": "True Film HD2",
+          "image": "https://6395online.com:8443/logotv/movie/hd-tfilm2.png",
+          "url": "https://6395online.com:8443/live/Iptv6988/0905692638/143.m3u8",
+          "referer": "http://gold.6395online.com:8080/",
+          "referrer": "http://gold.6395online.com:8080/"
+        },
+        {
+          "name": "True Series",
+          "image": "https://6395online.com:8443/logotv/movie/sd-series.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=trueseries"
+        },
+        {
+          "name": "True Film Asia",
+          "image": "https://6395online.com:8443/logotv/movie/filmasia.jpg",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmasia"
+        },
+        {
+          "name": "True Movie Hits",
+          "image": "https://6395online.com:8443/logotv/movie/moviehits.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits"
+        },
+        {
+          "name": "CCM",
+          "image": "https://6395online.com:8443/logotv/movie/ccm.png",
+          "url": "https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm"
+        },
+        {
+          "name": "truesports 1",
+          "image": "https://dookeela.live/uploads/1664802455.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "truesports 2",
+          "image": "https://dookeela.live/uploads/1664499966.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "truesports 3",
+          "image": "https://dookeela.live/uploads/1664802480.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "truesports 5",
+          "image": "https://dookeela.live/uploads/1664847910.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp5/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "truesports 7",
+          "image": "https://dookeela.live/uploads/1664847921.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "SPOTV",
+          "image": "https://dookeela.live/uploads/1664529562.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/spotv/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "SPOTV 2",
+          "image": "https://dookeela.live/uploads/1664529575.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/spotv2/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 1",
+          "image": "https://dookeela.live/uploads/1664500365.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 2",
+          "image": "https://dookeela.live/uploads/1690843424.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 3",
+          "image": "https://dookeela.live/uploads/1663980670.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 4",
+          "image": "https://dookeela.live/uploads/1692816640.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein4/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 5",
+          "image": "https://dookeela.live/uploads/1693290376.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein5/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 6",
+          "image": "https://dookeela.live/uploads/1694719513.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein6/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 7",
+          "image": "https://dookeela.live/uploads/1694719622.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein7/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 8",
+          "image": "https://dookeela.live/uploads/1724241278.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein8/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "บีอิน 9",
+          "image": "https://dookeela.live/uploads/1724241287.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/bein9/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
 
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1704117313.png",CH8
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/mcothd/playlist.m3u8
+        {
+          "name": "TPF3",
+          "image": "https://dookeela.live/uploads/1664499681.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tpf3/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "TPF4",
+          "image": "https://dookeela.live/uploads/1664499692.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tpf4/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        },
+        {
+          "name": "TPF5",
+          "image": "https://dookeela.live/uploads/1664499700.png",
+          "url": "https://cdn1.googlecdnforstreaming.live/live/tpf5/playlist.m3u8",
+          "referer": "https://warpdooball.net/",
+          "referrer": "https://warpdooball.net/"
+        }
 
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1671966260.png",MCOT HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1703787713.png",MONO29
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/mono29/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1686800227.png",THAIRATH
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/thairathtv/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1704117706.png",AmarinTV HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/amarintv/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1683394005.png",One31
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/one31/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1664499074.png",PPTV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/pptv/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896683.png",Workpoint TV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/workpointtv/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896937.png",GMM25
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/gmm25/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895790.png",NBT
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/nbt2hd/playlist.m3u8
-
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://6395online.com:8443/logotv/freetv/sd-24u.png",true4u
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/true4u/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896561.png",Nation
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/nationtv/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895931.png",TPBS
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/thaipbs/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896083.png",ALTV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/altv/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/cctv4/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono Plus
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Asian More" tvg-logo="https://6395online.com:8443/logotv/movie/hd-asianmore.png" group-title="ภาพยนต์",Asian More
-https://movieproxy.tawatchai250958.workers.dev/watch?id=asianmore
-
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://6395online.com:8443/logotv/movie/hd-axn.png" group-title="ภาพยนต์",AXN
-https://movieproxy.tawatchai250958.workers.dev/watch?id=axn
-
-#EXTINF:-1 tvg-id="channel28" tvg-name="Warner" tvg-logo="https://6395online.com:8443/logotv/movie/hd-warnertv.png" group-title="ภาพยนต์",Warner
-https://movieproxy.tawatchai250958.workers.dev/watch?id=warner
-
-#EXTINF:-1 tvg-id="channel22" tvg-name="HBO HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-http://tiea1.3bbddns.com:28470/0.m3u8
-
-#EXTINF:-1 tvg-id="channel22" tvg-name="HBO HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
-https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo
-
-#EXTINF:-1 tvg-id="channel24" tvg-name="HBO HITS HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-hbo-hit.png" group-title="ภาพยนต์",HBO HITS HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-http://tiea1.3bbddns.com:28470/4.m3u8
-
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://6395online.com:8443/logotv/movie/hbosignature.png" group-title="ภาพยนต์",HBO Signature
-https://6395online.com:8443/live/Iptv6988/0905692638/135.m3u8
-
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://6395online.com:8443/logotv/movie/hbofamily.png" group-title="ภาพยนต์",HBO Family HD
-https://6395online.com:8443/live/Iptv6988/0905692638/136.m3u8
-
-#EXTINF:-1 tvg-id="channel26" tvg-name="CineMax" tvg-logo="https://6395online.com:8443/logotv/movie/cinemax(2).png" group-title="ภาพยนต์",CineMax
-https://movieproxy.tawatchai250958.workers.dev/watch?id=cinemax
-
-#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT.th" tvg-name="BLUEANT ENTERTAINMENT " tvg-logo="https://6395online.com:8443/logotv/movie/rocken.jpg" group-title="ภาพยนต์",BLUEANT ENTERTAINMENT
-https://6395online.com:8443/live/Iptv6988/0905692638/139.m3u8
-
-#EXTINF:-1 tvg-id="ROCK Action.th" tvg-name="BLUEANT EXTREME" tvg-logo="https://6395online.com:8443/logotv/movie/expreme.jpg" group-title="ภาพยนต์",BLUEANT EXTREME
-https://6395online.com:8443/live/Iptv6988/0905692638/140.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TRUE Thai Film " tvg-logo="https://6395online.com:8443/logotv/movie/sd-thaifilm.png" group-title="ภาพยนต์",TRUE Thai Film
-https://movieproxy.tawatchai250958.workers.dev/watch?id=truethaifilm
-
-#EXTINF:-1 tvg-id="" tvg-name="True Film HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-tfilm.png" group-title="ภาพยนต์",True Film HD
-https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd
-
-#EXTINF:-1 tvg-id="" tvg-name="True Film HD2" tvg-logo="https://6395online.com:8443/logotv/movie/hd-tfilm2.png" group-title="ภาพยนต์",True Film HD2
-https://6395online.com:8443/live/Iptv6988/0905692638/143.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="True Series" tvg-logo="https://6395online.com:8443/logotv/movie/sd-series.png" group-title="ภาพยนต์",True Series
-https://movieproxy.tawatchai250958.workers.dev/watch?id=trueseries
-
-#EXTINF:-1 tvg-id="" tvg-name="True Film Asia" tvg-logo="https://6395online.com:8443/logotv/movie/filmasia.jpg" group-title="ภาพยนต์",True Film Asia
-https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmasia
-
-#EXTINF:-1 tvg-id="" tvg-name="True Movie Hits" tvg-logo="https://6395online.com:8443/logotv/movie/moviehits.png" group-title="ภาพยนต์",True Movie Hits
-https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits
-
-#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://6395online.com:8443/logotv/movie/ccm.png" group-title="ภาพยนต์",CCM
-https://movieproxy.tawatchai250958.workers.dev/watch?id=ccm
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664802455.png",truesports 1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp1/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664499966.png",truesports 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp2/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664802480.png",truesports 3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp3/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664847910.png",truesports 5
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp5/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664847921.png",truesports 7
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
-
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1664499681.png",TPF3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf3/playlist.m3u8
-
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1664499692.png",TPF4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf4/playlist.m3u8
-
-#EXTINF:-1 group-title="warpdooball.net" tvg-logo="https://dookeela.live/uploads/1664499700.png",TPF5
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf5/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664529562.png",SPOTV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664529575.png",SPOTV 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1664500365.png",บีอิน 1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1690843424.png",บีอิน 2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1663980670.png",บีอิน 3
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1692816640.png",บีอิน 4
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1693290376.png",บีอิน 5
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1694719513.png",บีอิน 6
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1694719622.png",บีอิน 7
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1724241278.png",บีอิน 8
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา" tvg-logo="https://dookeela.live/uploads/1724241287.png",บีอิน 9
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
+      ],
+      "groups": []
+    }
+  ],
+  "stations": []
+}
