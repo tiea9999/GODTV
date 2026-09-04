@@ -8,11 +8,13 @@ https://cdn1.googlecdnforstreaming.live/live/ch3hd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/ch5hd/playlist.m3u8
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1688059473.png",7HD
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch7hd/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1704117313.png",CH8
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/ch8/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1671966260.png",MCOT HD
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/mcothd/playlist.m3u8
@@ -32,8 +34,9 @@ https://cdn1.googlecdnforstreaming.live/live/one31/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/pptv/playlist.m3u8
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896683.png",Workpoint TV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/workpointtv/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896937.png",GMM25
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/gmm25/chunks.m3u8
@@ -42,31 +45,19 @@ https://cdn1.googlecdnforstreaming.live/live/gmm25/chunks.m3u8
 https://cdn1.googlecdnforstreaming.live/live/true4u/chunks.m3u8
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895790.png",NBT
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/nbt2hd/chunks.m3u8
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w884800294_b3128000.m3u8
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896561.png",Nation
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/nationtv/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895931.png",TPBS
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/thaipbs/chunks.m3u8
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896083.png",ALTV
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/altv4/chunks.m3u8
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1709573298.png",CBeebies
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/cbeebies/playlist.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/cctv4/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1703833429.png",tvN | Indonesia
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tvn-indonesia/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1714100840.png",tvN MOVIES
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tvn-movies/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1705503765.png",มังกร
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/mangorn/playlist.m3u8
+
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono Plus
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/mono29plus/playlist.m3u8
