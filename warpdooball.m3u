@@ -39,10 +39,10 @@ https://cdn1.googlecdnforstreaming.live/live/pptv/playlist.m3u8
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725896937.png",GMM25
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/gmm25/chunks.m3u8
+https://live-us1.thaimomo.com/live-as/chgmmchannel-3/chunklist_w2068377954.m3u8
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://6395online.com:8443/logotv/freetv/sd-24u.png",true4u
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/true4u/chunks.m3u8
+https://live-us1.thaimomo.com/live-as/chTrue4u-2/chunklist_w249050767.m3u8
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895790.png",NBT
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w884800294_b3128000.m3u8
@@ -52,22 +52,13 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chun
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1725895931.png",TPBS
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/cctv4/playlist.m3u8
-
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono Plus
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/mono29plus/playlist.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="ดิจิตอล",TV Muslim Thailand
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9vxti4.png" group-title="ดิจิตอล",Dopa Channel
